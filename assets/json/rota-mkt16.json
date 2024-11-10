@@ -1,0 +1,425 @@
+{
+ "id": "rota-mkt16",
+ "nome": "ROTA BURGUER",
+ "category": "Lanches e Burger",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas//logo/ROTA_BURGUER-0cf44c8f47cd6148e98f33cfb630f7af_n.jpg",
+ "products": [
+  {
+   "name": "HOT DOG SIMPLES + REFRI",
+   "category": "PROMOÇÃO",
+   "desc": "Pão, salsicha, molho de tomate, maionese, ketchup, mostarda, milho, ervilha e batata palha + REFRI",
+   "price": 26,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_SIMPLES_REFRI-f65ab68c3421f7cdf5578437e4d0d753_s.jfif"
+  },
+  {
+   "name": "X SALADA + REFRI",
+   "category": "PROMOÇÃO",
+   "desc": "Pão, maionese, alface, tomate, hambúrguer, presunto e queijo + Refri",
+   "price": 28,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_SALADA_REFRI-176bfc8ec055bde1d868863f020c5df5_s.jfif"
+  },
+  {
+   "name": "TOSTADO + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão de Xis, Maionese da casa, Ovo, Presunto, Queijo.",
+   "price": 24,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/TOSTADO_REFRI-39210267d3064f417460c78d4376f4da_s.jpg"
+  },
+  {
+   "name": "COMBO ROTA KIDS + SUCO + BRINDE SURPRESA",
+   "category": "COMBOS",
+   "desc": "Pão com gergelim, hambúrguer, maionese, ketchup e queijo + Suco Laranja ou Uva + BRINDE SURPRESA",
+   "price": 26,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/COMBO_ROTA_KIDS-bc6a36b5cb968658770c4663c72627a4_s.jfif"
+  },
+  {
+   "name": "HOT DOG DUPLO + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão, 2 salsichas, molho de tomate, maionese, ketchup, mostarda, milho, ervilha e batata palha + REFRI",
+   "price": 30,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_DUPLO_REFRI-708da4df7e713289bff4cc4f2e909ea7_s.jpg"
+  },
+  {
+   "name": "Xis Egg Rota + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão de xis, Hambúrguer 100% bovino, Maionese da casa, ovo, Presunto, Queijo, Alface, Tomate + REFRI",
+   "price": 32,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/Xis_Egg_Rota_REFRI-04ff1155d9c8fadb4472dd47c1d52f85_s.jpg"
+  },
+  {
+   "name": "HOT DOG FRANGO + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão , Frango, molho caseiro, maionese, ketthup, mostarda, milho, ervilha, batata palha + REFRI",
+   "price": 36,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_FRANGO_REFRI-c0b4149b387bbf645601e0353410b1d6_s.jpg"
+  },
+  {
+   "name": "COMBO X FRANGO + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão, maionese, alface, tomate, ovo, frango, milho, ervilha e queijo + REFRI",
+   "price": 36,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_FRANGO_REFRI-f98176fe5aee4dc23c1349c60b9ea552_s.jpg"
+  },
+  {
+   "name": "HOT DOG DE CALABRESA + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão , salsicha, calabresa, molho caseiro, maionese, ketchup, mostarda, milho, ervilha, batata palha + REFRI",
+   "price": 38,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_DE_CALABRESA_REFRI-08afb9cee0c86d27cfaa05e5974cc93e_s.jpg"
+  },
+  {
+   "name": "X CASA + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão, maionese, alface, tomate, hambúrguer, presunto e queijo + Refri",
+   "price": 38,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_CASA_REFRI-243b3ef06828b81f5ad6b71e58bc4e7c_s.jfif"
+  },
+  {
+   "name": "HOT DOG DUPLO C/ BACON + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão, 2 salsichas, molho de tomate, maionese, ketchup, mostarda, milho, ervilha, bacon e batata palha + REFRI",
+   "price": 40,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_DUPLO_C_BACON_REFRI-57b64c53e386e52c99f26322ec31b11d_s.jpg"
+  },
+  {
+   "name": "HOT DOG BACON + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão de hot dog, molho de tomate, salsicha, bacon, maionese da casa, milho, ervilha, ketchup, mostarda, batata palha.",
+   "price": 40,
+   "store": "rota-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "XIS COSTELA + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão de Xis, Maionese da Casa, Hambúrguer de Costela, Queijo,  Ovo, Molho Barbecue, Alface, Tomate + REFRI",
+   "price": 48,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_COSTELA_REFRI-d08e9200cb6cb7524585dd8c62f8a18b_s.jpg"
+  },
+  {
+   "name": "X BACON + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão, maionese, alface, tomate, hamburgueres, queijo, ovo, milho, ervilha e bacon + REFRI",
+   "price": 50,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_BACON_REFRI-1619002b0aaf4eb5615510d5c375d2c6_s.jfif"
+  },
+  {
+   "name": "X DUPLO BACON + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão, maionese, alface, tomate, 2 hamburgueres, presunto, queijo, ovo, milho, ervilha, batata palha e duplo bacon + REFRI",
+   "price": 58,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_DUPLO_BACON_REFRI-b63709c2ac364d4c4cfc3eee88d59b90_s.jpg"
+  },
+  {
+   "name": "XIS TUDO ROTA + REFRI",
+   "category": "COMBOS",
+   "desc": "Pão de xis, hambúrguer, frango, calabresa, bacon, ovo, presunto, queijo cheddar, maionese Grill, Alface, Tomate, milho, ervilha, molho barbecue, batata palha.",
+   "price": 63,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_TUDO_ROTA_REFRI-4e5b74916029aa13a1463c477c04e408_s.jpg"
+  },
+  {
+   "name": "XIS CORAÇÃO + REFRI",
+   "category": "COMBOS ESPECIAIS",
+   "desc": "Pão de Xis, Maionese da casa, Coração de Frango, Queijo, Ovo, Alface, Tomate + REFRI",
+   "price": 42,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_CORACAO_REFRI-429a8304db45eea8791ce1303f850156_s.jpg"
+  },
+  {
+   "name": "Rota Cheddar Duplo + REFRI",
+   "category": "COMBOS ESPECIAIS",
+   "desc": "Pão com Gergelim, 2 Hambúrguer 100% Bovino, Molho Cheddar, Cebola caramelizada + REFRI",
+   "price": 46,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/Rota_Cheddar_Duplo_REFRI-bb25c5ececa4c82fe74dfe40c7b5ac4c_s.jpg"
+  },
+  {
+   "name": "Rota Hambúrguer BBQ (Bacon, Barbecue, Queijo) + REFRI",
+   "category": "COMBOS ESPECIAIS",
+   "desc": "Pão com Gergelim, Maionese da casa, Baconese, Alface, Tomate, Hambúrguer 100% bovino, Bacon,  Molho Cheddar, Barbecue + REFRI",
+   "price": 50,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/Rota_Hamburguer_BBQ_Bacon_Barbecue_Queijo_REFRI-9c926273776b88858fa08c23377bc8b4_s.jpg"
+  },
+  {
+   "name": "XIS PICANHA + REFRI",
+   "category": "COMBOS ESPECIAIS",
+   "desc": "Pão de Xis, Maionese da casa, Hambúrguer de Picanha, Queijo,  Ovo, Alface, Tomate + REFRI",
+   "price": 52,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_PICANHA_REFRI-f216565b9dc7a4ae1dab129ea28d799f_s.jpg"
+  },
+  {
+   "name": "TOSTADO",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de Xis, Maionese da casa, Ovo, Presunto, Queijo.",
+   "price": 16,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/TOSTADO-e69711c4365c9fa7a8b37143534a1793_s.jpg"
+  },
+  {
+   "name": "TORRADA AMERICANA",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão, maionese, alface, tomate, ervilha, milho, ovo, batata palha",
+   "price": 20,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/TORRADA_AMERICANA-92c5b943b735db241a53c77b4d499bf8_s.jfif"
+  },
+  {
+   "name": "XIS SALADA",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de Xis, Maionese da casa, Presunto, Queijo, Alface, Tomate.",
+   "price": 24,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_SALADA-14742dfb44f9c3af8bc35d693ad6e278_s.jpg"
+  },
+  {
+   "name": "Xis Egg Rota",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de xis, Hambúrguer 100% bovino, Maionese da casa, ovo, Presunto, Queijo, Alface, Tomate.",
+   "price": 26,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/Xis_Egg_Rota-72767c181dc6b2ff760f6fedd064025e_s.jpg"
+  },
+  {
+   "name": "XIS DA CASA",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de Xis, Maionese da casa, Milho, Ervilha, Hambúrguer 100% Bovino, Ovo, Presunto, Queijo, Alface Fresquinha, Tomate, Batata Palha.",
+   "price": 32,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_DA_CASA-a770bcb785f94953f42ddf1bb8e79cdb_s.jpeg"
+  },
+  {
+   "name": "HOT DOG BACON",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de hot dog, molho de tomate, salsicha, bacon, maionese da casa, milho, ervilha, ketchup, mostarda, batata palha.",
+   "price": 35,
+   "store": "rota-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "XIS COSTELA",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de Xis, Maionese da Casa, Hambúrguer de Costela, Queijo,  Ovo, Molho Barbecue, Alface, Tomate",
+   "price": 42,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_COSTELA-ebaa9d3e41181fd276edc5ea4820a6b2_s.jpg"
+  },
+  {
+   "name": "XIS BACON",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de Xis, Maionese da casa, Hambúrguer 100% Bovino, Ovo, Presunto, Queijo, Bacon, Alface, Tomate.",
+   "price": 44,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_DUPLO_Duplicado-5f47b491674c5772f36d036f57e5a0de_s.jfif"
+  },
+  {
+   "name": "XIS PICANHA",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de Xis, Maionese da casa, Hambúrguer de Picanha, Queijo,  Ovo, Alface, Tomate.",
+   "price": 46,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_PICANHA-efa576438b353f76e483222c9cd07fcb_s.jpg"
+  },
+  {
+   "name": "XIS DUPLO BACON",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de Xis, Maionese da casa, 2 Hambúrguer 100% Bovino, Ovo, Presunto, Bacon, Alface, Tomate.",
+   "price": 52,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/X_DUPLO-3bdb025bfa754b6ef3582c9ef0daa476_s.jpg"
+  },
+  {
+   "name": "XIS TUDO ROTA",
+   "category": "HAMBÚRGUER TRADICIONAL",
+   "desc": "Pão de xis, hambúrguer, frango, calabresa, bacon, ovo, presunto, queijo cheddar, maionese Grill, Alface, Tomate, milho, ervilha, molho barbecue, batata palha.",
+   "price": 56,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_TUDO_ROTA-231d6647a9c5fa86d18fd3969d4989d0_s.jpg"
+  },
+  {
+   "name": "Rota Cheddar Duplo",
+   "category": "HAMBÚRGUER ESPECIAL",
+   "desc": "Pão com Gergelim, 2 Hambúrguer 100% Bovino, Molho Cheddar, Cebola caramelizada.",
+   "price": 40,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/Rota_Cheddar_Duplo-49dcbb2563682159ec300a85c9b9f92a_s.jpg"
+  },
+  {
+   "name": "ROTA STACKER DUPLO BACON",
+   "category": "HAMBÚRGUER ESPECIAL",
+   "desc": "Pão com Gergelim, 2 Hamburguer 100% Bovino, Molho Especial, Bacon.",
+   "price": 42,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/ROTA_STACKER_DUPLO_BACON-dd2bdfbfc9d48c83d41a9845ffb5d369_s.jpg"
+  },
+  {
+   "name": "Rota Hambúrguer BBQ (Bacon, Barbecue, Queijo) ",
+   "category": "HAMBÚRGUER ESPECIAL",
+   "desc": "Pão com Gergelim, Maionese da casa, Baconese, Alface, Tomate, Hambúrguer 100% bovino, Bacon,  Molho Cheddar, Barbecue.",
+   "price": 45,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/Rota_Hamburguer_BBQ_Bacon_Barbecue_Queijo-01ae49ed5e351c4c7e1cd998bfc10818_s.jpg"
+  },
+  {
+   "name": "ROTA KIDS",
+   "category": "ROTA BURGUER KIDS",
+   "desc": "Pão com gergelim, hambúrguer, maionese, ketchup e queijo",
+   "price": 20,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/ROTA_KIDS-98a9300d4c5231c16edc25f89f2bbdf3_s.jfif"
+  },
+  {
+   "name": "XIS FRANGO",
+   "category": "ROTA FRANGO",
+   "desc": "Pão de Xis, Maionese da casa, Milho, Ervilha, Frango, Queijo, Ovo, Alface, Tomate.",
+   "price": 30,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/ROTA_FRANGO-060742e8df883c356f97cd489358df1b_s.jfif"
+  },
+  {
+   "name": "XIS CORAÇÃO",
+   "category": "ROTA FRANGO",
+   "desc": "Pão de Xis, Maionese da casa, Coração de Frango, Queijo, Ovo, Alface, Tomate.",
+   "price": 36,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_CORACAO-b2a348ad773816b2d88617f3fe8c7bdb_s.jpg"
+  },
+  {
+   "name": "XIS FRANGO CHEDDAR BACON BARBECUE",
+   "category": "ROTA FRANGO",
+   "desc": "Pão de Xis, Maionese da casa, Ervilha, Milho, Frango, Ovo, Queijo, Bacon, Molho Barbecue, Molho Cheddar, Baconese.",
+   "price": 48,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/XIS_FRANGO_CHEDDAR_BACON_BARBECUE-d05cd0461b78d6cb015d6208629b7190_s.jpg"
+  },
+  {
+   "name": "HOT DOG DUPLO",
+   "category": "HOT DOG DO ROTA",
+   "desc": "Pão, 2 salsicha, molho de tomate, maionese, ketchup, mostarda, milho, ervilha e batata palha.",
+   "price": 24,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_DUPLO-80b9146b64da94779036e65d2fe04064_s.jpg"
+  },
+  {
+   "name": "HOT DOG FRANGO",
+   "category": "HOT DOG DO ROTA",
+   "desc": "Pão , Frango, molho caseiro, maionese, ketthup, mostarda, milho, ervilha, batata palha",
+   "price": 30,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_FRANGO-20b487aa0a9d11ee9a5d42801c1654bc_s.jfif"
+  },
+  {
+   "name": "HOT DOG ESPECIAL DO ROTA",
+   "category": "HOT DOG DO ROTA",
+   "desc": "Pão de hot dog, Salsicha, Molho de tomate, Maionese, Ketchup,Mostarda, Ervilha, Milho, Pepino, Queijo ralado e Batata palha",
+   "price": 32,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_ESPECIAL_DO_ROTA-b6e7c932ee8b80f6458e16e49ab3f359_s.jfif"
+  },
+  {
+   "name": "HOT DOG DE CALABRESA",
+   "category": "HOT DOG DO ROTA",
+   "desc": "Pão , salsicha, calabresa, molho caseiro, maionese, ketchup, mostarda, milho, ervilha, batata palha",
+   "price": 32,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_DE_CALABRESA-ada292f283fdfab03473d08cff53ef9a_s.jfif"
+  },
+  {
+   "name": "HOT DOG DUPLO C/ BACON",
+   "category": "HOT DOG DO ROTA",
+   "desc": "Pão, 2 salsichas, molho de tomate, maionese, ketchup, mostarda, milho, ervilha, bacon e batata palha.",
+   "price": 35,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_DUPLO_C_BACON-f4f17e90b83f9b276514c280fcfe9139_s.jpg"
+  },
+  {
+   "name": "HOT DOG ESPECIAL DO ROTA + REFRI",
+   "category": "HOT DOG DO ROTA",
+   "desc": "Pão de hot dog, Salsicha, Molho de tomate, Maionese, Ketchup,Mostarda, Ervilha, Milho, Pepino, Queijo ralado e Batata palha + REFRI",
+   "price": 38,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/HOT_DOG_ESPECIAL_DO_ROTA_REFRI-73655e288bd30c8165fbd31692a7f922_s.jfif"
+  },
+  {
+   "name": "SUCOS DEL VALLE 200 ML",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 5,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/SUCOS_DEL_VALLE_200_ML-dc9850dbda78b5feef16da58b059c912_s.png"
+  },
+  {
+   "name": "ENERGÉTICO ",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 10,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/ENERGETICO-d1a6682706ace42ee12c6df1ad7d4d2f_s.jfif"
+  },
+  {
+   "name": "REFRI 1L e 2L",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 12,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/COCA_COLA_2L-e1e45d5335a80d4b9dab743dd5953db5_s.jpg"
+  },
+  {
+   "name": "REFRI LATA",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 7,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/REFRI_AGUA-b465438021966d5d0df17ac3e910e253_s.jpg"
+  },
+  {
+   "name": "REFRI 600ml",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 9,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/REFRI_600ml-f011cb0a0458e182fe6968d7bee78344_s.jpg"
+  },
+  {
+   "name": "GUARANÁ FRUKI 1,5L",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 12,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/REFRI_1_5L_2L-61f8b90042f7c0e902fae885241f38fe_s.jpg"
+  },
+  {
+   "name": "CERVEJAS LATÃO & LONG NECK",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 10,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/CERVEJAS-d055f5f00725717a35b9d27998ce1ea4_s.jpg"
+  },
+  {
+   "name": "ÁGUAS",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 3,
+   "store": "rota-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3852/produtos/AGUAS-5cc291b76713c9c366fc4ff73beb348a_s.jpg"
+  }
+ ]
+}

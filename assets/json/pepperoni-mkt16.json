@@ -1,0 +1,113 @@
+{
+ "id": "pepperoni-mkt16",
+ "nome": "Pizzaria Pepperoni",
+ "category": "Restaurante, Pizzaria",
+ "deliveryTime": "60 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/logo/pizzaria-pepperoni-1642526693-69429357ba7c1376ee9c7a47f2e77953_n.jpg",
+ "products": [
+  {
+   "name": "PROMOÇÃO PIZZA GRANDE",
+   "category": "PROMOÇÃO",
+   "desc": "12 Fatias. Até 2 sabores, muçarela e/ou calabresa.",
+   "price": 64.9,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/PROMOCAO_PIZZA_GRANDE-c892d5885b82452cf3359c42bddda322_s.jpg"
+  },
+  {
+   "name": "COMBO PIZZA GRANDE SALGADA + PIZZA DOCE PEQUENA",
+   "category": "COMBO",
+   "desc": "Escolha uma pizza grande (12 fatias) + uma pizza pequena (6 Fatias).",
+   "price": 94.9,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/COMBO_PIZZA_GRANDE_SALGADA_PIZZA_DOCE_PEQUENA-c1c378d8791f7a7893cd0edf7f115aac_s.jpg"
+  },
+  {
+   "name": "PIZZA BURGUER",
+   "category": "PIZZAS SALGADAS\n              \n              Sabores salgados são todos elaborados com Molho de tomate, Muçarela e Orégano.",
+   "desc": "Massa, hambúrguer de carne, cheddar, mussarela, ovo, alface e tomate.",
+   "price": 130,
+   "store": "pepperoni-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "PIZZAS SALGADAS (PEQUENA)",
+   "category": "PIZZAS SALGADAS\n              \n              Sabores salgados são todos elaborados com Molho de tomate, Muçarela e Orégano.",
+   "desc": "Até 2 sabores, 6 fatias.",
+   "price": 65,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/PIZZAS_SALGADAS_PEQUENA-899bd166b301607f691a67c34df70ef4_s.jpg"
+  },
+  {
+   "name": "PIZZAS SALGADAS (MÉDIA)",
+   "category": "PIZZAS SALGADAS\n              \n              Sabores salgados são todos elaborados com Molho de tomate, Muçarela e Orégano.",
+   "desc": "Até 2 sabores, 8 fatias.",
+   "price": 75,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/PIZZAS_SALGADAS_MEDIA-b0017b5da164148cc5c8d0742f8900e0_s.jpg"
+  },
+  {
+   "name": "PIZZAS SALGADAS (GRANDE)",
+   "category": "PIZZAS SALGADAS\n              \n              Sabores salgados são todos elaborados com Molho de tomate, Muçarela e Orégano.",
+   "desc": "Até 3 sabores, 12 fatias.",
+   "price": 85,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/PIZZAS_SALGADAS_GRANDE-2aa3bef5ac2a84c96e062bb138cb79b8_s.jpg"
+  },
+  {
+   "name": "PIZZA DOCE (PEQUENA)",
+   "category": "PIZZAS DOCES",
+   "desc": "Até 2 sabores, 6 fatias.",
+   "price": 65,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/PIZZA_DOCE_PEQUENA-dbc0b875b04551075387ab109be7585b_s.jpg"
+  },
+  {
+   "name": "PIZZA DOCE (MÉDIA)",
+   "category": "PIZZAS DOCES",
+   "desc": "Até 2 sabores, 8 fatias.",
+   "price": 75,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/PIZZA_DOCE_MEDIA-345c810883d0af6e3d28beabed6844ba_s.jpg"
+  },
+  {
+   "name": "PIZZA DOCE (GRANDE)",
+   "category": "PIZZAS DOCES",
+   "desc": "Até 3 sabores, 12 fatias.",
+   "price": 85,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/PIZZA_DOCE_GRANDE-7c7674251dcca45ec6b24e05de227f50_s.jpg"
+  },
+  {
+   "name": "REFRIGERANTES",
+   "category": "REFRIGERANTES",
+   "desc": "",
+   "price": 7,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/REFRIGERANTES-d5c8425cae28b913867886faa1480c5d_s.jpg"
+  },
+  {
+   "name": "CERVEJAS",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 7,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/CERVEJAS-4ca9a82f0f6a1081072375957411110b_s.jpg"
+  },
+  {
+   "name": "AGUA MINERAL SEM GÁS",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 5,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/AGUA_MINERAL_SEM_GAS-b444c32516cf592fc8c38eff6686a62c_s.jpg"
+  },
+  {
+   "name": "AGUA MINERAL COM GÁS",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 5,
+   "store": "pepperoni-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2643/produtos/AGUA_MINERAL_COM_GAS-ad4cdda5137953183dc49dd5a6a7f748_s.jpg"
+  }
+ ]
+}

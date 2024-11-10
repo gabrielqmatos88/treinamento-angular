@@ -1,0 +1,289 @@
+{
+ "id": "japa-mkt16",
+ "nome": "JAPA FOOD",
+ "category": "Japonesa",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas//logo/JAPA_FOOD-c52011085dbfeb63c9ddebf616de2e41_n.jpeg",
+ "products": [
+  {
+   "name": "URAMAKI DE SALMÃO ( 8 UNID. )",
+   "category": "SUSHI",
+   "desc": "Alga enrolada no arroz japonês ao molho sharê com gergelim , salmão fresco cru e cream cheese , cortado em 8 pedaços.",
+   "price": 22.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/URAMAKI_DE_SALMAO_8_UNID-746a83b643700e9d0e373ef54113524b_s.jpeg"
+  },
+  {
+   "name": " HOT ROLL ",
+   "category": "SUSHI",
+   "desc": "10 Unid.: Arroz japonês ao molho sharê, salmão  ( cru ou grelhado ) , delicioso cream cheese moldado na alga inteira em forma de rolo, empanado na farinha panko e frito, cortado em 10 pedaços, regado com molho tarê e salpicado com cebolinha.",
+   "price": 26.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/HOT_ROLL-9c89a2086e5b3ba44a85ff5aa2b823a8_s.jpeg"
+  },
+  {
+   "name": "SUSHI BURGER COMPLETO",
+   "category": "SUSHIBURGER",
+   "desc": "Arroz japonês ao molho sharê em formato de pão de hambúrguer , empanado na farinha panko e frito , cortado em 2 fatias , com recheio de salmão fresco , delicioso cream cheese e salpicado com cebolinha.",
+   "price": 35.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/SUSHI_BURGER_COMPLETO-7cd89e1d6b0d7dc5c1ebad8e955abe61_s.jpeg"
+  },
+  {
+   "name": "Temaki Skin",
+   "category": "TEMAKI",
+   "desc": "Arroz ao molho sharê , cream cheese e pedaços fritos de pele de salmão , enrolado na alga  ( nori ) em formato de cone , salpicado com cebolinha.",
+   "price": 22.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Temaki_Skin-509fdb03ebb7bc70df9e17c2e375d9ba_s.jpeg"
+  },
+  {
+   "name": "TEMAKI SALMÃO COMPLETO",
+   "category": "TEMAKI",
+   "desc": "Arroz japonês ao molho sharê, salmão fresco  em pequenos cubos, delicioso cream cheese moldados na alga em forma de cone, salpicado com cebolinha.",
+   "price": 24.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/TEMAKE_SALMAO_COMPLETO-59b591758c1dd5e70ca839079174c7c8_s.jpeg"
+  },
+  {
+   "name": "Temaki de Salmão Grelhado",
+   "category": "TEMAKI",
+   "desc": "Arroz japonês ao molho sharê , salmão grelhado desfiado e cream cheese enrolado na alga ( nori ) em formato de cone , salpicado com cebolinha.",
+   "price": 26.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Temaki_de_Salmao_Grelhado-92add6c9e196e66f5f4ae6e3e86aed04_s.jpeg"
+  },
+  {
+   "name": "TEMAKI SALMÃO HOT",
+   "category": "TEMAKI",
+   "desc": "Arroz japonês ao molho sharê, salmão fresco grelhado batido, delicioso cream cheese moldados na alga em forma de cone, empanado na farinha panko e frito, partido ao meio regado com molho tarê e salpicado com cebolinha.",
+   "price": 28.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/TEMAKE_SALMAO_HOT-31ccfd1b50d03b1edca7e25cfd6a2ef9_s.jpeg"
+  },
+  {
+   "name": "Combo Skin",
+   "category": "COMBINADOS",
+   "desc": "1 temaki de salmão skin, 8 hot roll , 8 uramaki skin e 6 niguiri skin.",
+   "price": 49.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Combo_Skin-f459104b3526dddd23a2e95aae99c737_s.jpeg"
+  },
+  {
+   "name": "Combo Yamá III",
+   "category": "COMBINADOS",
+   "desc": "4 niguiri de salmão, 4 joy de salmão, 4 hossomaki de salmão, 5 uramaki de salmão e 4 sashimi de salmão.",
+   "price": 83.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Combo_Yama_III-9898159f87ce7f3aa8bd63e1b5723306_s.jpeg"
+  },
+  {
+   "name": "Combo Yamá I",
+   "category": "COMBINADOS",
+   "desc": "1 temaki de salmão completo, 6 hot roll de salmão, 2 niguiri de salmão, 4 uramaki de salmão, 2 joy de salmão e 8 sashimi de salmão.",
+   "price": 89.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Combo_Yama_I-de694aa1a36a79acff29bf865daad38d_s.jpeg"
+  },
+  {
+   "name": "Combo Yamá II",
+   "category": "COMBINADOS",
+   "desc": "10 hot roll de salmão, 8 uramaki de salmão, 8 hossomaki de salmão, 4 joy de salmão e 4 niguiri de salmão.",
+   "price": 109,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Combo_Yama_II-bbb81a1e99050f63234f985557fe13bc_s.jpeg"
+  },
+  {
+   "name": "CEVICHE",
+   "category": "CEVICHE",
+   "desc": "Tiras de filet de tilápia fresca , cebola roxa e pimenta dedo de moça marinados no delicioso suco de limão.",
+   "price": 29.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/CEVICHE-4de5583701bff5f41612743aeb25bd62_s.jpeg"
+  },
+  {
+   "name": "POKE  DE SALMÃO ",
+   "category": "POKE",
+   "desc": "Arroz japonês ao molho sharê , cubos de salmão fresco, tiras de manga , cebola roxa, pepino em conserva  e deliciosos chips de batata doce.",
+   "price": 34.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/POKE-dce9fe8f95e753b31a85bff2540f816f_s.jpeg"
+  },
+  {
+   "name": "YAKISSOBA MISTO",
+   "category": "YAKISSOBA",
+   "desc": "Combinação perfeita de macarrão talharim frito, fatias de carne, frango, brócolis, acelga e cenoura no delicioso molho shoyu com toque especial do Chef.",
+   "price": 29.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/YAKISSOBA_MISTO-3db2cdfe2377e43c586c3abff68e66de_s.jpeg"
+  },
+  {
+   "name": "YAKISSOBA FRANGO",
+   "category": "YAKISSOBA",
+   "desc": "Combinação perfeita de macarrão talharim frito, fatias de frango, brócolis, acelga e cenoura no delicioso molho shoyu com toque especial do Chef.",
+   "price": 26.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/YAKISSOBA_FRANGO-41d76407d2238b3bfbe1966d3a0606a1_s.jpeg"
+  },
+  {
+   "name": "YAKISSOBA CARNE ",
+   "category": "YAKISSOBA",
+   "desc": "Combinação perfeita de macarrão talharim frito, fatias de carne, brócolis, acelga e cenoura no delicioso molho shoyu com toque especial do Chef.",
+   "price": 28.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/YAKISSOBA_CARNE-ed3b247cd15b9bd249e6814db5446507_s.jpeg"
+  },
+  {
+   "name": "YAKISSOBA DE LEGUMES",
+   "category": "YAKISSOBA",
+   "desc": "Combinação perfeita de macarrão talharim frito, fatias de brócolis, acelga e cenoura no delicioso molho shoyu com toque especial do Chef.",
+   "price": 24.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/YAKISSOBA_DE_LEGUMES-e46772b2858ec4efc2b5a102b9b55c4e_s.jpeg"
+  },
+  {
+   "name": "GYUDON DE FILÉ DE FRANGO Á MILANESA",
+   "category": "EXECUTIVOS - JAPONÊS",
+   "desc": "Arroz japonês ( sem tempero ) , filé de frango á milanesa e salada de tomate cereja com pepino em conserva.",
+   "price": 26.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/GYUDON_DE_FILE_DE_FRANGO_A_MILANESA-7c8792199c815e9b130a5641ceb2b59b_s.jpeg"
+  },
+  {
+   "name": "GYUDON DE CARNE BOVINA",
+   "category": "EXECUTIVOS - JAPONÊS",
+   "desc": "Arroz branco japonês ( sem tempero ) encoberto por fatias de carne bovina ,  ao molho shoyu com gengibre e fatias de cebola.",
+   "price": 28.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/GYUDON-4cd4d416b6c6d301b67f09168b6b1b2b_s.jpeg"
+  },
+  {
+   "name": "GUIOZA DE FRANGO",
+   "category": "GUIOZA",
+   "desc": "Pastéizinhos envolvidos com massa fina fritos, salpicados com cebolinha, regados com óleo de gergelim, com recheio de frango e legumes desfiados.",
+   "price": 17.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/GUIOZA_DE_FRANGO-3ccb9714c7fa8b369267d5d2a21dd7ff_s.jpeg"
+  },
+  {
+   "name": "GUIOZA DE CARNE DE PORCO",
+   "category": "GUIOZA",
+   "desc": "Pastéizinhos envolvidos com massa fina fritos, salpicados com cebolinha, regados com óleo de gergelim, com recheio de carne suína e legumes desfiados.",
+   "price": 19.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/GUIOZA_DE_CARNE_DE_PORCO-9ec77a10008003df9c08c12c91bd2e4e_s.jpeg"
+  },
+  {
+   "name": "GUIOZA DE CARNE BOVINA",
+   "category": "GUIOZA",
+   "desc": "Pastéizinhos envolvidos com massa fina fritos, salpicados com cebolinha, regados com óleo de gergelim, com recheio de carne bovina e legumes desfiados.",
+   "price": 19.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/GUIOZA_DE_CARNE_BOVINA-3dcf95a3d07e5eedb162ca6515571b10_s.jpeg"
+  },
+  {
+   "name": "SHIMEJI NA MANTEIGA",
+   "category": "SHIMEJI",
+   "desc": "300g de shimeji refogado na manteiga, salpicado com cebolinha.",
+   "price": 29.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/SHIMEJI_NA_MANTEIGA-8af7302176a59c85ca73d302ca6fa330_s.jpeg"
+  },
+  {
+   "name": "ISCA DE TILÁPIA",
+   "category": "PORCÃO",
+   "desc": "Tiras de filet de tilápia com tempero especial do Chef, empanadas na farinha panko e fritas, salpicadas com cebolinha, alho frito e regadas com óleo de gergelim.",
+   "price": 46.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/ISCA_DE_TILAPIA-d0fea5d2d7a6f0e79c1257f6c7e11b40_s.jpeg"
+  },
+  {
+   "name": "FRANGO FRITO C/ FRITAS",
+   "category": "PORCÃO",
+   "desc": "500g de coxa e sobrecoxa desossadas , com tempero especial do chef , empanadas e fritas, salpicadas com cebolinha e alho frito. Acompanha 500g de fritas.",
+   "price": 46.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/FRANGO_FRITO_C_FRITAS-1cd6250d5efbbd926e3f091893079e53_s.jpeg"
+  },
+  {
+   "name": "HARUMAKI QUEIJO ",
+   "category": "HARUMAKI",
+   "desc": "( 4 Unid. ) : Delicioso rolinho envolvido com massa fina frito, com recheio suculento de queijo .",
+   "price": 24,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/HARUMAKI_QUEIJO-3bcc8c27fa0e865da97f095506594676_s.jpeg"
+  },
+  {
+   "name": "HARUMAKI PRIMAVERA",
+   "category": "HARUMAKI",
+   "desc": "( 4 Unid. ) : Delicioso rolinho envolvido com massa fina frito, com recheio de suculento de carne e legumes em fatias .",
+   "price": 26,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/HARUMAKI_PRIMAVERA-a96a07e7e02f85df5b50faf1ba54584b_s.jpeg"
+  },
+  {
+   "name": "HOT ROLL DE BANANA C/ CHOCOLATE",
+   "category": "SOBREMESA",
+   "desc": "10 Unid. : Banana nanica envolvida na alga inteira, empanada na farinha panko e frita, cortada em 10 pedaços encobertos por um delicioso chocolate .",
+   "price": 15.9,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/HOT_ROLL_DE_BANANA_C_CHOCOLATE-7c33df6a8206b702c2cccfffbc27078c_s.jpeg"
+  },
+  {
+   "name": "Água S/ Gás 510 ML",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 5,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Agua_S_Gas_510_ML-827b604994aeedc0fd678f158f7a4d9f_s.jpeg"
+  },
+  {
+   "name": "Água C/ Gás 510 ML",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 6,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Agua_C_Gas_510_ML-514b7a2f916d039043d61bca5df104ce_s.jpeg"
+  },
+  {
+   "name": "Coca Lata 350 ML",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 6,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Coca_Lata_350_ML-7bb42b7dd68baebc3db3394ff07e3e9b_s.jpeg"
+  },
+  {
+   "name": "Guaraná 350 ML",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 6,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Guarana_350_ML-eb626a3b694cce71974ae4e9e7f2f623_s.jpeg"
+  },
+  {
+   "name": "Brahma Duplo Malte 350 ML",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 6.5,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Brahma_Duplo_Malte_350_ML-35a22795eb7f54114b3366e0496e59f0_s.jpeg"
+  },
+  {
+   "name": "Coca 600 ML",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 8.5,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Coca_600_ML-8282e6277e8f378889c7f8915adb9e52_s.jpeg"
+  },
+  {
+   "name": "Heineken Long Neck",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 10.5,
+   "store": "japa-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4734/produtos/Heineken_Long_Neck-1342d21b8ea556255f387e1c66d35b48_s.jpeg"
+  }
+ ]
+}

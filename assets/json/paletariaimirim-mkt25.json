@@ -1,0 +1,457 @@
+{
+ "id": "paletariaimirim-mkt25",
+ "nome": "PALETAS E AÇAÍ  IMIRIM ",
+ "category": "Açaí e Sorvete",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/logo/la-casa-das-paletas-1647429454-46cfa2022977c46191ce5b58b2cabecb_n.jpeg",
+ "products": [
+  {
+   "name": "AGUA COM GAS",
+   "category": "agua",
+   "desc": "",
+   "price": 3,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/AGUA_COM_GAS-bead49ab8f8d24434f80a25659511828_s.jpg"
+  },
+  {
+   "name": "Açai 200 ml",
+   "category": "Açaí \n              \n              Açai",
+   "desc": "Açaí  acompanha \n2 tipos de frutas \nA escolha \n\n•morango \n•banana \n• manga \n  \nOpção acompanhamento \n•paçoca • granola • leite em pó•  sucrilhus \n•leite condensado.",
+   "price": 10,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Acai_200_ml-5402f956b6d860ff566f29252e77af50_s.png"
+  },
+  {
+   "name": "Açaí 250 ml",
+   "category": "Açaí \n              \n              Açai",
+   "desc": "Açaí  acompanha \n2 tipos de frutas \nA escolha \n\n•morango \n•banana \n• manga \n  \nOpção acompanhamento \n•paçoca • granola • leite em pó•  sucrilhus \n•leite condensado.",
+   "price": 12,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Acai-1680ff0ec3a2d58fccbb5f103c2bc707_s.png"
+  },
+  {
+   "name": "Açaí 300 ml",
+   "category": "Açaí \n              \n              Açai",
+   "desc": "Açaí  acompanha \n2 tipos de frutas \nA escolha \n\n•morango \n•banana \n• manga \n  \nOpção acompanhamento \n•paçoca • granola • leite em pó•  sucrilhus \n•leite condensado.",
+   "price": 15,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Acai_300_ml-87edcee4b1db963912606196222b33ce_s.png"
+  },
+  {
+   "name": "Açaí 500 ml ",
+   "category": "Açaí \n              \n              Açai",
+   "desc": "Açaí  acompanha \n3 tipos de frutas \nA escolha \n\n•morango \n•banana \n• manga \n  \nOpção acompanhamento \n•paçoca • granola • leite em pó•  sucrilhus \n•leite condensado.",
+   "price": 20,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Acai_500_ml-f73d8aeeb784055f1d0f1dfc881856a6_s.png"
+  },
+  {
+   "name": "Iorgurte grego com frutas vermelhas",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Iorgurte_grego_com_frutas_vermelhas-2c6c829fa1399f0e8cf93e97b517ef86_s.jpg"
+  },
+  {
+   "name": "Açai com leite Ninho",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Acai_com_leite_Ninho-d803f32bf4ea20664c91d4426e29774b_s.jpeg"
+  },
+  {
+   "name": "Açai com leite condensado",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Acai_com_leite_condensado-195fa62628a65f3b0add98b312062ad2_s.jpeg"
+  },
+  {
+   "name": "Bananotela",
+   "category": "Paletas Recheadas",
+   "desc": "Paleta de banana recheada com Nutella",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Bananotela-0855eab5ef207b1f1209e150f2860f9b_s.jpeg"
+  },
+  {
+   "name": "Beijo Gelado",
+   "category": "Paletas Recheadas",
+   "desc": "Beijinho com doce de leite",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Beijo_Gelado-8dba6c9453b4b99b4a2a461b709a5930_s.jpeg"
+  },
+  {
+   "name": "Chocomenta",
+   "category": "Paletas Recheadas",
+   "desc": "Menta com recheio de chocolate",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Chocomenta-5b4e421cef157049d6a924f541a08979_s.jpeg"
+  },
+  {
+   "name": "Chocotela",
+   "category": "Paletas Recheadas",
+   "desc": "Chocolate com Nutella",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Chocotela-43f05c216e99f714249f2c0941a2063b_s.jpeg"
+  },
+  {
+   "name": "Doce de leite com doce de leite",
+   "category": "Paletas Recheadas",
+   "desc": "Doce de leite com recheio mole de doce de leite",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Doce_de_leite_com_doce_de_leite-3b9222c31a3c7ed8a552ed42e1a51821_s.jpeg"
+  },
+  {
+   "name": "Espanhola",
+   "category": "Paletas Recheadas",
+   "desc": "Abacaxi suíço ao creme de uva",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Espanhola-b00abdbcb5a0ce5e9e951567f6d1272e_s.jpeg"
+  },
+  {
+   "name": "Kinder Ovo",
+   "category": "Paletas Recheadas",
+   "desc": "Paleta de chocolate com recheio de chocolate branco",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Kinder_Ovo-6f893ade671e032c65d8a33fda8dba52_s.jpeg"
+  },
+  {
+   "name": "Maracujá com leite condensado",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Maracuja_com_leite_condensado-6801af53dfc699f4669d9c8f19047421_s.jpeg"
+  },
+  {
+   "name": "Morango com leite Ninho",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Morango_com_leite_Ninho-c7b2fb9ea075bd11ca3d405cf4c6558f_s.jpeg"
+  },
+  {
+   "name": "Morango com leite condensado",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Morango_com_leite_condensado-83e1f376020e5dd76aacee48b5cacec8_s.jpeg"
+  },
+  {
+   "name": "Morangotela",
+   "category": "Paletas Recheadas",
+   "desc": "Paleta de morango com recheio de Nutella",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Morangotela-752b27c7f8aa4ce00b2ef7f99638d02c_s.jpeg"
+  },
+  {
+   "name": "Ninhotela",
+   "category": "Paletas Recheadas",
+   "desc": "Leite Ninho com recheio de Nutella",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Ninhotela-50fb579258aa0ced5dd619e57cd60c6d_s.jpeg"
+  },
+  {
+   "name": "Oreo com leite Ninho",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Oreo_com_leite_Ninho-cceca6eac7be25e8461676869e71159b_s.jpeg"
+  },
+  {
+   "name": "Ouro Branco",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Ouro_Branco-c2e1cd4477d86843926bbf9a5a3ef153_s.jpeg"
+  },
+  {
+   "name": "Ovomaltine com Nutella",
+   "category": "Paletas Recheadas",
+   "desc": "Ovomaltine com recheio de Nutella",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Ovomaltine_com_Nutella-0f0ed612c04b18599bbea9db55a7c228_s.jpeg"
+  },
+  {
+   "name": "Rafaello",
+   "category": "Paletas Recheadas",
+   "desc": "Wafer coco e amêndoa",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Rafaello-b8fc429b3d0936f3d89bd308de9d753c_s.jpeg"
+  },
+  {
+   "name": "Torta de limão",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Torta_de_limao-df25d2fe7de3a576141f8d19bc994fec_s.jpeg"
+  },
+  {
+   "name": "Capuccino",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Capuccino-cda1c779d4ca99b5d7678b2bcb0002ae_s.jpeg"
+  },
+  {
+   "name": "Brigadeiro ",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Brigadeiro-53b6f71a59c1bfbafb943ed7563ae16c_s.jpeg"
+  },
+  {
+   "name": "Romeu e Julieta",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Romeu_e_Julieta-70b70190afc950bcc2c9b99eede42a52_s.png"
+  },
+  {
+   "name": "Ferrero Rocher",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Ferrero_Rocher-a5292035fa23fb8a284e07ba983d9562_s.png"
+  },
+  {
+   "name": "Prestigio",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Prestigio-705996266f148e43f523f49aacfb7913_s.png"
+  },
+  {
+   "name": "Pistache com caramelo ",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Pistache-bc1fe4b5d1b3c430b44ebf03c1e23f57_s.png"
+  },
+  {
+   "name": "Maracujá Trufado ",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Maracuja_Trufado-6b5e5155480329b222666cb1c78b5b33_s.jpg"
+  },
+  {
+   "name": "Ninhomaltine",
+   "category": "Paletas Recheadas",
+   "desc": "",
+   "price": 4.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Ninhomaltine-a488487e6b005068586152b319e21072_s.jpg"
+  },
+  {
+   "name": "pistache ",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/pistache-c2b5a9b5183f52d9c92a9f35a9229be4_s.jpg"
+  },
+  {
+   "name": "Abacate",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Abacate-bc3565b092183ef67b4af1d7d156aa82_s.jpeg"
+  },
+  {
+   "name": "Beijinho",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Beijinho-4cc2a1c2028531c50c988975d96ddddf_s.jpeg"
+  },
+  {
+   "name": "Chocobelga",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Chocobelga-18aaf845ed1dd06e71c4ee1e47e03e6f_s.jpeg"
+  },
+  {
+   "name": "Coco branco",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Coco_branco-b718bf0819f4cc407aedbe2842bd9c04_s.jpeg"
+  },
+  {
+   "name": "Céu Azul",
+   "category": "Paletas ao Leite",
+   "desc": "Sabor tutti fruit",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Ceu_Azul-a15e588875e9464cd2f3aabb7bb0ec37_s.jpeg"
+  },
+  {
+   "name": "Leite Ninho",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Leite_Ninho-8cf6999471570d2483aac2e35163cba2_s.jpeg"
+  },
+  {
+   "name": "Mousse de Limão",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Mousse_de_Limao-a74ccaf06209640c574ffb94f6f7c751_s.jpeg"
+  },
+  {
+   "name": "Mousse de maracujá",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Mousse_de_maracuja-a9cb1ddeca26a2e6b2455b0e00211c46_s.jpeg"
+  },
+  {
+   "name": "Mousse de morango",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Mousse_de_morango-4d18b7ed6745f31cb0576ad3edf7ed0c_s.jpeg"
+  },
+  {
+   "name": "Pamonha",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Pamonha-38a0edde73cfe01923e1a7c7863412b7_s.jpeg"
+  },
+  {
+   "name": "Paçoca",
+   "category": "Paletas ao Leite",
+   "desc": "",
+   "price": 4,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Pacoca-94b85271b9a47838294666e5a2d9c9ad_s.jpeg"
+  },
+  {
+   "name": "Açai",
+   "category": "Paletas Frutadas",
+   "desc": "",
+   "price": 3.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Acai-e809074470f19245578080bf91472bee_s.jpeg"
+  },
+  {
+   "name": "Goiaba",
+   "category": "Paletas Frutadas",
+   "desc": "",
+   "price": 3.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Goiaba-c1f02f16eff35ed3ebb833285f522223_s.jpeg"
+  },
+  {
+   "name": "Laranja com acerola",
+   "category": "Paletas Frutadas",
+   "desc": "",
+   "price": 3.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Laranja_com_acerola-b2e6be78a611c519b0fb9df159b6b36c_s.jpeg"
+  },
+  {
+   "name": "Limão",
+   "category": "Paletas Frutadas",
+   "desc": "",
+   "price": 3.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Limao-f2e500a2818424927e8f1c6066fb4a07_s.jpeg"
+  },
+  {
+   "name": "Manga",
+   "category": "Paletas Frutadas",
+   "desc": "",
+   "price": 3.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Manga-0462eae74f54065f74d804aa2feab1c9_s.jpeg"
+  },
+  {
+   "name": "Melancia",
+   "category": "Paletas Frutadas",
+   "desc": "",
+   "price": 3.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Melancia-50a067d7da3f736d5ff9e95e01d44495_s.jpg"
+  },
+  {
+   "name": "Morango",
+   "category": "Paletas Frutadas",
+   "desc": "",
+   "price": 3.5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Morango-1137c5759843388fe30de4ed0b994dbd_s.jpeg"
+  },
+  {
+   "name": "Caipirinha",
+   "category": "Paletas Alcoólicas",
+   "desc": "",
+   "price": 5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2204/produtos/Caipirinha-afbb3f2a3ded440d4ba52d373cb8757c_s.jpeg"
+  },
+  {
+   "name": "Passas ao rum",
+   "category": "Paletas Alcoólicas",
+   "desc": "",
+   "price": 5,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/categorias_produtos/Paletas_Alcoolicas_n.jpg"
+  },
+  {
+   "name": "chocolate zero",
+   "category": "Paletas Zero Açucar",
+   "desc": "",
+   "price": 6,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/chocobelga_zero-b0feaf26c918bd5ada31d54f9e7fb81c_s.jpg"
+  },
+  {
+   "name": "Morango zero açucar",
+   "category": "Paletas Zero Açucar",
+   "desc": "",
+   "price": 6,
+   "store": "paletariaimirim-mkt25",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2759/produtos/Morango-b2914c4049c4ed776d5b36c24406a9b5_s.jpg"
+  }
+ ]
+}

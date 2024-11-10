@@ -1,0 +1,73 @@
+{
+ "id": "luxemburgo-mkt16",
+ "nome": "PIZZARIA LUXEMBURGO",
+ "category": "Pizzaria",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/logo/pizza-1637588756-3ab0475b5f4051add16c314c3be51e0d_n.jpg",
+ "products": [
+  {
+   "name": "PIZZA PROMOCIONAL RUA 4",
+   "category": "MINI PIZZA",
+   "desc": "35cm, 8 FATIAS, 4 SABORES",
+   "price": 39.9,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/PIZZA_PROMOCIONAL_RUA_4-fa26b2f7bed6187fa22ff9e6f016fe64_s.jpg"
+  },
+  {
+   "name": "MINI PIZZA",
+   "category": "PIZZAS",
+   "desc": "Diversos sabores!",
+   "price": 8,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/MINI_PIZZA-f8db0cf8699d5f3fe81037d7bf549db8_s.jpg"
+  },
+  {
+   "name": "PIZZAS BROTINHO",
+   "category": "REFRIGERANTE",
+   "desc": "25CM, 4 FATIAS, ATÉ 1 SABOR",
+   "price": 28,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/PIZZAS_BROTINHO-576cb8c2f762e7df5154219fb29531e7_s.jpg"
+  },
+  {
+   "name": "PIZZAS",
+   "category": "REFRIGERANTE",
+   "desc": "35CM, 8 FATIAS, ATÉ 2 SABORES",
+   "price": 46,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/PIZZAS-7d700d257abff9892d861f299de98dd2_s.jpeg"
+  },
+  {
+   "name": "KUAT 2L",
+   "category": "SUCOS",
+   "desc": "",
+   "price": 9,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/KUAT_2L-94528cda1a8cc18905dfaded364743d5_s.jpg"
+  },
+  {
+   "name": "MATE COURO 2L",
+   "category": "SUCOS",
+   "desc": "",
+   "price": 9,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/MATE_COURO_2L-23f04a86f15318f3f584a9f8bdb61da7_s.jpg"
+  },
+  {
+   "name": "FANTA 2L",
+   "category": "SUCOS",
+   "desc": "",
+   "price": 11,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/FANTA_2L-1ede9e817c4eace25066b47827c3942a_s.jpg"
+  },
+  {
+   "name": "COCA COLA 2L",
+   "category": "SUCOS",
+   "desc": "",
+   "price": 12,
+   "store": "luxemburgo-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2545/produtos/COCA_COLA_2L-0b0df7a775af3f840f9276dd271d5c9e_s.jpg"
+  }
+ ]
+}

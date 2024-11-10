@@ -1,0 +1,713 @@
+{
+ "id": "espetinhodocesar-mkt16",
+ "nome": "Espetinho do Cesar",
+ "category": "Churrasco",
+ "deliveryTime": "50 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/logo/yama-fast-food-1626296895-2105bd2d21f61d0da512a79669190799_n.png",
+ "products": [
+  {
+   "name": "Jantinha C/ Espetinho de Frango",
+   "category": "Jantinhas",
+   "desc": "Acompanha : Arroz Branco , Feijão Tropeiro , Mandioca e Vinagrete.",
+   "price": 26.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Espetinho_de_Frango-27c0e3d721b5d9e79511c60b3d7e9427_s.jpeg"
+  },
+  {
+   "name": "Jantinha C/ Espetinho de Linguiça ",
+   "category": "Jantinhas",
+   "desc": "Acompanha : Arroz Branco , Feijão Tropeiro , Mandioca e Vinagrete.",
+   "price": 27.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Espetinho_de_Linguica-6c1fbec2840eea8dbb9e43d120a935e7_s.jpeg"
+  },
+  {
+   "name": "Jantinha C/ Espetinho de Carne",
+   "category": "Jantinhas",
+   "desc": "Acompanha : Arroz Branco , Feijão Tropeiro , Mandioca e Vinagrete.",
+   "price": 28.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Espetinho_de_Carne-25cb12b022aa220d24500f301355d8b0_s.jpeg"
+  },
+  {
+   "name": "Jantinha C/ Espetinho de Coração ",
+   "category": "Jantinhas",
+   "desc": "Acompanha : Arroz Branco , Feijão Tropeiro , Mandioca e Vinagrete.",
+   "price": 28.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Espetinho_de_Coracao-19cc9698bf59057cf0e5ed96c46c7b20_s.jpeg"
+  },
+  {
+   "name": "Jantinha C/ Espetinho de Kafta",
+   "category": "Jantinhas",
+   "desc": "Acompanha : Arroz Branco , Feijão Tropeiro , Mandioca e Vinagrete.",
+   "price": 28.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Espetinho_de_Kafta-9caffa2c017e55fb2e033abf6bb3ee1f_s.jpeg"
+  },
+  {
+   "name": "Jantinha C/ Espetinho de Panceta",
+   "category": "Jantinhas",
+   "desc": "Acompanha: Arroz , feijão tropeiro , mandioca e vinagrete.",
+   "price": 31.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Espetinho_de_Panceta-ba9d685141d356e659844dba1cf81134_s.jpeg"
+  },
+  {
+   "name": "Jantinha C/ Tulipa de Frango",
+   "category": "Jantinhas",
+   "desc": "Acompanha arroz , feijão tropeiro , vinagrete e mandioca.",
+   "price": 32.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Tulipa_de_Frango-720a20f18386d6773a721391ed673772_s.jpg"
+  },
+  {
+   "name": "Jantinha C/ Espetinho de Medalhão de Frango",
+   "category": "Jantinhas",
+   "desc": "Acompanha : Arroz , feijão tropeiro , vinagrete e mandioca.",
+   "price": 32.9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Jantinha_C_Espetinho_de_Medalhao_de_Frango-2481854b7eb036242fe21da4898117fa_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Pão de Alho ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha : Farofa do chef e vinagrete.",
+   "price": 7,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Pao_de_Alho-60a2d78540400b08e29c8887d442071e_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Frango ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha : Farofa do chef e vinagrete.",
+   "price": 7,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Frango_Unid-20f5cd30db6766946444c9d6c9e794b1_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Queijo Coalho ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha : Farofa do chef e vinagrete.",
+   "price": 8,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Queijo_Coalho_Unid-36b03e4c52779bd9d0fb62dd575df6e9_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Carne ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha : Farofa do chef e vinagrete.",
+   "price": 9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Carne_Unid-52a9c00a5b12f7d92a96c02476370c2c_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Linguiça ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha : Farofa do chef e vinagrete.",
+   "price": 9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Linguica_Unid-47c80b8ca58e9a3e5d26534c8a25ebf5_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Calabresa Apimentada ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "",
+   "price": 9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Calabresa_Apimentada_Unid-9bf9e120ecb6a2457fa2b208953540bd_s.jpg"
+  },
+  {
+   "name": "Espetinho de Medalhão de Mandioca ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "",
+   "price": 10,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Medalhao_de_Mandioca_Unid-4d7dedf80d9697b59e50660959999531_s.jpg"
+  },
+  {
+   "name": "Espetinho de Tulipa de Frango ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha: Farofa e vinagrete.",
+   "price": 10,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Tulipa_de_Frango-2e775ae0e1358a6f204be0a1564742b9_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Coração ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha : Farofa do chef e vinagrete.",
+   "price": 11,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Coracao_Unid-f687c52fa9751cd15d065bf4d4c25502_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Medalhão de Frango ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha: Farofa e vinagrete.",
+   "price": 11,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Medalhao_de_Frango-513beee9c4e974be22bc8775e4cb1548_s.jpeg"
+  },
+  {
+   "name": "Espetinho de Panceta ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Acompanha farofa e vinagrete.",
+   "price": 11,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Panceta_Unid-468aa8d135ec06cd9d4ae4c4bf289caf_s.jpg"
+  },
+  {
+   "name": "Espetinho de Kafta C/ Queijo ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "",
+   "price": 13,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Kafta_C_Queijo_Unid-f0dfaa6363ab3f4cf31d947dbaa6770c_s.jpg"
+  },
+  {
+   "name": "Espetinho de Linguiça Cuiabana ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "Espeto de linguiça recheada com queijo.",
+   "price": 13,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Linguica_Cuiabana_Unid-a3d34f36f259fbf05e5e48598a7287b0_s.jpg"
+  },
+  {
+   "name": "Espetinho de Costela Suína ( Unid. )",
+   "category": "Espetinhos",
+   "desc": "",
+   "price": 14,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Espetinho_de_Costela_Suina-1b55407b92dc30760bcc1e8d3dd84302_s.jpg"
+  },
+  {
+   "name": "Queijo Unidade",
+   "category": "Petiscos",
+   "desc": "",
+   "price": 2,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Torresmo ( Unid. ) ",
+   "category": "Petiscos",
+   "desc": "",
+   "price": 3,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Asinha de Frango Empanada ( Unid. )",
+   "category": "Petiscos",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Porcão de Fritas",
+   "category": "Petiscos",
+   "desc": "",
+   "price": 20,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Porcao_de_Fritas-958bc0e012b46c631f1e31656ea84c22_s.jpeg"
+  },
+  {
+   "name": "Torresmo",
+   "category": "Petiscos",
+   "desc": "Deliciosa porção de torresmo.",
+   "price": 20,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Torresmo-ddbbe27ff7311939049d435b9bf06edf_s.jpeg"
+  },
+  {
+   "name": "Frango Frito C / Fritas",
+   "category": "Petiscos",
+   "desc": "Frango frito com tempero especial do chef ,  fritas e acompanha 2 molhos.",
+   "price": 65,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Frango_Frito_C_Fritas-06c3bed2b507a666125293b8ab8f0a7e_s.jpeg"
+  },
+  {
+   "name": "Caldo de Abóbora com Carne Seca",
+   "category": "Caldos",
+   "desc": "",
+   "price": null,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Caldo_de_Abobora_com_Carne_Seca-b4bb1759e80c99245f8b5b1ee9bf6026_s.jpeg"
+  },
+  {
+   "name": "Caldo de Feijão Preto",
+   "category": "Caldos",
+   "desc": "",
+   "price": null,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Caldo_de_Feijao_Preto-f7b83431ed0ceb68fd62acbcdb639084_s.jpeg"
+  },
+  {
+   "name": "Caldo de Mocotó ",
+   "category": "Caldos",
+   "desc": "Delicioso caldo de mocotó.",
+   "price": null,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Caldo_de_Mocoto-c9c9a288ffe072af294819ca39d24434_s.jpeg"
+  },
+  {
+   "name": "Coca Cola 200 Ml",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 3.5,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Coca_Cola_200_Ml-918b1739234cfcb2233331de8282c3b6_s.jpeg"
+  },
+  {
+   "name": "Itubaína 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 5,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Itubaina_350_ML-d4be278cd3791a7bf45c256443e0ca61_s.jpeg"
+  },
+  {
+   "name": "Água s/ gás",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 5,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Coca cola 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Coca_cola_350_ML-3b78235b3f183aa173c647985b1b8838_s.jpeg"
+  },
+  {
+   "name": "Coca cola zero 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Coca_cola_zero_lata-9ea02882777de41a48d333758c67a358_s.jpeg"
+  },
+  {
+   "name": "Fanta uva 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Fanta_uva_350_ML-03d6ce5620cc08799b3a74776294e723_s.jpeg"
+  },
+  {
+   "name": "Fanta laranja 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Fanta_laranja_lata-437927c1f7cf51731aa69147a4be4ed6_s.jpeg"
+  },
+  {
+   "name": "Sprite lata 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Sprite_lata_350_ML-88de967d80cf2abeeb228b3d897e20d5_s.jpeg"
+  },
+  {
+   "name": "Guaraná  Antártica 350 Ml",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Guarana_Antartica_350_Ml-e3d024043bddef701c42629dc5c905bd_s.jpeg"
+  },
+  {
+   "name": "Coca cola KS",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Coca_cola_KS-cfb904d3cd6b98fd7433fa16431dcfac_s.jpeg"
+  },
+  {
+   "name": "Itubaína KS ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Itubaina_KS-af5c9ff2a5f30b6d46d7e5a6ed05c58b_s.jpeg"
+  },
+  {
+   "name": "Água c/ gás ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Skol lata 269 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Salinas ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Seleta",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Boazinha",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Skol lata 350 Ml",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6.5,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Brahma 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6.5,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Suco Maguary 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 7,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Suco_Maguary_350_ML-c34a413ed1ba5ead7d07c93cb69ce7a2_s.jpeg"
+  },
+  {
+   "name": "Água tônica 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 7,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Agua_tonica_350_ML-1c88a9738f10a6c5aff29212a392b0cc_s.png"
+  },
+  {
+   "name": "Água 1,5 L",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 7,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Chá Leão Garrafa",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 7.5,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Cha_Leao_Garrafa-b0781fc1e768fd342a48d08de3cf6697_s.jpeg"
+  },
+  {
+   "name": "Guaraviton",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 8,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Coca_Cola_200_Ml-7c0a2ee194227e546484672f8e40d0d2_s.jpeg"
+  },
+  {
+   "name": "Água de coco 330 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 8,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Agua_de_coco_330_ML-0e61a59a46c74a26b2e7062d8eb3b4b3_s.jpeg"
+  },
+  {
+   "name": "Coca cola 600 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 8.5,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Coca_cola_600_ML-4b945f4c8b48d3861336bf2ec41f66af_s.jpeg"
+  },
+  {
+   "name": "Schweppes citrus 350 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 9,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Schweppes_citrus_350_ML-bdcaad2e1e347655e8423d4e5a7439a5_s.jpeg"
+  },
+  {
+   "name": "Spaten long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 10,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Heineken zero long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 10,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Eisenbahn long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 10,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Budweiser long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 10,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Stella long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 11,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Guaraná 2L",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Guarana_2L-e71c20d659360468873f2c905a8456c5_s.jpeg"
+  },
+  {
+   "name": "Chá Leão 1,5L",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Becks long neck ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Heineken long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Skol 600 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Brahma duplo malte  600 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Campari",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Ice smirnoff",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 13,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Stella s/ glúten long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 13,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Patagônia long neck ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 13,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Corona long neck",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 13,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Petra 600 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 13,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Fanta 2L",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 14,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Fanta_2L-738036fbef0780ae62d20f356dcb7d19_s.jpeg"
+  },
+  {
+   "name": "Original 600 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 14,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Monster lata",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 15,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Monster_lata-2d4cc3f6e2f010146d4d0f01cf91fbb1_s.jpeg"
+  },
+  {
+   "name": "Dose Chico Mineiro",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 15,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Beija-Flor ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 15,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Black White",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 15,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Red bull 250 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 16,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Red_bull_250_ML-7fe45bef7be7571bbe904d7ea7f295f6_s.jpeg"
+  },
+  {
+   "name": "Coca cola 2L",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 17,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2198/produtos/Coca_cola_2L-d72732d596feda3606cdf7d3ec8e9cbc_s.jpeg"
+  },
+  {
+   "name": "Heineken 600 ML",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 18,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Tekila ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 20,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Red Label",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 25,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Jack Daniels ",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 25,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Chivas",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 30,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Dose Red Label Black",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 35,
+   "store": "espetinhodocesar-mkt16",
+   "img_url": ""
+  }
+ ]
+}

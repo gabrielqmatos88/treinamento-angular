@@ -1,0 +1,321 @@
+{
+ "id": "bistrogunda-mkt16",
+ "nome": "BISTRÔ GARAGEM DO GUNDA",
+ "category": "Restaurante",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/logo/bistro-garagem-do-gunda-1715795047-0799fa7a433b8ee3aff34f76186ae273_n.png",
+ "products": [
+  {
+   "name": "ANGU À BAIANA",
+   "category": "PRATO DO DIA",
+   "desc": "Escolha sua preferência!",
+   "price": 19.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/ANGU_A_BAIANA-6f7023642a033c16815e607640e9636f_s.jpeg"
+  },
+  {
+   "name": "Tropeiro",
+   "category": "PRATO DO DIA",
+   "desc": "",
+   "price": 32.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "PRATO DO DIA",
+   "category": "PRATO DO DIA",
+   "desc": "",
+   "price": 49.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/PRATO_DO_DIA-940f77dfb7069b193a10b2ee45e666e4_s.jpeg"
+  },
+  {
+   "name": "PRATOS DE DOMINGO",
+   "category": "PRATO DO DIA",
+   "desc": "",
+   "price": 49.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/PRATOS_DE_DOMINGO-07dd646b456ae44baea236434f50d520_s.jpeg"
+  },
+  {
+   "name": "PRATO DO BISTRO ",
+   "category": "PRATO DO BISTRO",
+   "desc": "ARROZ, FEIJÃO COM BACON,FRITAS,OVO E BIFE ACEBOLADO",
+   "price": 39.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/PRATO_DO_BISTRO-12acacd268eab47d7036e851c7659839_s.jpeg"
+  },
+  {
+   "name": "GALINHADA",
+   "category": "GALINHADA\n              \n              (PRATO INDIVIDUAL)",
+   "desc": "(PRATO INDIVIDUAL) QUINTA TEM GALINHADA!",
+   "price": 29.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/GALINHADA-a99ddce44eb4f486b8a9dc8a83ae6918_s.jpeg"
+  },
+  {
+   "name": "ENTRADAS",
+   "category": "ENTRADAS",
+   "desc": "ESCOLHA SUA ENTRADA",
+   "price": 22.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/ENTRADAS-e3e20fa763d7ce788314ed3a65a381e2_s.jpeg"
+  },
+  {
+   "name": "PASTEIZINHOS ARTESANAIS DE ANGU",
+   "category": "ENTRADAS",
+   "desc": "(10 UNIDADES) ESCOLHA SUA PREFERÊNCIA!",
+   "price": 29.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/PASTEIZINHOS_ARTESANAIS_DE_ANGU-b1ba4a275c9a62dd107a31526969928e_s.jpeg"
+  },
+  {
+   "name": "Pastelzinho de feira de salmão ",
+   "category": "ENTRADAS",
+   "desc": "",
+   "price": 29.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "Pastelzinho de feira de bacalhau ",
+   "category": "ENTRADAS",
+   "desc": "",
+   "price": 29.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "PORÇÕES",
+   "category": "PORÇÕES (ATÉ 4 PESSOAS)",
+   "desc": "(ATÉ 4 PESSOAS) ESCOLHA SUA PREFERÊNCIA",
+   "price": 29.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/PORCOES-5b988a1927705cb6a9032b7ea347ecfe_s.jpeg"
+  },
+  {
+   "name": "Tentação Cruel",
+   "category": "PORÇÕES (ATÉ 4 PESSOAS)",
+   "desc": "",
+   "price": 39.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "FILÉ DE TILÁPIA",
+   "category": "REFEIÇÕES (4 PESSOAS)",
+   "desc": "(600G DE TILÁPIA, 400G DE FRITAS, ARROZ, FAROFA E VINAGRETE)",
+   "price": 119.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/FILE_DE_TILAPIA-65fe49e99b8b42ed05ed5ea64b605565_s.jpeg"
+  },
+  {
+   "name": "Coração de Alcatra ",
+   "category": "REFEIÇÕES (4 PESSOAS)",
+   "desc": "800g de carne, Arroz, Fritas,Vinagrete e Farafofa",
+   "price": 149.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "PICANHA NA CHAPA",
+   "category": "REFEIÇÕES (4 PESSOAS)",
+   "desc": "(400G PICANHA, 400G DE FRITAS, ARROZ, FAROFA E VINAGRETE)",
+   "price": 169.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/PICANHA_NA_CHAPA-bc24c2cae7f881a42fdc951d51f1a3b0_s.jpeg"
+  },
+  {
+   "name": "RISOTOS",
+   "category": "RISOTOS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 54.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/RISOTOS-bc4da96bc6d85c48a56d3e4a61b39e86_s.jpeg"
+  },
+  {
+   "name": "MASSAS",
+   "category": "MASSAS\n              \n              MASSAS PREPARADAS ARTESANALMENTE COM MUITO CARINHO!",
+   "desc": "MASSAS PREPARADAS ARTESANALMENTE COM MUITO CARINHO!\nESCOLHA SUA PREFERÊNCIA",
+   "price": 39.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/MASSAS-16cb420ef0558b1e463e310f387a1e86_s.jpeg"
+  },
+  {
+   "name": "Nhoque",
+   "category": "MASSAS\n              \n              MASSAS PREPARADAS ARTESANALMENTE COM MUITO CARINHO!",
+   "desc": "",
+   "price": 39.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "REFRIGERANTES LATA",
+   "category": "BEBIDAS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 6,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/REFRIGERANTES-23b53a3aac13ec40079047558a7c516f_s.jpg"
+  },
+  {
+   "name": "SUCOS DEL VALLE",
+   "category": "BEBIDAS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 7,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/SUCOS_DEL_VALLE-18e0387f35c33edc9a4fb69c9cc54d87_s.jpg"
+  },
+  {
+   "name": "CLASH'D ",
+   "category": "BEBIDAS",
+   "desc": "INGREDIENTES 100% NATURAIS, A BASE DE MALTE, PRODUZIDO PELO GRUPO HEINEKEN. ESCOLHA SUA PREFERÊNCIA!",
+   "price": 6,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/CLASH_D-016bcaf4e8a45279e4ec11ca70a96a24_s.jpg"
+  },
+  {
+   "name": "BEBIDAS",
+   "category": "BEBIDAS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 5,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/BEBIDAS-915c4a955bd8173ce09e5f1c8680b778_s.jpeg"
+  },
+  {
+   "name": "SUCOS NATURAIS",
+   "category": "SUCOS NATURAIS",
+   "desc": "JARRA ou COPO (ESCOLHA SUA PREFERÊNCIA)",
+   "price": 8,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/SUCOS_NATURAIS-64be1ad17b87b293a370b73eb03d5c84_s.jpeg"
+  },
+  {
+   "name": "GARRAFAS DE VINHO",
+   "category": "VINHOS",
+   "desc": "(CONSULTAR ADEGA)",
+   "price": 99.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/GARRAFAS_DE_VINHO-9a2f20ea17fe82b769b5555881a26ef2_s.jpeg"
+  },
+  {
+   "name": "DOSES",
+   "category": "DOSES",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 8,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/DOSES-a8b1a3fbf5f7305fcad00b27ee274612_s.png"
+  },
+  {
+   "name": "DRINKS",
+   "category": "DRINKS",
+   "desc": "Deliciosas opções de drinks! ESCOLHA SUA PREFERÊNCIA!",
+   "price": 21.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/DRINKS-461a9b2f51c8a8c68ed4d09eb11d6e0e_s.jpeg"
+  },
+  {
+   "name": "GIN TROPICAL",
+   "category": "DRINKS",
+   "desc": "(GIN, FRUTAS E ENERGÉTICO À SUA ESCOLHA)",
+   "price": 39.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/GIN_TROPICAL-5b4d230eefd703b14d7a1a3afddb07c3_s.jpeg"
+  },
+  {
+   "name": "CERVEJAS 600ml",
+   "category": "CERVEJAS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 12.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/CERVEJAS_600ml-fffd717b8f3173508f412222c1e55f9d_s.jpg"
+  },
+  {
+   "name": "LONG NECKS",
+   "category": "CERVEJAS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 10,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/LONG_NECKS-c9978da336d86e6d7373adc2e5da130c_s.jpeg"
+  },
+  {
+   "name": "CERVEJAS ESPECIAIS",
+   "category": "CERVEJAS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 18.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/CERVEJAS_ESPECIAIS-15fbce66ba08380dadfc7c27e3dbfc2d_s.jpeg"
+  },
+  {
+   "name": "BADEN BADEN",
+   "category": "CERVEJAS",
+   "desc": "ESCOLHA SUA PREFERÊNCIA!",
+   "price": 19.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/BADEN_BADEN-c0b28a424b48025757147159e60c0857_s.jpeg"
+  },
+  {
+   "name": "CERVEJA PETRA ",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 12.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "SORVETES E AÇAÍ",
+   "category": "SOBREMESAS\n              \n              SORVETES E PICOLÉS GALATO",
+   "desc": "Potes, açaí & Paletinhas!",
+   "price": 9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/SORVETES_E_ACAI-0ef1e508feb12a8e3104ca9b1bbdafe1_s.jpg"
+  },
+  {
+   "name": "GALATO SORVETES",
+   "category": "SOBREMESAS\n              \n              SORVETES E PICOLÉS GALATO",
+   "desc": "Picolés & Cone!",
+   "price": 5,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/GALATO_SORVETES-ea3a85a3486e4c966983a40a643d2e9c_s.jpg"
+  },
+  {
+   "name": "PANACOTA",
+   "category": "SOBREMESAS\n              \n              SORVETES E PICOLÉS GALATO",
+   "desc": "",
+   "price": 22.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/PANACOTA-fd09ea0606a49efbe1c4ea1ae77615a5_s.jpeg"
+  },
+  {
+   "name": "PUDIM DE LEITE MOÇA COM RASPAS DE LIMÃO",
+   "category": "SOBREMESAS\n              \n              SORVETES E PICOLÉS GALATO",
+   "desc": "",
+   "price": 22.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "PETIT GATEAU COM SORVETE DE CREME",
+   "category": "SOBREMESAS\n              \n              SORVETES E PICOLÉS GALATO",
+   "desc": "ESCOLHA A COBERTURA!",
+   "price": 22.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "QUEIJO MINEIRO FRESCO COM DOCE DE LEITE CASEIRO DA VOVÓ",
+   "category": "SOBREMESAS\n              \n              SORVETES E PICOLÉS GALATO",
+   "desc": "",
+   "price": 22.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/QUEIJO_MINEIRO_FRESCO_COM_DOCE_DE_LEITE_CASEIRO_DA_VOVO-22f71f5714662695a6d3cff966fe619c_s.jpeg"
+  },
+  {
+   "name": "CRÈME BRÛLÉE",
+   "category": "SOBREMESAS\n              \n              SORVETES E PICOLÉS GALATO",
+   "desc": "CREME FRANCÊS SABOR BAUNILHA COM CASQUINHA CROCANTE DE AÇÚCAR QUEIMADO",
+   "price": 22.9,
+   "store": "bistrogunda-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4442/produtos/CREME_BRULEE-5cc6c45f76660c6f35a9813f96628025_s.png"
+  }
+ ]
+}

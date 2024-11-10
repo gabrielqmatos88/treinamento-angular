@@ -1,0 +1,585 @@
+{
+ "id": "stopburguer-mkt16",
+ "nome": "STOP BURGUER",
+ "category": "Lanches e Burger",
+ "deliveryTime": "15 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas//logo/STOP_BURGUER-a509891ed9098737d759efd879609bd9_n.jpeg",
+ "products": [
+  {
+   "name": "COMBO CASAL",
+   "category": "LANÇAMENTO",
+   "desc": "1 burguer pão brioche, 2 carnes smash 105g, queijo prato, bacon, cebola crispy e molho do chef + 1 burguer pão brioche, 1 carne smash 105g, queijo prato, bacon, cebola crispy e molho do chef + 1 porção de batata ondulada 150g Páprica ou sal + 1 porção de linguiça calabresa acebolada 250g + 2 refrigerantes 350 ml a sua preferência + 2 potinhos de maionese do chef",
+   "price": 112.8,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_CASAL-480597166a76278b4e5bba15a6fee301_s.jpg"
+  },
+  {
+   "name": "2 CLÁSSICOS",
+   "category": "LANÇAMENTO",
+   "desc": "2 BURGUER CLÁSSICO: PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO PRATO, ALFACE, TOMATE, CEBOLA ROXA E MOLHO DO CHEF.",
+   "price": 39.99,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/2_CLASSICOS-0980f5bbccf9f17fc8bef17ce00e80ac_s.jpg"
+  },
+  {
+   "name": "2 MAX BURGUER",
+   "category": "LANÇAMENTO",
+   "desc": "2 MAX BURGUER - PÃO BRIOCHE, 2 CARNES SMASH 105g, QUEIJO PRATO, CEBOLA ROXA CHAPEADA, PICLES e MOLHO DO CHEF.",
+   "price": 56.99,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/2_MAX_BURGUER-b0eb47c5fb186b6a96c787092bcb99b1_s.jpeg"
+  },
+  {
+   "name": "CHEESE (VEGETARIANO)",
+   "category": "BURGUERS",
+   "desc": "Pão brioche, queijo empanado, queijo prato, alface, tomate e molho do chef.",
+   "price": 30.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/CHEESE_VEGETARIANO-d0b0b19931c8aabe7c510b39f63f3858_s.jfif"
+  },
+  {
+   "name": "DUPLO CHEDDAR",
+   "category": "BURGUERS",
+   "desc": "Pão brioche  2 carnes  smash molho cheddar e bacon",
+   "price": 37.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/DUPLO_CHEDDAR-d55d75aa2b66f95dd1573b34e6e85656_s.jpeg"
+  },
+  {
+   "name": "BURGUER DA MIH",
+   "category": "BURGUERS",
+   "desc": "PÃO FRANCÊS, CARNE SMASH 105g , QUEIJO PRATO BACON, ALFACE, TOMATE, CEBOLA ROXA e MOLHO DO CHEF",
+   "price": 33.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BURGUER_DA_MIH-2070d1d8c52002131f7504edf73561d1_s.jpeg"
+  },
+  {
+   "name": "KIDS",
+   "category": "BURGUERS",
+   "desc": "PÃO BRIOCHE, CARNE SMASH 105g E QUEIJO PRATO",
+   "price": 19.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/KIDS-2af8ea717860852fbf461e4071205a1c_s.jpeg"
+  },
+  {
+   "name": "EGG",
+   "category": "BURGUERS",
+   "desc": "PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO PRATO, OVO E MAIONESE DO CHEF .",
+   "price": 26.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/EGG-447858f420a625d56e44d68dc7ce2843_s.jpg"
+  },
+  {
+   "name": "CLÁSSICO",
+   "category": "BURGUERS",
+   "desc": "PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO PRATO, ALFACE, TOMATE, CEBOLA ROXA E MOLHO DO CHEF.",
+   "price": 27.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/CLASSICO-8d7f339c81686dbfd79b96c57622d35f_s.jpg"
+  },
+  {
+   "name": "CHEDDAR",
+   "category": "BURGUERS",
+   "desc": "PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO CHEDDAR, CEBOLA CARAMELIZADA E BACON",
+   "price": 29.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/CHEDDAR-f461cb2a76bfe3b2ef1c28bc10441888_s.jpg"
+  },
+  {
+   "name": "BURGUER CRISPY",
+   "category": "BURGUERS",
+   "desc": "PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO CHEDDAR, CEBOLA CRISPY E MOLHO BARBECUE",
+   "price": 29.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BURGUER_CRISPY-fd29f2e401d0b8f10e607f82770c7343_s.jpg"
+  },
+  {
+   "name": "STOP BACON",
+   "category": "BURGUERS",
+   "desc": "PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO PRATO, BACON, PICLES E MOLHO DO CHEF",
+   "price": 31.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/STOP_BACON-c8d58f5aec16f32e8b47084a481be4c7_s.jpeg"
+  },
+  {
+   "name": "BURGUER DE COSTELA",
+   "category": "BURGUERS",
+   "desc": "PÃO DE HAMBÚRGUER FRANCÊS REDONDO, COSTELA MOÍDA 105g, QUEIJO PRATO, BACON E MOLHO COLESLAW*\n\n\n\n      (*REPOLHO ROXO, REPOLHO VERDE, CEBOLA ROXA, CENOURA, SALSINHA E MAIONESE DO CHEF)",
+   "price": 33.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BURGUER_DE_COSTELA-c2b653b0848e56bafa1bf75a3d0a3543_s.jpeg"
+  },
+  {
+   "name": "STOP BLACK",
+   "category": "BURGUERS",
+   "desc": "Pão australiano, carne smash 105g, queijo cheddar, 2 cebolas onions, bacon, e maionese de picles.",
+   "price": 33.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/STOP_BLACK-ad582f54d5dcf1a435a26b6d5f9825a5_s.jpeg"
+  },
+  {
+   "name": "MAX BURGUER",
+   "category": "BURGUERS",
+   "desc": "PÃO BRIOCHE, 2 CARNES SMASH 105g, QUEIJO PRATO, CEBOLA ROXA CHAPEADA, PICLES e MOLHO DO CHEF.",
+   "price": 35.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/MAX_BURGUER-24ea969d76cd09868f597bf7c1631d37_s.jpeg"
+  },
+  {
+   "name": "STOP FISH",
+   "category": "BURGUERS",
+   "desc": "Pão brioche, peixe empanado, queijo prato, alface fatiada, limão e maionese do chef.",
+   "price": 33.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/STOP_FISH-8197170847065c358f54ad90ce8ec531_s.jpg"
+  },
+  {
+   "name": "ORIGINAL CRISPY",
+   "category": "BURGUERS",
+   "desc": "PÃO DE HAMBÚRGUER, 2 CARNES SMASH 105g, QUEIJO PRATO, CEBOLA CRISPY E CATUPIRY.",
+   "price": 37.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/ORIGINAL_CRISPY-fccb48019847b2e906bab7af52c9afd1_s.jpeg"
+  },
+  {
+   "name": "STOP CHEESE",
+   "category": "BURGUERS",
+   "desc": "PÃO DE BRIOCHE, CARNE SMASH 105g, QUEIJO EMPANADO, QUEIJO PRATO, ALFACE, TOMATE E MOLHO DO CHEF",
+   "price": 37.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/STOP_CHEESE-eb15d852e226f80e14660a0fed340acc_s.jpeg"
+  },
+  {
+   "name": "MAX TOSCANA",
+   "category": "BURGUERS",
+   "desc": "Pão de hambúrguer francês redondo, 2 toscanas smash 105g, queijo mussarela, vinagrete, alface e maionese do chef.",
+   "price": 35.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/MAX_TOSCANA-3e61a8e44afd7c1ff88b486a2836587e_s.jpeg"
+  },
+  {
+   "name": "STOP CHICKEN",
+   "category": "BURGUERS",
+   "desc": "PÃO FRANCÊS REDONDO, HAMBÚRGUER DE FRANGO EMPANADO, QUEIJO PRATO, ALFACE, TOMATE, CEBOLA ROXA E MAIONESE DO CHEF",
+   "price": 33.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/STOP_CHICKEN-5c58ea442c04a97afabfb0a85299fd9f_s.jpg"
+  },
+  {
+   "name": "COMBO KIDS + BATATA 150g  MAIONESE DO CHEF ACOMPANHA  BATATA + REFRI  A SUA ESCOLHA",
+   "category": "COMBOS",
+   "desc": "BURGUER KIDS - PÃO BRIOCHE, CARNE SMASH 105g E QUEIJO PRATO + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 41.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_KIDS_BATATA_150g_MAIONESE_DO_CHEF_ACOMPANHA_BATATA_REFRI_A_SUA_ESCOLHA-80fe6f68f29b5bd4d1d73592c2264daf_s.jfif"
+  },
+  {
+   "name": "COMBO DOG CHEESE + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "pão hot dog  brioche, salsicha frankfurt, molho cheddar e bacon em cubos + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 47.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_DOG_CHEESE_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-b047a7eb1dc9051fd5738fef424c4296_s.jpeg"
+  },
+  {
+   "name": "COMBO EGG + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER EGG - PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO PRATO, OVO E MAIONESE DO CHEF + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 48.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_EGG_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-517879826a692ebfb93a0b2924135377_s.jfif"
+  },
+  {
+   "name": "COMBO CLÁSSICO + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER CLÁSSICO - PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO PRATO, ALFACE, TOMATE, CEBOLA ROXA E MOLHO DO CHEF + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 49.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_CLASSICO_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-0a65b1724e94d93f9c4397c61e4c1615_s.jfif"
+  },
+  {
+   "name": "COMBO DOG CATUPIRY + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "pão de hot dog brioche, salsicha enrolada no bacon, repolho roxo, repolho verde e catupiry + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 50.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_DOG_CATUPIRY_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-1e3a9744277bffe280f596ff4b7c6790_s.jpeg"
+  },
+  {
+   "name": "COMBO CHEDDAR + BATATA 150g (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER CHEDDAR - PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO CHEDDAR, CEBOLA CARAMELIZADA E BACON + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 51.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_CHEDDAR_BATATA_150g_REFRI_350ml-30712159d10f058f642cb68d16d81ab3_s.jpeg"
+  },
+  {
+   "name": "COMBO BURGUER CRISPY + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER CRISPY - PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO CHEDDAR, CEBOLA CRISPY E MOLHO BARBECUE + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 51.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_BURGUER_CRISPY_BATATA_150g_REFRI_350ml-29595fcfad5eb439059d8ceca49f71f1_s.jpeg"
+  },
+  {
+   "name": "CHEESE (VEGETARIANO) + BATATA 150g (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "Pão brioche, queijo empanado, queijo prato, alface, tomate e molho do chef + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 52.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/CHEESE_VEGETARIANO_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-3b3e29cc6b69aeca8ebd8749c5d2dcb0_s.jfif"
+  },
+  {
+   "name": "COMBO STOP BACON + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER STOP BACON - PÃO BRIOCHE, CARNE SMASH 105g, QUEIJO PRATO, BACON, PICLES E MOLHO DO CHEF + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 53.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_STOP_BACON_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-19d5873bdfd5ae50428c97f67c8846ab_s.jfif"
+  },
+  {
+   "name": "COMBO BURGUER DA Mih + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER DA Mih- PÃO FRANCÊS, CARNE SMASH 105g , QUEIJO PRATO BACON, ALFACE, TOMATE, CEBOLA ROXA e MOLHO DO CHEF + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 55.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_BURGUER_DA_Mih_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-6fd65d913d5bac777bae03c53fe4359c_s.jpg"
+  },
+  {
+   "name": "COMBO STOP BLACK + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "Pão australiano, carne smash 105g, queijo cheddar, 2 cebolas onions, bacon, e maionese de picles + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 55.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_STOP_BLACK_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-572204bb9cc6dceef6aab7f1911f8c9c_s.jfif"
+  },
+  {
+   "name": "COMBO STOP FISH + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha ",
+   "category": "COMBOS",
+   "desc": "Pão brioche, peixe empanado, queijo prato, alface fatiada, limão e maionese do chef + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 55.9,
+   "store": "stopburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "COMBO BURGUER DE COSTELA + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER DE COSTELA - PÃO DE HAMBÚRGUER FRANCÊS REDONDO, COSTELA MOÍDA 105g, QUEIJO PRATO, BACON E MOLHO COLESLAW*\n(*REPOLHO ROXO, REPOLHO VERDE, CEBOLA ROXA, CENOURA, SALSINHA E MAIONESE DO CHEF) + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 55.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_BURGUER_DE_COSTELA_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-1aa870a8596518e7daad0ed2978003f7_s.jfif"
+  },
+  {
+   "name": "COMBO STOP CHICKEN + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "HAMBÚRGUER DE FRANGO EMPANADO, PÃO FRANCÊS REDONDO, QUEIJO PRATO, ALFACE, TOMATE, CEBOLA ROXA E MAIONESE DO CHEF + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 55.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_STOP_CHICKEN_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-a6bf1a45416d98055f4b553ddec88410_s.jfif"
+  },
+  {
+   "name": "COMBO MAX TOSCANA + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "Pão de hambúrguer francês redondo, 2 toscanas smash 105g, queijo mussarela, vinagrete, alface e maionese do chef + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 57.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_MAX_TOSCANA_BATATA_150g_REFRI_350ml-9a0e9af7dc43406760f6c0480eaa8ed0_s.jpeg"
+  },
+  {
+   "name": "COMBO MAX BURGUER + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "BURGUER MAX BURGUER - PÃO BRIOCHE, 2 CARNES SMASH 105g, QUEIJO PRATO, CEBOLA ROXA CHAPEADA, PICLES e MOLHO DO CHEF + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 57.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_MAX_BURGUER_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-15f24d1146b524a3f7cbc097b299442e_s.jpeg"
+  },
+  {
+   "name": "COMBO ORIGINAL CRISPY + BATATA 150g   + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "Pão de hambúrguer, 2 carnes smash 105g, queijo prato, cebola crispy e catupiry + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 59.9,
+   "store": "stopburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "COMBO STOP CHEESE + BATATA 150g  (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "Pão brioche, carne smash 105g, queijo empanado, queijo prato, alface, tomate e molho do chef + BATATA a sua escolha + REFRI a sua escolha.",
+   "price": 59.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_STOP_CHEESE_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-836f64e72077a5306868b95214d4f095_s.jfif"
+  },
+  {
+   "name": "COMBO DUPLO CHEDDAR + BATATA 150g (acompanha maionese do chef) + REFRI a sua escolha",
+   "category": "COMBOS",
+   "desc": "Pão brioche  2 carnes  smash molho cheddar e bacon",
+   "price": 59.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_DUPLO_CHEDDAR_BATATA_150g_acompanha_maionese_do_chef_REFRI_a_sua_escolha-ff5820cf0b227da126c3ca28c672bd2b_s.jfif"
+  },
+  {
+   "name": "COMBO FAMÍLIA 01",
+   "category": "COMBOS",
+   "desc": "3 Burgers: Kids, Egg, Stop bacon + 1 batata + 3 Refrigerantes à sua escolha",
+   "price": 100.52,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_FAMILIA_01-2dc082ac9d761e0b7c8eb9e53c255a64_s.jpeg"
+  },
+  {
+   "name": "COMBO FAMÍLIA 02",
+   "category": "COMBOS",
+   "desc": "3 Burgers: Max burguer, Clássico, Burguer crysp + 1 batata + 3 Refrigerantes à sua escolha",
+   "price": 114.03,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COMBO_FAMILIA_02-c8c350875a94f6af9258f7f19debec88_s.jpeg"
+  },
+  {
+   "name": "DOG CHEESE",
+   "category": "DOGS",
+   "desc": "pão de hot dog brioche , salsicha frankfurt, molho cheddar e bacon em cubos.",
+   "price": 25.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/DOG_CHEESE-e4ade947962407abe590185428728c9f_s.jpeg"
+  },
+  {
+   "name": "DOG CATUPIRY",
+   "category": "DOGS",
+   "desc": "pão de hot dog brioche, salsicha Frankfurt enrolada no bacon, repolho roxo, repolho verde e catupiry.",
+   "price": 28.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/DOG_CATUPIRY-648afa69d9090ba55a577689aad840e5_s.jpeg"
+  },
+  {
+   "name": "BATATA ONDULADA 150g (PÁPRICA e SAL) - acompanha maionese do chef",
+   "category": "PORÇÕES",
+   "desc": "PÁPRICA e SAL",
+   "price": 15,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BATATA_ONDULADA_150g_PAPRICA_e_SAL-6e41c104fafbf2f6f31af8c94aa26dc4_s.jpeg"
+  },
+  {
+   "name": "BATATA ONDULADA 150g (SAL) - acompanha maionese do chef",
+   "category": "PORÇÕES",
+   "desc": "Sal",
+   "price": 15,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BATATA_ONDULADA_150g_SAL_acompanha_maionese_da_casa-f9140b2caae0b1748b84e2fd9cb9a77a_s.jpg"
+  },
+  {
+   "name": "ONION RINGS 10 UNID",
+   "category": "PORÇÕES",
+   "desc": "10 unid",
+   "price": 15,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/ONION_RINGS_10_UNID-63ec8137a9982784d4216779d932d508_s.jpeg"
+  },
+  {
+   "name": "NUGGETS PREMIUM 8 UNID",
+   "category": "PORÇÕES",
+   "desc": "8 unid",
+   "price": 15,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/NUGGETS_PREMIUM_8_UNID-ce9946238ff5a0e3d13f1d9fe4ce7a4f_s.jpg"
+  },
+  {
+   "name": "BATATA ONDULADA 150g (CHEDDAR e BACON) - acompanha maionese do chef",
+   "category": "PORÇÕES",
+   "desc": "CHEDDAR e BACON",
+   "price": 20,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BATATA_ONDULADA_150g_CHEDDAR_e_BACON_acompanha_maionese_da_casa-0d5e05223c0d78665210af1dc342e7fe_s.jpg"
+  },
+  {
+   "name": "BATATA ONDULADA (400g)",
+   "category": "PORÇÕES",
+   "desc": "Escolha sua preferência!",
+   "price": 30,
+   "store": "stopburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "BATATA ONDULADA C/ MOLHO CHEDDAR e BACON (400g)",
+   "category": "PORÇÕES",
+   "desc": "Escolha sua preferência!",
+   "price": 40,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BATATA_ONDULADA_400g-bc7c86a6b5a96b447cee7600cf0c68b3_s.jpeg"
+  },
+  {
+   "name": "ÁGUA SEM GÁS 500ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 3,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/AGUA_SEM_GAS_500ml-57e7389dabf9a000808ca86ac4cf169e_s.jpg"
+  },
+  {
+   "name": "ÁGUA COM GÁS 500ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 4,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/AGUA_COM_GAS_500ml-561a3225dab104fbf5ecabaaf3833607_s.jpg"
+  },
+  {
+   "name": "COCA-COLA LATA 350ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COCA_COLA_LATA_350ml-625befa47a79266d4241bf58554bde0d_s.jpg"
+  },
+  {
+   "name": "COCA ZERO LATA 350ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/COCA_ZERO_LATA_350ml-71de8f89032f68c230c5bfac36f2981b_s.jpg"
+  },
+  {
+   "name": "FANTA LARANJA LATA 350ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/FANTA_LARANJA_LATA_350ml-601c852552f7a364663e7e9c50005705_s.jpg"
+  },
+  {
+   "name": "FANTA UVA LATA 350ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/FANTA_UVA_LATA_350ml-2bbf07afd14ea05a136b6296526f72c2_s.jpg"
+  },
+  {
+   "name": "GUARANÁ LATA 350ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/GUARANA_LATA_350ml-41901b874541fda122622f23542c5894_s.png"
+  },
+  {
+   "name": "SUCO DEL VALLE UVA 290ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/SUCO_DEL_VALLE_UVA_290ml-97c161339b7a0631122b96d87fce1ba9_s.jpg"
+  },
+  {
+   "name": "SUCO DEL VALLE PÊSSEGO 290ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/SUCO_DEL_VALLE_PESSEGO_290ml-50aafc5082c4c1dbad08491b0b2555d7_s.jpg"
+  },
+  {
+   "name": "SUCO DEL VALLE GOIABA 290ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/SUCO_DEL_VALLE_GOIABA_290ml-241fc1e602809d6a2dfe0e4803aec349_s.jpeg"
+  },
+  {
+   "name": "GUARANÁ ZERO LATA 350ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 6,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/GUARANA_ZERO_LATA_350ml-43a91cf533209d620c742fdfadc020fe_s.jpg"
+  },
+  {
+   "name": "H2O LIMÃO 500ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 8,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/H2O_LIMAO_500ml-a8bec3aedbdb0ee2e3c077cd56a598c0_s.jpg"
+  },
+  {
+   "name": "H2O LIMONETO 500ml",
+   "category": "REFRIS & ÁGUAS",
+   "desc": "",
+   "price": 8,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/H2O_LIMONETO_500ml-be32135a1009841db9cbd34a4481ed3e_s.jpg"
+  },
+  {
+   "name": "BRAHMA DUPLO MALTE LATA 350ml",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 7,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BRAHMA_DUPLO_MALTE_LATA_350ml-ab279657a5ddefd2f71b747c6d6e2ca1_s.png"
+  },
+  {
+   "name": "BUDWEISER (LONG NECK)",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/BUDWEISER_LONG_NECK-a46157cf75e49d9400514194a78cb712_s.jpg"
+  },
+  {
+   "name": "CORONA (LONG NECK)\t",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 10,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/CORONA_LONG_NECK-7f859ed54844d4051ee600a62b0611c4_s.jpeg"
+  },
+  {
+   "name": "HEINEKEN (LONG NECK)",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 10,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/HEINEKEN_LONG_NECK-e9b129afdc65ddfffa72247f4717424c_s.jpg"
+  },
+  {
+   "name": "SUCO DE AÇAÍ 500ml  ",
+   "category": "AÇAÍ",
+   "desc": "",
+   "price": 16,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/SUCO_DE_ACAI_500ml-43e0086079a848f9235df18c94d71629_s.jpeg"
+  },
+  {
+   "name": "AÇAÍ 400 ml ",
+   "category": "AÇAÍ",
+   "desc": "",
+   "price": 23.9,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/ACAI_400_ml-9c6c8b6613ce565e9edb9420c38fd8d9_s.jpeg"
+  },
+  {
+   "name": "MILK SHAKE 400ml",
+   "category": "SOBREMESA",
+   "desc": "",
+   "price": 15,
+   "store": "stopburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3140/produtos/MILK_SHAKE_400ml-73d09478b53d2fd3bbeddfc8dac2655b_s.jpeg"
+  },
+  {
+   "name": "BROWNIE",
+   "category": "SOBREMESA",
+   "desc": "Brownie, calda e sorvete",
+   "price": 20,
+   "store": "stopburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "PETIT GATEAU",
+   "category": "SOBREMESA",
+   "desc": "Petit Gateau, calda e sorvete",
+   "price": 20,
+   "store": "stopburguer-mkt16",
+   "img_url": ""
+  }
+ ]
+}

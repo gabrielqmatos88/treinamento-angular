@@ -1,0 +1,161 @@
+{
+ "id": "oduque-mkt16",
+ "nome": "O DUQUE",
+ "category": "Marmita",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas//logo/O_DUQUE-1ff31725b900da105563e03afb3ea31a_n.jpeg",
+ "products": [
+  {
+   "name": "10 MARMITAS - ARROZ INTEGRAL (5 CARNE + 5 FRANGO)",
+   "category": "FRANGO + CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 165,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/10_MARMITAS_5_CARNE_5_FRANGO-5bdc93f7da1d7a052ac1ddf205b72b1f_s.jpeg"
+  },
+  {
+   "name": "10 MARMITAS - ARROZ BRANCO (5 CARNE + 5 FRANGO)",
+   "category": "FRANGO + CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 170,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/10_MARMITAS_ARROZ_BRANCO_5_CARNE_5_FRANGO-d7ec6b92c616bf62acc04e01c5aa866a_s.jpeg"
+  },
+  {
+   "name": "20 MARMITAS - ARROZ BRANCO (10 CARNE + 10 FRANGO)",
+   "category": "FRANGO + CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 250,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/20_MARMITAS_10_CARNE_10_FRANGO-9b4a2bc8bc0b2997327c38968e38bc4e_s.jpeg"
+  },
+  {
+   "name": "20 MARMITAS - ARROZ INTEGRAL  (10 CARNE + 10 FRANGO)",
+   "category": "FRANGO + CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 250,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/20_MARMITAS_10_CARNE_10_FRANGO-c5a430eff164fefb25a660fe231856f0_s.jpeg"
+  },
+  {
+   "name": "30 MARMITAS - ARROZ INTEGRAL (15 CARNE + 15 FRANGO)",
+   "category": "FRANGO + CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 360,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/30_MARMITAS_ARROZ_BRANCO_15_CARNE_15_FRANGO-99d97163bfe73d442d970918f8be6a94_s.jpeg"
+  },
+  {
+   "name": "30 MARMITAS - ARROZ BRANCO (15 CARNE + 15 FRANGO)",
+   "category": "FRANGO + CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 360,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/30_MARMITAS_15_CARNE_15_FRANGO-9f610b7746a2f343012ad7f0e350ecde_s.jpeg"
+  },
+  {
+   "name": "10 MARMITAS ARROZ INTEGRAL - CARNE ",
+   "category": "CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 220,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/10_MARMITAS_INTEGRAL_CARNE-a42010e6ce28118820e95351d995d587_s.jpeg"
+  },
+  {
+   "name": "10 MARMITAS ARROZ BRANCO - CARNE",
+   "category": "CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 220,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/10_MARMITAS_5_CARNE_5_FRANGO-a961b6ebc914cc3c6f4e5da88bf4bfa9_s.jpeg"
+  },
+  {
+   "name": "20 MARMITAS ARROZ INTEGRAL - CARNE",
+   "category": "CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 360,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/20_MARMITAS_ARROZ_INTEGRAL_CARNE-021053d9fddf9d880adfdb1766205a2c_s.jpeg"
+  },
+  {
+   "name": "20 MARMITAS ARROZ BRANCO - CARNE",
+   "category": "CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 360,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/20_MARMITAS_10_CARNE_10_FRANGO-17133083e5437dd7a7519586fcb64068_s.jpeg"
+  },
+  {
+   "name": "30 MARMITAS ARROZ INTEGRAL - CARNE",
+   "category": "CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 510,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/30_MARMITAS_ARROZ_INTEGRAL_CARNE-05d9e6119a377169b14f301dac2cb479_s.jpeg"
+  },
+  {
+   "name": "30 MARMITAS ARROZ BRANCO - CARNE",
+   "category": "CARNE",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 510,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/30_MARMITAS_15_CARNE_15_FRANGO-4123698d6f3d68a754ccb7c3a66ae92d_s.jpeg"
+  },
+  {
+   "name": "10 MARMITAS ARROZ INTEGRAL - FRANGO",
+   "category": "FRANGO",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 200,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/10_MARMITAS_ARROZ_INTEGRAL_FRANGO-cb6d41069248ceba745c31c95abf9975_s.jpeg"
+  },
+  {
+   "name": "10 MARMITAS ARROZ BRANCO - FRANGO",
+   "category": "FRANGO",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 200,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/10_MARMITAS_FRANGO-49d7c9312eb1648f6e61c56bbae50c0f_s.jpeg"
+  },
+  {
+   "name": "20 MARMITAS ARROZ INTEGRAL - FRANGO",
+   "category": "FRANGO",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 340,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/20_MARMITAS_ARROZ_INTEGRAL_FRANGO-600ef73f4572c5d215910042deb3b2db_s.jpeg"
+  },
+  {
+   "name": "20 MARMITAS ARROZ BRANCO - FRANGO",
+   "category": "FRANGO",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 340,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/20_MARMITAS_FRANGO-ceb513a5b66957d97901fdcfcd31bd2b_s.jpeg"
+  },
+  {
+   "name": "30 MARMITAS ARROZ INTEGRAL - FRANGO",
+   "category": "FRANGO",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 450,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/30_MARMITAS_ARROZ_INTEGRAL_FRANGO-5db575d57ed0cbd048afd1844dd951a1_s.jpeg"
+  },
+  {
+   "name": "30 MARMITAS ARROZ BRANCO - FRANGO",
+   "category": "FRANGO",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 100g de carne ou frango e dividimos os componentes na vasilha (carboidratos e vegetais).\nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 450,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/30_MARMITAS_FRANGO-da9d6d74eabb53d58fc342b6a9f84b64_s.jpeg"
+  },
+  {
+   "name": "20 MARMITAS (10 CARNE + 10 FRANGO)",
+   "category": "LOW CARB",
+   "desc": "Nossa embalagem é de 500 ml! A pesagem é 150g de carne ou frango e dividimos os componentes na vasilha . 150 a 200g de legumes \nVaria entre 350g a 450g.\nIMPORTANTE** DENTRO 1 a 2 DIAS ÚTEIS NOSSO MOTOBOY ENTRARÁ EM CONTATO E AGENDARÁ A SUA ENTREGA!\nBH E CONTAGEM ENTREGA GRATUITA, demais localizações R$20,00**",
+   "price": 300,
+   "store": "oduque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4575/produtos/20_MARMITAS_10_CARNE_10_FRANGO-bb8992d783a5af265b141172b6cb0dae_s.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "ciencia-mkt5",
+ "nome": "CIENCIA FOOD AND DRINKS",
+ "category": "Lanches e Burger, Restaurante, Espeto",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3235/logo/ciencia-food-and-drinks-1670416363-575871e059cbc12013acb381f4e061ca_n.jpg",
+ "products": [
+  {
+   "name": "Parmegiana de Tilápia",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "Arroz, Parmegiana de Tilápia, Purê de Batata e Salada Especial",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "Carne Cozida c/ Batata",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "Arroz, Feijão Comum, Carne Cozida com Batatas Bolinhas, Farofa e Salada Especial",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "Espaguete a Bolonhesa com Bife de Frango Empanado",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "Tutu de Feijão com Lombo",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "Arroz, Tutu de Feijão, Ovo Cozido, Lombo, Couve Refogada e Torresminho",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "Feijoada",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "Arroz, Feijoada, Farofa, Vinagrete e Couve Refogada",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "Contra-Filé ao Molho Madeira",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "Parmegiana ",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "Arroz, Parmegiana de Boi ou Frango, Purê de Batata",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "PRATO FEITO",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "Monte seu prato como preferir, de acordo com as opções disponíveis.",
+   "price": 23.9,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "BEBIDAS",
+   "category": "ALMOÇO - CIÊNCIA",
+   "desc": "",
+   "price": 5,
+   "store": "ciencia-mkt5",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  }
+ ]
+}

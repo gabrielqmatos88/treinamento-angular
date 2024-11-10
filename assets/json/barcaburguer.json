@@ -1,0 +1,345 @@
+{
+ "id": "barcaburguer",
+ "nome": "BARCA BURGUER",
+ "category": "Lanches e Burger, Doces e Bolos",
+ "deliveryTime": "40 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/logo/barca-burguer-1723561507-2ce99cda4adfa09b33e35593e0ced9c5_n.png",
+ "products": [
+  {
+   "name": "Hambúrguer de Carne",
+   "category": "Hambúrguer",
+   "desc": "Pão, hambúrguer de carne artesanal 90g, queijo, alface americana, maionese temperada, ketchup e barbecue.",
+   "price": 24,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Hamburguer_de_Carne-ea2f84733a2362a4dca293028305f268_s.jpg"
+  },
+  {
+   "name": "Chapa Quente",
+   "category": "Hambúrguer",
+   "desc": "Pão na chapa com manteiga, hambúrguer artesanal 90g, queijo cheddar, bacon, maionese temperada e ketchup.",
+   "price": 25,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Chapa_Quente-f79c2102469149b20112c051a3989997_s.jpg"
+  },
+  {
+   "name": "Hambúrguer de Carne Bacon",
+   "category": "Hambúrguer",
+   "desc": "Pão, hambúrguer de carne artesanal 90g, queijo, alface americana, bacon, maionese temperada, ketchup e barbecue.",
+   "price": 25,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Hamburguer_de_Carne_Bacon-e07f32433011fd49412ecd79241cb04e_s.jpg"
+  },
+  {
+   "name": "Hambúrguer de Frango",
+   "category": "Hambúrguer",
+   "desc": "Pão, hambúrguer de frango 90g, queijo mussarela, alface americana, maionese temperada, ketchup e barbecue.",
+   "price": 25,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Hamburguer_de_Frango-3834c037505727fd4ed4cac8c2335053_s.jpg"
+  },
+  {
+   "name": "Hambúrguer de Frango Empanado",
+   "category": "Hambúrguer",
+   "desc": "Pão, 1 sobrecoxa empanada, maionese temperada, ketchup, cheddar, mussarela e bacon.",
+   "price": 25,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Hamburguer_de_Frango_Empanado-80906ab86e6f985499f37f943bdaf297_s.jpg"
+  },
+  {
+   "name": "Hambúrguer de Pernil",
+   "category": "Hambúrguer",
+   "desc": "Hambúrguer de pernil suíno, queijo, alface, bacon, maionese temperada e ketchup.",
+   "price": 26,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Hamburguer_de_Pernil-cdd3c526e19ff337691c19ac7191a7db_s.jpg"
+  },
+  {
+   "name": "Hambúrguer de Carne Egg",
+   "category": "Hambúrguer",
+   "desc": "Pão, hambúrguer de carne artesanal 90g, ovo, alface americana, bacon, maionese temperada, ketchup e barbecue.",
+   "price": 27,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Hamburguer_de_Carne_Egg-de14040e10d970751a7b9ff2d808c57d_s.jpg"
+  },
+  {
+   "name": "Melaço Mexicano",
+   "category": "Hambúrguer",
+   "desc": "Pão, hambúrguer 100g, 2 queijos, molho da casa, cebola empanada e melaço apimentado.",
+   "price": 28,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Melaco_Mexicano-7c8924cbfb56400fea94713c8d3c6f76_s.jpg"
+  },
+  {
+   "name": "Caipira de Minas",
+   "category": "Hambúrguer",
+   "desc": "Pão, hambúrguer 100g, 2 queijos, molho da casa, ovo, bacon, milho e alface.",
+   "price": 28,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Caipira_de_Minas-a67ea3029a8f6ddb8988c767aefca488_s.jpg"
+  },
+  {
+   "name": "Camarão 4 Queijos",
+   "category": "Hambúrguer",
+   "desc": "Pão, hambúrguer, molho da casa, camarão ao queijo 100g, brócolis e alho frito.",
+   "price": 32,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Camarao_4_Queijos-33018f2095e3074fc5bdfadb4068f889_s.jpg"
+  },
+  {
+   "name": "Cheddar Duplo",
+   "category": "Hambúrguer",
+   "desc": "Pão, molho da casa, hambúrguer 100g (sendo 2 unidades de carne bovina), bacon e muitoooo cheddar.",
+   "price": 35,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Cheddar_Duplo-4f81951c3101a4a50ca1b8212e556dc1_s.jpg"
+  },
+  {
+   "name": "Açaí 350ml",
+   "category": "Açaí",
+   "desc": "Acompanha: leite condensado + 1 fruta e 2 acompanhamentos.",
+   "price": 15,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Acai_350ml_2_acompanhamentos-cfafbc9a73be768930bb7ead8abbf623_s.jpg"
+  },
+  {
+   "name": "Açaí 550ml ",
+   "category": "Açaí",
+   "desc": "Acompanha: leite condensado + 1 fruta e 3 acompanhamentos.",
+   "price": 25,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Acai_550ml_3_acompanhamentos-c9ff15ab08ef4b893a7831bcf3c9f54d_s.jpg"
+  },
+  {
+   "name": "Açaí Nutella 650ml",
+   "category": "Açaí",
+   "desc": "Açaí, leite condensado + Nutella + 1 fruta e  4 acompanhamentos.",
+   "price": 30.08,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Acai_650ml_Nutella-2ff0d9cd43994db7637fb7772077e640_s.jpeg"
+  },
+  {
+   "name": "Açaí Oreo 700 ml",
+   "category": "Açaí",
+   "desc": "Acompanha: leite condensado + bolacha oreo + 1 fruta + 3 acompanhamentos.",
+   "price": 40.85,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Acai_Oreo_700_ml_3_acompanhamentos_leite_condensado-15688e0bef33c258e4592d5e0f8877ad_s.jpg"
+  },
+  {
+   "name": "Açaí 700ml",
+   "category": "Açaí",
+   "desc": "Acompanha: leite condensado + 1 fruta e 4 acompanhamentos.",
+   "price": 29,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Acai_700ml_5_acompanhamentos-0ba8d8e0bb8f560054aa2c7d15976896_s.png"
+  },
+  {
+   "name": "Açaí 1kg",
+   "category": "Açaí",
+   "desc": "Açaí, leite condensado + 1 fruta e 5 acompanhamentos.",
+   "price": 39,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Acai_1_kg_5_acompanhamentos-abe0495755b8349e41b64862648092fb_s.jpeg"
+  },
+  {
+   "name": "Barca de Açaí P",
+   "category": "Açaí",
+   "desc": "Açaí, leite condensado + 1 fruta e 3 acompanhamentos.",
+   "price": 26.04,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Barca_de_acai_p_3_acompanhamentos_leite_condensado_Serve_de_1_a_2_pessoas_contem_300_ml_de_acai-5b24b3c774f31c49cc8b3d6f5cc81c8e_s.jpeg"
+  },
+  {
+   "name": "Barca de Açaí M",
+   "category": "Açaí",
+   "desc": "Açaí, leite condensado + 1 fruta e 4 acompanhamentos.",
+   "price": 33,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Barca_de_acai_m_4_acompanhamentos_leite_condensado-baa31dfdb66dc436187aad396f8d0d91_s.png"
+  },
+  {
+   "name": "Barca de Açaí G",
+   "category": "Açaí",
+   "desc": "Açaí, leite condensado + 1 fruta e 5 acompanhamentos.",
+   "price": 60,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Barca_de_acai_g_com_5_acompanhamentos_leite_condensado-76e2fd03f65fca7a4b816245020b5a4c_s.jpg"
+  },
+  {
+   "name": "Roleta de Açaí 400ml",
+   "category": "Açaí",
+   "desc": "Açaí, leite condensado + 1 fruta e 3 acompanhamentos.",
+   "price": 45,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Roleta_de_acai-a5a79dd604025834206b7f5b1cc7a9ea_s.png"
+  },
+  {
+   "name": "Hot Dog Completo",
+   "category": "Hot Dog",
+   "desc": "2 salsichas, milho, ketchup, maionese temperada, purê e batata palha.",
+   "price": 10,
+   "store": "barcaburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Hot Dog Especial",
+   "category": "Hot Dog",
+   "desc": "2 salsichas, milho, ervilha, ketchup, maionese temperada, cheddar, catupiry, purê e batata palha.",
+   "price": 14,
+   "store": "barcaburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Hot Dog Extra Especial",
+   "category": "Hot Dog",
+   "desc": "2 salsichas, milho, ervilha, ketchup, maionese temperada, bacon, catupiry, purê e batata palha.",
+   "price": 17,
+   "store": "barcaburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Omelete",
+   "category": "Almoço e Jantar",
+   "desc": "Nossa omelê quem escolhe os acompanhamentos é você.\nEscolha 3 ingredientes do seu gosto, sendo a base com ovos mexidos, sal e orégano.",
+   "price": 18,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Omelete_escolha_3_itens_como_acompanhamento-992eda2544ab90aa67bb4717334c3740_s.jpg"
+  },
+  {
+   "name": "Tapioca Doce",
+   "category": "Tapiocas",
+   "desc": "",
+   "price": 10,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Tapioca_Doce-2ccc45bcb11cb84bc7dc2bc55b6d02bc_s.jpg"
+  },
+  {
+   "name": "Tapioca Salgadas",
+   "category": "Tapiocas",
+   "desc": "",
+   "price": 12,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Tapioca_Salgadas-a7d994ff8744e8d5ec2ea0c0a461ca85_s.jpg"
+  },
+  {
+   "name": "Fritas",
+   "category": "Porções",
+   "desc": "",
+   "price": 12,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Fritas-234aef10e7333a3c85fdc884684e05e2_s.jpg"
+  },
+  {
+   "name": "Nuggets",
+   "category": "Porções",
+   "desc": "",
+   "price": 10,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Nuggets-819ba1071985c9097d8801739c649105_s.jpg"
+  },
+  {
+   "name": "Cebola Empanada",
+   "category": "Porções",
+   "desc": "",
+   "price": 10,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Cebola_Empanada-b25fb9f3a2cfa4061515fe552186a68e_s.jpg"
+  },
+  {
+   "name": "Barca de Calabresa",
+   "category": "Porções",
+   "desc": "Porção de calabresa, pão e maionese temperada. Tudo individual.",
+   "price": 45,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Barca_de_Calabresa-a4da77bb710ca80b4dd52756de5a0fa7_s.jpg"
+  },
+  {
+   "name": "Barca de Porções",
+   "category": "Porções",
+   "desc": "Porção de cebola empanada, batata frita e calabresa.",
+   "price": 65,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Barca_de_Porcoes-3a208f15f711360a25858250ae732cfc_s.jpg"
+  },
+  {
+   "name": "Fondue",
+   "category": "Sobremesas",
+   "desc": "",
+   "price": 25,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Fondue-1044768e7e1c9a798153b63f1e1d315b_s.jpg"
+  },
+  {
+   "name": "Bolo de Pote",
+   "category": "Sobremesas",
+   "desc": "Bolos de pode são fabricados diariamente, saboroso e molhadinho.",
+   "price": 11,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Bolo_de_Pote-3c018756e643f4173c70451fb313088a_s.jpg"
+  },
+  {
+   "name": "Espeto de Morango",
+   "category": "Sobremesas",
+   "desc": "Espeto de morango coberto de chocolate + acompanhamento.",
+   "price": 14,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Espeto_de_Morango-9c3b8b9535380e741efba06466a867fc_s.jpg"
+  },
+  {
+   "name": "Coxinha de Morango",
+   "category": "Sobremesas",
+   "desc": "Morango, massa de leite em pó, casquinha crocante de chocolate.",
+   "price": 16,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Coxinha_de_Morango-a5f6c0ed54c251e83238c786b1751635_s.jpg"
+  },
+  {
+   "name": "Refrigerantes",
+   "category": "Bebidas",
+   "desc": "Tamanhos: 269ml, 310ml, 350ml e 600ml.",
+   "price": 5,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Refrigerantes-428868e1bd65249d015be76c85c4f44b_s.jpg"
+  },
+  {
+   "name": "Refrigerantes 2L",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 9,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Refrigerantes_2l-c06bd7305ea8eb894b06f65eab23eb6d_s.jpg"
+  },
+  {
+   "name": "Cervejas Lata",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 6,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Cervejas_lata-011d9e5df1338c02edd74ca534198db8_s.jpg"
+  },
+  {
+   "name": "Aguá Mineral",
+   "category": "Bebidas",
+   "desc": "510 ml",
+   "price": 5,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Agua_Mineral-f331aa4cb57e0d92aafd8967ad0aba64_s.jpg"
+  },
+  {
+   "name": "H2oh Limão",
+   "category": "Bebidas",
+   "desc": "Garrafa 500ml",
+   "price": 8,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Refrigerante_Limao_H2oh_Limao_500ml-af1110af17164521d733982963e8059c_s.jpg"
+  },
+  {
+   "name": "Heineken Long",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 12,
+   "store": "barcaburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/4625/produtos/Heineken_long-5125168fe600446cc8d37fb67e58cb1b_s.png"
+  }
+ ]
+}

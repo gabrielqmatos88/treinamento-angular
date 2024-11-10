@@ -1,0 +1,161 @@
+{
+ "id": "acaimania-mkt22",
+ "nome": "Açaí Mania ",
+ "category": "Doces e Bolos, Açaí e Sorvete, Cafeteria",
+ "deliveryTime": "",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/logo/acai-mania-1660866653-ac396fa5c30183b501ee634b34125898_n.png",
+ "products": [
+  {
+   "name": "Açaí puro de 300ml",
+   "category": "Açaí - Monte do seu jeito",
+   "desc": "Açaí no copo.",
+   "price": 14.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Acai_puro_de_300ml-5382ad49f6df60fb4dafd7518704b98d_s.jpg"
+  },
+  {
+   "name": "Açaí puro de 500ml",
+   "category": "Açaí - Monte do seu jeito",
+   "desc": "Açaí no copo.",
+   "price": 18.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Acai_puro_de_500ml-a130b0bd98649a6f9be918020b299e26_s.jpg"
+  },
+  {
+   "name": "Açaí puro de 700ml",
+   "category": "Açaí - Monte do seu jeito",
+   "desc": "Açaí no copo puro ou com adicionais. Monte do seu jeito!",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Acai_puro_de_700ml-f6b9357466461f74a8c6ac733cf2bfa0_s.jpg"
+  },
+  {
+   "name": "Açaí puro de 1 litro",
+   "category": "Açaí - Monte do seu jeito",
+   "desc": "Açaí no pote de 1lt puro ou com adicionais. Monte do seu jeito!",
+   "price": 31.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Acai_puro_de_1_litro-4589a0f6c55464cffd680a38035156a1_s.jpg"
+  },
+  {
+   "name": "Fest",
+   "category": "Clássicos do Açaí Mania",
+   "desc": "Leite condensado, Confete, Calda de chocolate.",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Fest-c4a6f1a259135244e1fadab629a67d41_s.png"
+  },
+  {
+   "name": "Floresta Branca",
+   "category": "Clássicos do Açaí Mania",
+   "desc": "Leite condensado, chantilly, cereja e chocolate preto picado.",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Floresta_Branca-20efad30b0da08b6ae31f66b21a58795_s.jpg"
+  },
+  {
+   "name": "Floresta Negra",
+   "category": "Clássicos do Açaí Mania",
+   "desc": "Leite condensado, chantilly, cereja e chocolate preto picado.",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Floresta_Negra-3083332fc3e04f07502b571f68ab68dc_s.png"
+  },
+  {
+   "name": "Prestígio",
+   "category": "Clássicos do Açaí Mania",
+   "desc": "Leite condensado, coco ralado e chocolate preto picado.",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Prestigio-32a32e82a13614688e4f460715dd77a2_s.png"
+  },
+  {
+   "name": "Sensação",
+   "category": "Clássicos do Açaí Mania",
+   "desc": "Leite condensado, calda de morango e chocolate preto picado.",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Sensacao-bd2b049d206a58d76111135e9781e269_s.png"
+  },
+  {
+   "name": "Summer",
+   "category": "Clássicos do Açaí Mania",
+   "desc": "Leite condensado, chocolate branco picado e calda de morango.",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Summer-cd97ea4ac0015f55cfbb8ab99a77f038_s.png"
+  },
+  {
+   "name": "Pé de Moleque",
+   "category": "Clássicos do Açaí Mania",
+   "desc": "Açai no copo com Leite condensado,Doce de leite e Amendoim.",
+   "price": 21.9,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Pe_de_Moleque-e7c1f50059eda1847e4fb474ae0c1c22_s.png"
+  },
+  {
+   "name": "Casadinho com Sorvete de Morango",
+   "category": "Casadinho",
+   "desc": "Açaí cremoso, no copo, com Sorvete de Morango.",
+   "price": 19,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Casadinho_com_Sorvete_de_Morango-5c248b0f1ade1f07cb16d056aa169bdc_s.jpg"
+  },
+  {
+   "name": "Casadinho com Mousse de Maracujá",
+   "category": "Casadinho",
+   "desc": "Açaí cremoso, no copo, com Mousse de Maracuja.",
+   "price": 19,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Casadinho_com_Mousse_de_Maracuja-c2eda7728d284f4708ccc0411c2e9aa9_s.jpg"
+  },
+  {
+   "name": "Casadinho com Sorvete de Chocolate",
+   "category": "Casadinho",
+   "desc": "Açaí cremoso, no copo, com Sorvete de Chocolate.",
+   "price": 19,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Casadinho_com_Sorvete_de_Chocolate-64b0d02e93f96f5794779b28c275426e_s.jpg"
+  },
+  {
+   "name": "Casadinho com Sorvete de Ninho Trufado",
+   "category": "Casadinho",
+   "desc": "Açaí cremoso, no copo, com delicioso Sorvete de Ninho Trufado.",
+   "price": 19,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Casadinho_com_Sorvete_de_Ninho_Trufado-adb30c853abd45d928583fb0dcdd9437_s.jpg"
+  },
+  {
+   "name": "Casadinho com Creme de Cupuaçu",
+   "category": "Casadinho",
+   "desc": "Açaí cremoso, no copo, com um delicioso Creme de Cupuaçú.",
+   "price": 19,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Casadinho_com_Creme_de_Cupuacu-b7143c9dafd00b5daa898f266aec4f0a_s.jpg"
+  },
+  {
+   "name": "Água",
+   "category": "Bebidas",
+   "desc": "500ml",
+   "price": 4,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Agua-7227310c75013ab9ffecee25c9b939cb_s.jpg"
+  },
+  {
+   "name": "Coca-Cola Lata 350ml",
+   "category": "Bebidas",
+   "desc": "Embalagem Unidade",
+   "price": 7,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Coca_Cola_Lata_350ml-ec05cdc937e56c2a7e17dce9f3570d0e_s.jpg"
+  },
+  {
+   "name": "Guaraná Antárctica",
+   "category": "Bebidas",
+   "desc": "Lata 350ml",
+   "price": 7,
+   "store": "acaimania-mkt22",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3066/produtos/Guarana_Antarctica_Lata_350ml-1c963cfb0fda78425f37c7256f864bbc_s.jpg"
+  }
+ ]
+}

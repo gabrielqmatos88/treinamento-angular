@@ -1,0 +1,737 @@
+{
+ "id": "capitaoburguer",
+ "nome": "Capitão Burguer",
+ "category": "Lanches e Burger, Pastel / Salgados",
+ "deliveryTime": "50 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/257/logo/capitao-burguer-c48fd637dc39c51fa6d9d56d3ab40626_n.jpg",
+ "products": [
+  {
+   "name": "DUPLO CHEDDAR BACON",
+   "category": "Barcas",
+   "desc": "Dois hambúrguers artesanais, queijo, bacon, cheddar, cebola caramelizada e molho especial.",
+   "price": null,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/257/produtos/DUPLO_CHEDDAR_BACON-c115784d93a875c8ea282fd71741e283_s.jpeg"
+  },
+  {
+   "name": "Barca de Dog",
+   "category": "Gourmet",
+   "desc": "2 dogs duplos, capitão fritas de 100g, 16 unidades de mini salgados.",
+   "price": 41.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/257/produtos/Barca_de_Dog-16c9c97a57ad1692d4cdb885bc1bf699_s.jpeg"
+  },
+  {
+   "name": "Barca de mini pasteis",
+   "category": "Gourmet",
+   "desc": "Uma barca com 20 unidades de mini pasteis sendo de carne, queijo, calabresa e frango (5 unidades de cada)",
+   "price": 49.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "BARCA DE FRITAS",
+   "category": "Gourmet",
+   "desc": "Uma porção de capitão fritas + 15 unidades de anéis de cebola + 25 unidades de mini salgados",
+   "price": 59.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "BARCA DO CAPITÃO",
+   "category": "Gourmet",
+   "desc": "2 LANCHES CAPITÃO, PODENDO SER UM BURGUER, SALADA , EGG , BACON OU CHEDDAR + UMA PORCÃO DE CAPITÃO FRITAS, DUAS DE MINI SALGADOS E DOIS MOLHOS ESPECIAIS",
+   "price": 74.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/delivery/produtos/BARCA_DO_CAPITAO-977b842d0e7a89ae5a92e5c61d786757_s.jpg"
+  },
+  {
+   "name": "CAPITÃO PICANHA ",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal de picanha bovina, queijo coalho, alface, tomate, cebola caramelizada e molho especial",
+   "price": 29.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "CAPITÃO COSTELA ",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal de costela, bacon, queijo prato, alface, tomate, anéis de cebola e molho especial",
+   "price": 29.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "CAPITÃO PICANHA SUÍNA ",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal de picanha suína, queijo coalho, vinagrete e molho especial",
+   "price": 29.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4869/delivery/produtos/CAPITAO_PICANHA_SUINA-2c791bd3f5dbb982421e2fc94c0e3ac0_s.jpg"
+  },
+  {
+   "name": "CAPITÃO FRANGO ",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal de frango, alface, tomate, queijo coalho e molho especial",
+   "price": 29.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4872/delivery/produtos/CAPITAO_FRANGO-0c7666a3376895a195559a1113d5a457_s.jpeg"
+  },
+  {
+   "name": "CAPITÃO TUDO ",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal, queijo, anéis de cebola, bacon, presunto, ovo, cheddar, alface, tomate e molho especial",
+   "price": 29.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4866/delivery/produtos/CAPITAO_TUDO-9487c44234b30b771ab129a4b481f6cd_s.jpeg"
+  },
+  {
+   "name": "CAPITÃO MEGA",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal, anéis de cebola, queijo, bacon, cheddar, alface, tomate e molho especial",
+   "price": 27.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "CAPITÃO BACON ",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal, queijo, bacon, cebola caramelizada e molho especial",
+   "price": 24.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4862/delivery/produtos/CAPITAO_BACON-31baad8acf285caec99085f1d924a0f7_s.jpg"
+  },
+  {
+   "name": "CAPITÃO BURGUER",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal, queijo, anéis de cebola e molho especial",
+   "price": 21.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4860/delivery/produtos/CAPITAO_BURGUER-d1f45da565bab7983037ae14c421b8e0_s.jpg"
+  },
+  {
+   "name": "CAPITÃO CHEDDAR ",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal, cheddar, cebola caramelizada e molho especial",
+   "price": 21.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4864/delivery/produtos/CAPITAO_CHEDDAR-df2f2af04fb895c2e7771e10b9b59809_s.jpg"
+  },
+  {
+   "name": "CAPITÃO SALADA",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal, queijo, alface, tomate, anéis de cebola e molho especial",
+   "price": 23.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4861/delivery/produtos/CAPITAO_SALADA-24cbed2666e37a216660bd7e24276e01_s.jpg"
+  },
+  {
+   "name": "CAPITÃO EGG",
+   "category": "Hot Dog",
+   "desc": "Hambúrguer artesanal, queijo, ovo, cebola caramelizada e molho especial",
+   "price": 23.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4863/delivery/produtos/CAPITAO_EGG-8c0dce591fdcf09c5321273014d13d8c_s.jpg"
+  },
+  {
+   "name": "CAPITÃO CHICKEN SALADA",
+   "category": "Hot Dog",
+   "desc": "Steak de frango, queijo prato, alface, tomate e molho especial",
+   "price": 15.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Hot Dog Tradicional",
+   "category": "Lanches",
+   "desc": "Pão, salsicha, maionese, catchup, mostarda, purê e batata palha.",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Hot Dog Completão",
+   "category": "Lanches",
+   "desc": "Pão, salsicha, cheddar, Catupiry e parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, ervilha, milho, vinagrete, purê e batata palha.",
+   "price": 13.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Hot Dog Tradicional Duplo",
+   "category": "Lanches",
+   "desc": "Pão, 2 salsichas, maionese, catchup, mostarda, purê e batata palha.",
+   "price": 12.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Hot Dog Completão Duplo",
+   "category": "Lanches",
+   "desc": "Pão, 2 salsichas, cheddar, Catupiry e parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, ervilha, milho, vinagrete, purê e batata palha.",
+   "price": 14.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Pérola Negra",
+   "category": "Lanches",
+   "desc": "Pão, 2 salsichas, maionese, milho, ervilha, cenoura ralada, frango desfiado, batata palha, purê, molho de carne, cheddar, requeijão, queijo ralado, catchup, mostarda e ovo de codorna",
+   "price": 26.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Dog Bacon",
+   "category": "Lanches",
+   "desc": "Salsicha, bacon, cheddar, Catupiry, queijo prato, parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 20.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Dog Burguer",
+   "category": "Lanches",
+   "desc": "Salsicha, hambúrguer, cheddar, Catupiry, queijo prato, parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 19.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Dog Calabresa",
+   "category": "Lanches",
+   "desc": "Salsicha, calabresa, cheddar, Catupiry, queijo prato, parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 19.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Dog Carne",
+   "category": "Lanches",
+   "desc": "Salsicha, molho de carne, cheddar, Catupiry, queijo prato, parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 19.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Dog Carne Seca",
+   "category": "Lanches",
+   "desc": "Salsicha, carne seca , cheddar, Catupiry, queijo prato, parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 21.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Dog Doritos",
+   "category": "Lanches",
+   "desc": "Salsicha, Doritos, cheddar, Catupiry, queijo prato, parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 18.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "O Destemido",
+   "category": "Lanches",
+   "desc": "Salsicha, bacon, calabresa, frango, molho de carne, cheddar, Catupiry, queijo parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 25.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Dog Frango",
+   "category": "Lanches",
+   "desc": "Salsicha, frango, cheddar, Catupiry, queijo prato, parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 19.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Big Dogão",
+   "category": "Lanches",
+   "desc": "Pão de 30cm, salsicha, cheddar, Catupiry e parmesão + acompanhamentos. Acompanhamentos: maionese, catchup, mostarda, milho, vinagrete, purê e batata palha.",
+   "price": 23.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "HAMBÚRGUER ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer",
+   "price": 11.5,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "X-BURGUER",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer e queijo",
+   "price": 12.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "X-SALADA ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer, queijo, alface, tomate e maionese",
+   "price": 13.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4848/delivery/produtos/X_SALADA-13be47c99c49d8236aa102ea25bd2be9_s.jpeg"
+  },
+  {
+   "name": "X-EGG ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer, queijo e ovo",
+   "price": 13.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "X-CHEDDAR ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer e cheddar",
+   "price": 13.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4851/delivery/produtos/X_CHEDDAR-1980c556b2308fbef477fc343e288b92_s.jpeg"
+  },
+  {
+   "name": "X-BACON ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer, queijo e bacon",
+   "price": 14.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "X-BACON SALADA",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer, queijo, bacon, alface, tomate e maionese",
+   "price": 15.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "X-LINGUIÇA ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Linguiça toscana, vinagrete e queijo prato",
+   "price": 15.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4857/delivery/produtos/X_LINGUICA-036b1a044c83ce4d4d320954a33f9308_s.jpeg"
+  },
+  {
+   "name": "X-FRANGO ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Pão de Roseta, Tiras de frango e queijo",
+   "price": 17.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "X-BACON SALADA DUPLO",
+   "category": "Hambúrguer vegetariano",
+   "desc": "2 Hambúrgueres, queijo, bacon, alface, tomate e maionese",
+   "price": 18.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "X-TUDO ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Hambúrguer, queijo, bacon, ovo, presunto, alface, tomate e maionese",
+   "price": 20.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4853/delivery/produtos/X_TUDO-729649de2eb980632a5f31aabe178b72_s.jpeg"
+  },
+  {
+   "name": "BIG CAPITÃO ",
+   "category": "Hambúrguer vegetariano",
+   "desc": "Dois hambúrguer, anéis de cebola, bacon, cheddar, alface, tomate, presunto e molho especial",
+   "price": 22.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4858/delivery/produtos/BIG_CAPITAO-4d5c35bc946173ba083e8df6a09b3303_s.jpg"
+  },
+  {
+   "name": "HAMBÚRGUER DE SOJA",
+   "category": "Combos",
+   "desc": "",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "HAMBÚRGUER DE FEIJÃO PRETO",
+   "category": "Combos",
+   "desc": "",
+   "price": 12.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "COMBO 1",
+   "category": "Combos Individuais",
+   "desc": "2 X-SALADA + 2 X-BURGUER + 200G DE FRITAS + DOLLY 2L",
+   "price": 59.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "COMBO 2",
+   "category": "Combos Individuais",
+   "desc": "3 X-SALADA + 3 X-BURGUER + 200G DE FRITAS + DOLLY 2L",
+   "price": 73.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "COMBO 3",
+   "category": "Combos Individuais",
+   "desc": "2 X-CHEDDAR + 2 X-BURGUER + 2 X-SALADA  + 200G DE FRITAS + DOLLY 2L",
+   "price": 73.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "COMBO 4",
+   "category": "Combos Individuais",
+   "desc": "3 X-SALADA  + 3 X-EGG + 3 X-CHEDDAR + 300G DE FRITAS + COCA-COLA 2L",
+   "price": 114.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "COMBO 5",
+   "category": "Combos Individuais",
+   "desc": "3 X-SALADA + 3 X-BURGUER + 3 X-CHEDDAR  + 3 X-BACON + 3 X-EGG + 400G DE FRITAS + COCA-COLA 2L",
+   "price": 174.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 Pastel  de 1 sabor+refri lata",
+   "category": "Porções",
+   "desc": "COCA-COLA LATA",
+   "price": 16.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 X-SALADA +",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS + 1 COCA-COLA LATA",
+   "price": 23.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4876/delivery/produtos/1_X_SALADA-1fb8a3cca8a5b85424cd5105e5964be3_s.jpeg"
+  },
+  {
+   "name": "1 X-BACON +",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS + 1 COCA-COLA LATA",
+   "price": 24.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 X-BACON SALADA +",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS + REFRI 350ML",
+   "price": 25.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 PORÇÃO DE FRITAS +",
+   "category": "Porções",
+   "desc": "2 COCA-COLA LATA",
+   "price": 30.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 CAPITÃO BURGUER + ",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS + REFRI 600ML",
+   "price": 32.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 BIG CAPITÃO + ",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS +REFRI 600ML",
+   "price": 33.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 CAPITÃO SALADA +",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS + REFRI 600ML",
+   "price": 34.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 CAPITÃO BACON +",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS + REFRI 600ML",
+   "price": 35.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 PORÇÃO CAPITÃO FRITAS +",
+   "category": "Porções",
+   "desc": "2 COCA-COLA LATA",
+   "price": 37.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 CAPITÃO MEGA + ",
+   "category": "Porções",
+   "desc": "100 GRAMAS DE FRITAS + REFRI 600ML",
+   "price": 40.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "1 PORÇÃO DE FRANGO A PASSARINHO + ",
+   "category": "Porções",
+   "desc": "4 SKOL LATA",
+   "price": 51.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Trio Supremo",
+   "category": "Pastéis",
+   "desc": "Nuggets, Anéis de cebola, Batata com cheddar e bacon",
+   "price": 24.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "CALABRESA ACEBOLADA ",
+   "category": "Pastéis",
+   "desc": "",
+   "price": 30.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "FRITAS ",
+   "category": "Pastéis",
+   "desc": "",
+   "price": 9.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "CAPITÃO FRITAS ",
+   "category": "Pastéis",
+   "desc": "FRITAS, BACON, CHEDDAR E QUEIJO",
+   "price": 27.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4898/delivery/produtos/CAPITAO_FRITAS-9ec1216c6359b1d4190f5101426b0c8d_s.jpg"
+  },
+  {
+   "name": "TIRAS DE FRANGO EMPANADO ",
+   "category": "Pastéis",
+   "desc": "",
+   "price": 32.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4900/delivery/produtos/TIRAS_DE_FRANGO_EMPANADO-a86b502168b598694b3462df7acd566e_s.jpeg"
+  },
+  {
+   "name": "TIRAS DE PEIXE",
+   "category": "Pastéis",
+   "desc": "",
+   "price": 38.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4901/delivery/produtos/TIRAS_DE_PEIXE-6199175229bd03c9cb6dc4d2207acc41_s.jpeg"
+  },
+  {
+   "name": "PASTEIZINHOS COM VINAGRETE",
+   "category": "Pastéis",
+   "desc": "12 unidades",
+   "price": 31.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4902/delivery/produtos/PASTEIZINHOS_COM_VINAGRETE-a000ff8ebc4fb5309d0b161ad707bdfc_s.jpeg"
+  },
+  {
+   "name": "MANDIOCA ",
+   "category": "Pastéis",
+   "desc": "",
+   "price": 23.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "ANÉIS DE CEBOLA ",
+   "category": "Pastéis",
+   "desc": "",
+   "price": 27.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "FRANGO À PASSARINHO",
+   "category": "Pastéis",
+   "desc": "",
+   "price": 31.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/4905/delivery/produtos/FRANGO_A_PASSARINHO-cf3123ce8b3fc372e2d0d930a0be694d_s.jpg"
+  },
+  {
+   "name": "PASTÉIS DE CARNE",
+   "category": "Pastéis doces",
+   "desc": "",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "PASTÉIS DE CALABRESA",
+   "category": "Pastéis doces",
+   "desc": "",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "PASTÉIS DE QUEIJO",
+   "category": "Pastéis doces",
+   "desc": "",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "PASTÉIS DE FRANGO",
+   "category": "Pastéis doces",
+   "desc": "",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "PASTÉIS DE JABÁ",
+   "category": "Pastéis doces",
+   "desc": "",
+   "price": 15.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "OUTRAS OPÇÕES",
+   "category": "Pastéis doces",
+   "desc": "",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "PASTÉIS DOCES",
+   "category": "Bebidas",
+   "desc": "",
+   "price": 13.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "SUCOS",
+   "category": "Drinks",
+   "desc": "",
+   "price": 8,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "CERVEJA 350ml",
+   "category": "Drinks",
+   "desc": "",
+   "price": 6,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "CERVEJA LONG NECK",
+   "category": "Drinks",
+   "desc": "",
+   "price": 9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "ÁGUA",
+   "category": "Drinks",
+   "desc": "",
+   "price": 3,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "REFRIGERANTE 350ML",
+   "category": "Drinks",
+   "desc": "",
+   "price": 6,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "REFRIGERANTE 600ML",
+   "category": "Drinks",
+   "desc": "",
+   "price": 8,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "REFRIGERANTE 2L",
+   "category": "Drinks",
+   "desc": "",
+   "price": 9.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Chevette",
+   "category": "Açaí",
+   "desc": "Combo de Chevette, com um Duelo de limão, Um gelo de coco, um suco de Baunilha com limão, copo e canudo.",
+   "price": 11.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/7187/delivery/produtos/Chevette-eb618ce82548167c89d5c9d70da47e08_s.jpeg"
+  },
+  {
+   "name": "AÇAÍ DO CAPITÃO",
+   "category": "Sobremesa",
+   "desc": "",
+   "price": 10.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/empresas/5090/delivery/produtos/ACAI_DO_CAPITAO-52c9cb82e1fc4d40c47365eb4b64a9fa_s.jpg"
+  },
+  {
+   "name": "Milk Shake",
+   "category": "Chevette\n              \n              Combo de Chevette, com um Duelo de limão, Um gelo de coco, um suco de Baunilha com limão, copo e canudo.",
+   "desc": "",
+   "price": 14.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Porção de mini churros",
+   "category": "Chevette\n              \n              Combo de Chevette, com um Duelo de limão, Um gelo de coco, um suco de Baunilha com limão, copo e canudo.",
+   "desc": "Uma porção com 15 unidades de mini churros.",
+   "price": 8.9,
+   "store": "capitaoburguer",
+   "img_url": ""
+  },
+  {
+   "name": "Roleta de mini churros",
+   "category": "Chevette\n              \n              Combo de Chevette, com um Duelo de limão, Um gelo de coco, um suco de Baunilha com limão, copo e canudo.",
+   "desc": "roleta com 24 unidades de mini churros de doce de leite com chocolate no meio da roleta.",
+   "price": 16.9,
+   "store": "capitaoburguer",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/257/produtos/Roleta_de_mini_churros-30abe53ea3b671903bc9fec72cd8c7de_s.jpeg"
+  }
+ ]
+}

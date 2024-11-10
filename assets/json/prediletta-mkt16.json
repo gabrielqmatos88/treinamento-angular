@@ -1,0 +1,137 @@
+{
+ "id": "prediletta-mkt16",
+ "nome": "PIZZARIA PREDILETTA",
+ "category": "Pizzaria",
+ "deliveryTime": "55 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas//logo/PIZZARIA_PREDILETTA-9aa7a06e21879749f0ffe7511fc39f1b_n.png",
+ "products": [
+  {
+   "name": "PROMOÇÃO",
+   "category": "PIZZAS G",
+   "desc": "Até 2 Sabores (8FATIAS)",
+   "price": 42,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/PROMOCAO-766a96fec48da4c95181bf5fe8c48589_s.jpeg"
+  },
+  {
+   "name": "GRANDE (8FATIAS)",
+   "category": "PIZZA BROTO",
+   "desc": "BORDA GRÁTIS DE CATUPIRY. 1 sabor, 35cm, 8 fatias",
+   "price": 42,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_8FATIAS-fe72f55535887d900807b02afb32680a_s.jpeg"
+  },
+  {
+   "name": "GRANDE 2 SABORES (8FATIAS) ",
+   "category": "PIZZA BROTO",
+   "desc": "BORDA GRÁTIS DE CATUPIRY. 2 sabores, 35cm, 8 fatias",
+   "price": 42,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_2_SABORES_8FATIAS-2281d782e33e31f67b9c1af42b8e3380_s.jpeg"
+  },
+  {
+   "name": "GRANDE (8FATIAS)",
+   "category": "PIZZA BROTO",
+   "desc": "1 sabor, 35cm, 8 fatias",
+   "price": 42,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_8FATIAS-1de4919b862cc5dc3a2abfb216f04379_s.jpeg"
+  },
+  {
+   "name": "GRANDE 2 SABORES (8FATIAS)",
+   "category": "PIZZA BROTO",
+   "desc": "2 sabores, 35cm, 8 fatias",
+   "price": 42,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_2_SABORES_8FATIAS-52fa333083a8ecb9ca4d943fc570c93b_s.jpeg"
+  },
+  {
+   "name": "BROTO (4FATIAS)",
+   "category": "PIZZA 3 TERÇOS",
+   "desc": "Escolha sua preferência! 1 sabor, 25cm, 4 fatias",
+   "price": 29,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/BROTO_4FATIAS-9bab8c953dfc7c7f46ab10dfabf6760a_s.png"
+  },
+  {
+   "name": "BROTO 2 SABORES (4FATIAS) ",
+   "category": "PIZZA 3 TERÇOS",
+   "desc": "Escolha sua preferência! 2 sabores, 25cm, 4 fatias",
+   "price": 29,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/BROTO_2_SABORES_4FATIAS-6ef414b47a42718e91edbd959d2ffef8_s.png"
+  },
+  {
+   "name": "BROTO DOCE (4FATIAS)",
+   "category": "PIZZA 3 TERÇOS",
+   "desc": "PIZZA DOCE. 1 sabor, 25cm, 4 fatias",
+   "price": 30,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/BROTO_DOCE_4FATIAS-127319ce56fa25547b41cca8453c2d17_s.jpeg"
+  },
+  {
+   "name": "BROTO DOCE 2 SABORES (4FATIAS)",
+   "category": "PIZZA 3 TERÇOS",
+   "desc": "PIZZA DOCE 2 sabores, 25cm, 4 fatias",
+   "price": 30,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/BROTO_DOCE_2_SABORES_4FATIAS-b916a544774d2b346a876731ccf2813a_s.jpeg"
+  },
+  {
+   "name": "BROTO (4FATIAS)",
+   "category": "PIZZA 3 TERÇOS",
+   "desc": "BORDA GRÁTIS DE CATUPIRY. 1 sabor, 25cm, 4 fatias",
+   "price": 29,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/BROTO_4FATIAS-000aa10da5af43e55c21f1c837d1e866_s.png"
+  },
+  {
+   "name": "BROTO 2 SABORES (4FATIAS)",
+   "category": "PIZZA 3 TERÇOS",
+   "desc": "BORDA GRÁTIS DE CATUPIRY. 2 sabores, 25cm, 4 fatias",
+   "price": 29,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/BROTO_2_SABORES_4FATIAS-667cfa0d8b0fa47be3c4a3fbe890f589_s.png"
+  },
+  {
+   "name": "GRANDE DOCE 3 SABORES (9 FATIAS)",
+   "category": "PIZZAS DOCE",
+   "desc": "PIZZA DOCE 3 sabores, 35cm, 9 fatias",
+   "price": 47,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_DOCE_3_SABORES_9_FATIAS-ceb9d55f2db40ed8d7b04f1cbca7d5f3_s.jpeg"
+  },
+  {
+   "name": "GRANDE 3 SABORES (9 FATIAS)",
+   "category": "PIZZAS DOCE",
+   "desc": "BORDA GRÁTIS DE CATUPIRY. 3 sabores, 35cm, 9 fatias",
+   "price": 44,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_3_SABORES_9_FATIAS-de0f0d84faf1c786350656408dc25aa0_s.jpeg"
+  },
+  {
+   "name": "GRANDE 3 SABORES (9 FATIAS)",
+   "category": "PIZZAS DOCE",
+   "desc": "3 sabores, 35cm, 9 fatias",
+   "price": 44,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_3_SABORES_9_FATIAS-d42e2211796a2c7fc2136439de4619d5_s.jpeg"
+  },
+  {
+   "name": "GRANDE DOCE (8FATIAS)",
+   "category": "BEBIDAS",
+   "desc": "PIZZA DOCE 1 sabor, 35cm, 8 fatias",
+   "price": 44,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_DOCE_8FATIAS-11b6430da2c20da9d4021f123003d6f0_s.jpeg"
+  },
+  {
+   "name": "GRANDE DOCE 2 SABORES (8FATIAS)",
+   "category": "BEBIDAS",
+   "desc": "PIZZA DOCE 2 sabores, 35cm, 8 fatias",
+   "price": 44,
+   "store": "prediletta-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3515/produtos/GRANDE_DOCE_2_SABORES_8FATIAS-004a38372638b0812594e18686ae9137_s.jpeg"
+  }
+ ]
+}

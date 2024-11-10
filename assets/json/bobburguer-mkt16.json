@@ -1,0 +1,961 @@
+{
+ "id": "bobburguer-mkt16",
+ "nome": "BOB BURGUER",
+ "category": "Lanches e Burger, Restaurante, Açaí e Sorvete",
+ "deliveryTime": "60 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/logo/bob-burguer-1687456501-6158a3a59eedea5997842fe83fe2b579_n.jpeg",
+ "products": [
+  {
+   "name": "XíCARAS PERSONALIZADAS",
+   "category": "PROMOÇÃO",
+   "desc": "Escolha a sua!",
+   "price": 45,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/XICARAS_PERSONALIZADAS-627c61d5817a266c38af1372ea4f6221_s.jpg"
+  },
+  {
+   "name": "FRITAS CHEDDAR E BACON ",
+   "category": "TORRE DE BATATA",
+   "desc": "Porção grande de fritas com cheddar e bacon",
+   "price": 32,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/FRITAS_CHEDDAR_E_BACON-fc7a0f878c399c4d7bfd3cbe3cc69a47_s.jpg"
+  },
+  {
+   "name": "TORRE DO BOB MÉDIA ",
+   "category": "TORRE DE BATATA",
+   "desc": "Strogonoff de frango, strogonoff de carne, queijo, orégano, fritas, salada e arroz.",
+   "price": 90,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/TORRE_DO_BOB_MEDIA-fe22d6ac6d95eab0ee18661ced81b0db_s.jpg"
+  },
+  {
+   "name": "TORRE DO PATRICK GRANDE ",
+   "category": "TORRE DE BATATA",
+   "desc": "Calabresa, frango, coração, queijo, orégano, fritas, salada e arroz.",
+   "price": 105,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/TORRE_DO_PATRICK_GRANDE-f09fd003563e0abd5a842376084248dc_s.jpg"
+  },
+  {
+   "name": "XIS KIDS",
+   "category": "KIDS",
+   "desc": "Pão mini, queijo, hamburguer",
+   "price": 17,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/XIS_KIDS-c72ba3a1a4d4df2601b2c0f4266f7def_s.jpg"
+  },
+  {
+   "name": "COMBO KIDS",
+   "category": "KIDS",
+   "desc": "Pão mini, hamburguer, queijo + fritas + suco",
+   "price": 27,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/COMBO_KIDS-05b7e5ce052d45d4f195c5883833e526_s.jpg"
+  },
+  {
+   "name": "CHOCOLATES",
+   "category": "CHOCOLATE",
+   "desc": "Escolha o seu",
+   "price": 1.5,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CHOCOLATES-1218ad95577ef21b2f9bd9b0e9f651ed_s.jpg"
+  },
+  {
+   "name": "suflair ",
+   "category": "CHOCOLATE",
+   "desc": "",
+   "price": 6,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "SOBREMESA",
+   "category": "SOBREMESA",
+   "desc": "Milk Shakes, Taças, Petit Gateau e muito mais!",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/SOBREMESA-d82087d3e8599ef5fc818271ff30754f_s.jpg"
+  },
+  {
+   "name": "BRINDE SURPRESA",
+   "category": "BRINDE SURPRESA",
+   "desc": "",
+   "price": 6,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BRINDE_SURPRESA-90eed99537e8262d5dd49a4586c9b81f_s.jpg"
+  },
+  {
+   "name": " GOURMET MELT",
+   "category": "HAMBURGUER GOURMET\n              \n              TODOS ACOMPANHAM FRITAS",
+   "desc": "Pão brioche, creme de cheddar, bacon, cebola caramelizada",
+   "price": 34,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/MELT-13bd2bfa8896b32c8bc10b954a712406_s.jpeg"
+  },
+  {
+   "name": " GOUMET SALADA",
+   "category": "HAMBURGUER GOURMET\n              \n              TODOS ACOMPANHAM FRITAS",
+   "desc": "Pão brioche, hamburguer, cheddar fatiado, bacon, picles, ketchup, mostarda e maionese",
+   "price": 34,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/SALADA-e57fc06257c6468cec79d2f742b02a12_s.jpeg"
+  },
+  {
+   "name": "GOURMET CLASSIC",
+   "category": "HAMBURGUER GOURMET\n              \n              TODOS ACOMPANHAM FRITAS",
+   "desc": "Pão, hambúrguer 160g, cebola, bacon, queijo cheder, maionese, alface, tomate, molho barbecue",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/GOURMET_CLASSIC-d39f0fd6d3e70e9fd14b70b4812f9517_s.jpg"
+  },
+  {
+   "name": "GOURMET NACHOS",
+   "category": "HAMBURGUER GOURMET\n              \n              TODOS ACOMPANHAM FRITAS",
+   "desc": "Pão, hambúrguer 160g, cheddar, bacon, Doritos, queijo cheddar, maionese, picles, molho barbecue",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/GOURMET_NACHOS-feb7399b6b0b0f441eb9ab2fc660c73c_s.jpg"
+  },
+  {
+   "name": " GOURMET CREAM CHEESE",
+   "category": "HAMBURGUER GOURMET\n              \n              TODOS ACOMPANHAM FRITAS",
+   "desc": "Pão brioche, hamburguer, cebola caramelizada, cream cheese, bacon, maionese e rúcula",
+   "price": 38,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CREAM_CHEESE-6fa294a8d69a9d04051a17d3bf37333d_s.jpeg"
+  },
+  {
+   "name": " GOUMET GORGONZOLA",
+   "category": "HAMBURGUER GOURMET\n              \n              TODOS ACOMPANHAM FRITAS",
+   "desc": "Pão brioche, hamburguer, queijo gorgonzola, queijo mussarela, cebola caramelizada, geleia de pimenta, rúcula, maionese",
+   "price": 38,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/GORGONZOLA-3ece42d113f35fd23bd98018ba2ea827_s.jpeg"
+  },
+  {
+   "name": "GOURMET QUEIJO A MILANESA",
+   "category": "HAMBURGUER GOURMET\n              \n              TODOS ACOMPANHAM FRITAS",
+   "desc": "Pão, Hambúrguer 160g, cebola, bacon, queijo cheddar, queijo a milanesa, maionese, geleia de pimenta alface, tomate.",
+   "price": 42,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/GOURMET_QUEIJO_A_MILANESA-03fac4f336714f6a2711a4dab478a363_s.jpg"
+  },
+  {
+   "name": "X FRANGO MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, Filé de frango, Ovo, Queijo, Maiones, Milho, Ervilha, Tomate, Alface e Palha",
+   "price": 28,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_FRANGO_MINI-1f0c6d991521d95c2d558ceb852c07ba_s.png"
+  },
+  {
+   "name": "X SICILIANO M",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, bacon, catupiry, champignon, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 36,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_SICILIANO_M-9acd7ef07c3ec1b5c721624cb7b7226f_s.jpg"
+  },
+  {
+   "name": "X SICILIANO MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, bacon, catupiry, champignon, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 36,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_SICILIANO_MINI-4272466a40f5d63a78ba7fbbc61c8a26_s.jpg"
+  },
+  {
+   "name": "XIS MIX ",
+   "category": "HAMBURGUERES",
+   "desc": "pão, frango, bacon, ovo, queijo, maionese, milho, ervilha, tomate, alface, bata palha",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/XIS_MIX-90c5f210c63e780863eafe6f54fb0a65_s.png"
+  },
+  {
+   "name": "X SALADA MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, presunto, queijo, maionese, tomate e alface",
+   "price": 22,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_SALADA_MINI-aeece9bd5a9f5f4cec9b42c29f9b7c43_s.jpg"
+  },
+  {
+   "name": "X SALADA NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, presunto, queijo, maionese, tomate e alface",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_SALADA_NORMAL-3fcaa6392e5a92f4002f56d95ba74c51_s.jpg"
+  },
+  {
+   "name": "X DA CASA MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_DA_CASA_MINI-19036820cf305e4db8b1644fbf327886_s.jpg"
+  },
+  {
+   "name": "X DA CASA NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 27,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_DA_CASA_NORMAL-40322cb61c424398611ec5eedf58c4d0_s.jpg"
+  },
+  {
+   "name": "X DUPLO NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, 2 hambúrgueres, ovo, 2 presuntos, 2 queijos, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_DUPLO_NORMAL-1591e4553739de85a486c20ff3e0aed3_s.jpg"
+  },
+  {
+   "name": "X BACON MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, bacon, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 34,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_BACON_MINI-b11bf203d92ff75d70f0a7c04c971eb7_s.jpg"
+  },
+  {
+   "name": "X BACON NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, bacon, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_BACON_NORMAL-0b0958e8c1021fb9a860457abd051e7e_s.jpg"
+  },
+  {
+   "name": "X FRANGO MINI MIX",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, peito de frango, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 34,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_FRANGO_MINI-a40d9fe6527bc4435ee1e225eea3dd37_s.jpg"
+  },
+  {
+   "name": "X FRANGO NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, filé de frango, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 30,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_FRANGO_NORMAL-cfcfadf18eac3306be7e3721addf1c40_s.jpg"
+  },
+  {
+   "name": "X FRANGO MIX NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, frango, bacon, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_FRANGO_MIX_NORMAL-e7312889af53abbee8de8aa3a6a243b7_s.jpg"
+  },
+  {
+   "name": "X CORAÇÃO MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, coração, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 34,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CORACAO_MINI-c77252349819001c64d080388d5f7644_s.jpg"
+  },
+  {
+   "name": "X CORAÇÃO NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, coração, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CORACAO_NORMAL-0065a54804d95eb3b170036d744dfc2f_s.jpg"
+  },
+  {
+   "name": "X BOB COM FRITAS",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, bacon, frango, coração, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha e acompanha fritas",
+   "price": 47,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_BOB_COM_FRITAS-1acda95aa517be6520d35872f8dc84ce_s.jpg"
+  },
+  {
+   "name": "X CALABRESA MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, calabresa, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface a batata palha",
+   "price": 28,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CALABRESA_MINI-69a493734f014af6f018af3366be6cf2_s.jpg"
+  },
+  {
+   "name": "X CALABRESA NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, calabresa, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface a batata palha",
+   "price": 32,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CALABRESA_NORMAL-0de1b0afc6cb0cde2e33f864950fd493_s.jpg"
+  },
+  {
+   "name": "X PICANHA MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, picanha picada, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 42,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_PICANHA_MINI-761cd30647a2d12b497572a79f047be7_s.jpg"
+  },
+  {
+   "name": "X PICANHA NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, picanha picada, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 47,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_PICANHA_NORMAL-638a774774cc73330b6d12070c106bff_s.jpg"
+  },
+  {
+   "name": "X FILÉ MIGNON MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, filé mignon, ovo,, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 42,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_FILE_MIGNON_MINI-92b9e2c0bd63b153ea2cd7cbd69ffc3b_s.jpg"
+  },
+  {
+   "name": "X FILÉ MIGNON NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, filé mignon, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 47,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_FILE_MIGNON_NORMAL-ebf252aba8eeab260e21d86e348109f9_s.jpg"
+  },
+  {
+   "name": "X STROGONOFF DE CARNE NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, strogonoff de carne, champignon, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 34,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_STROGONOFF_DE_CARNE_NORMAL-b781f942bbfc72657f7493ba86e6dc1f_s.jpg"
+  },
+  {
+   "name": "X STROGONOFF DE FRANGO NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, strogonoff de frango, champignon, ovo, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 34,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_STROGONOFF_DE_FRANGO_NORMAL-3d1a2b269325899fa25166c217c0c364_s.jpg"
+  },
+  {
+   "name": "X CATUPIRY MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, catupiry, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 32,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CATUPIRY_MINI-b5b550659658e790cfa0fcebc8a2cbca_s.jpg"
+  },
+  {
+   "name": "X CATUPIRY NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, catupiry, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 35,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CATUPIRY_NORMAL-5768765ac8297809d84e459576822db0_s.jpg"
+  },
+  {
+   "name": "X CHEDDAR MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, cheddar, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 32,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CHEDDAR_MINI-4201a4fe7ace855d414a824e6b2ed9e4_s.jpg"
+  },
+  {
+   "name": "X CHEDDAR NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, cheddar, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 35,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CHEDDAR_NORMAL-4c5fd693c0266e635e971b234f273591_s.jpg"
+  },
+  {
+   "name": "X JARDINEIRA NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, cebola, pimentão, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 37,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_JARDINEIRA_NORMAL-9ce6b86fcff13e0faef628fcdc478fe3_s.jpg"
+  },
+  {
+   "name": "X LOMBO MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, lombinho de porco, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 30,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_LOMBO_MINI-d47ce5cdfe91d7b2c5b8b3e32d1fb629_s.jpg"
+  },
+  {
+   "name": "X LOMBO NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, lombinho de porco, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 32,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_LOMBO_NORMAL-d8891304016e50ec45a7ce47b1642910_s.jpg"
+  },
+  {
+   "name": "X MONSTRO COM FRITAS",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, 3 hambúrguer, 2 ovos, 3 presuntos, 3 queijos, maionese, milho, ervilha, tomate, alface e batata palha e acompanha fritas",
+   "price": 47,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_MONSTRO_COM_FRITAS-b6f885c972236b4f63bb93741ea9572e_s.jpg"
+  },
+  {
+   "name": "X PATRICK COM FRITAS",
+   "category": "HAMBURGUERES",
+   "desc": "pão,2 hambúrgueres,bacon,cheddar,ovo,2 presunto,2 queijo, maionese, milho, ervilha, alface, tomate, palha.",
+   "price": 47,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_PATRICK_COM_FRITAS-67e0fa14a95fa66bbfd8e7949f47328a_s.jpg"
+  },
+  {
+   "name": "X SICILIANO NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, hambúrguer, bacon, catupiry, champignon, ovo, presunto, queijo, maionese, milho, ervilha, tomate, alface e batata palha",
+   "price": 40,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_SICILIANO_NORMAL-17c4458833496036d6287382c306039f_s.jpg"
+  },
+  {
+   "name": "X VEGETARIANO MINI",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, queijo, palmito, pepino, milho, ervilha, tomate e alface",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_VEGETARIANO_MINI-2de7a67031ed0246f041d4cab0d044e5_s.jpg"
+  },
+  {
+   "name": "X VEGETARIANO NORMAL",
+   "category": "HAMBURGUERES",
+   "desc": "Pão, queijo, palmito, pepino, milho, ervilha, tomate, alface e palha",
+   "price": 27,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_VEGETARIANO_NORMAL-10b480b57bbbd2c45982e91af955cb51_s.jpg"
+  },
+  {
+   "name": "X CHOCOLATE MINI",
+   "category": "HAMBÚRGUERES DOCE",
+   "desc": "Pão brioche, chocolate preto, chocolate branco",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_CHOCOLATE_MINI-f997b41445711eabe88c1ddf8a7cefa8_s.jpg"
+  },
+  {
+   "name": "X MMS MINI",
+   "category": "HAMBÚRGUERES DOCE",
+   "desc": "Pão brioche chocolate preto, queijo, mms",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_MMS_MINI-015136217f44b8e966176bcc41e63cfd_s.jpg"
+  },
+  {
+   "name": "X prestigio",
+   "category": "HAMBÚRGUERES DOCE",
+   "desc": "pão, chocolate preto, coco",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "X MEIO A MEIO",
+   "category": "HAMBÚRGUERES DOCE",
+   "desc": "Pão brioche, chocolate preto, chocolate branco, leite condensado, queijo",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/X_MEIO_A_MEIO-7f8dd36990855efc20f187048961325f_s.jpg"
+  },
+  {
+   "name": "CACHORRO QUENTE SIMPLES",
+   "category": "HOT DOGS",
+   "desc": "Pão, salsicha, molho, milho, ervilha, queijo batata palha",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CACHORRO_QUENTE_SIMPLES-7ffb053b4c6bb872b2c005763489436a_s.jpg"
+  },
+  {
+   "name": "CACHORRO QUENTE DUPLO",
+   "category": "HOT DOGS",
+   "desc": "Pão, 2 salsichas, molho, milho, ervilha, queijo e batata palha",
+   "price": 22,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CACHORRO_QUENTE_DUPLO-307bbeae013f297aeeb312175c21aaa2_s.jpg"
+  },
+  {
+   "name": "CACHORRO QUENTE FRANGO",
+   "category": "HOT DOGS",
+   "desc": "Pão, frango, molho, milho, ervilha, queijo e batata palha",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CACHORRO_QUENTE_FRANGO-dacdd919a8a79d83301711cb4f7413c7_s.jpg"
+  },
+  {
+   "name": "CACHORRO QUENTE DE CALABRESA",
+   "category": "HOT DOGS",
+   "desc": "Pão, calabresa, molho, milho, ervilha, queijo batata palha",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CACHORRO_QUENTE_DE_CALABRESA-0f6c105daefa64c7367a8cc3465d2745_s.png"
+  },
+  {
+   "name": "TORRADA AMERICANA SIMPLES NORMAL",
+   "category": "TORRADAS",
+   "desc": "Pão, ovo, presunto, queijo, maionese, tomate e batata palha",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/TORRADA_AMERICANA_SIMPLES_NORMAL-950cb195388fd4e18b5ec3d4c8781092_s.jpg"
+  },
+  {
+   "name": "TORRADA AMERICANA ESPECIAL NORMAL",
+   "category": "TORRADAS",
+   "desc": "Pão, ovo, bacon, presunto, queijo, maionese, tomate e batata palha",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/TORRADA_AMERICANA_ESPECIAL_NORMAL-855ae0211d17bf625c7cfb9ab7a7bef6_s.jpg"
+  },
+  {
+   "name": "PORÇÃO DE ANEL DE CEBOLA",
+   "category": "PORÇÕES",
+   "desc": "12unidades",
+   "price": 15,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PORCAO_DE_ANEL_DE_CEBOLA-f02a91611bf6878f0d33d4f7946b786b_s.jpg"
+  },
+  {
+   "name": "PORÇÃO QUEIJO COALHO FRITO",
+   "category": "PORÇÕES",
+   "desc": "6 unidades acompanha melaço de cana",
+   "price": 29,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PORCAO_QUEIJO_COALHO_FRITO-94d4660ec876ff3bde1a0387d390674f_s.jpeg"
+  },
+  {
+   "name": "ENTREVERO P/ 3 PESSOAS",
+   "category": "PORÇÕES",
+   "desc": "Frango, coração, calabresa, carne, fritas, cheddar, cebola, pão",
+   "price": 100,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ENTREVERO_P_3_PESSOAS-16562348f4712ff1363ca10aedffe422_s.jpg"
+  },
+  {
+   "name": "MEIO QUEIJO",
+   "category": "PORÇÕES",
+   "desc": "Meia porção de queijo",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/MEIO_QUEIJO-c3232774805aa9af1a016fe9f8e65292_s.jpg"
+  },
+  {
+   "name": "FRANGO À MILANESA",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/FRANGO_A_MILANESA-f5c262dd864c57a5f5214915abdf49e4_s.jpg"
+  },
+  {
+   "name": "PORÇÃO DE FRITAS PEQUENA",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 14,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PORCAO_DE_FRITAS_PEQUENA-4910c4352f2f45f48f0a88074d30f56f_s.jpg"
+  },
+  {
+   "name": "PORÇÃO DE FRITAS MEDIA",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 20,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PORCAO_DE_FRITAS_MEDIA-40cdc788cb20ecbeaeca9a7d522b5422_s.jpg"
+  },
+  {
+   "name": "PORÇÃO DE FRITAS GRANDE",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 24,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PORCAO_DE_FRITAS_GRANDE-851917308af3182fc6648e7b9acb5bc8_s.jpg"
+  },
+  {
+   "name": "ISCA DE PEIXE MILANEZA",
+   "category": "PORÇÕES",
+   "desc": "300g de cascudinho",
+   "price": 32,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ISCA_DE_PEIXE_MILANEZA-7d3f551ced94d725eb05d3e0dad0431c_s.jpg"
+  },
+  {
+   "name": "NUGGETS 250 gramas",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 17,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/NUGGETS_250_gramas-6b1e4b7e3b5df84de28e19ea10b6f8c9_s.jpeg"
+  },
+  {
+   "name": "PICADÃO DE CARNES G",
+   "category": "PORÇÕES",
+   "desc": "Carne de gado, frango, lombo suíno, coração, pepino, azeitona e batata frita",
+   "price": 100,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PICADAO_DE_CARNES_G-141c1baed9a2393343597cf3c1ca7577_s.jpg"
+  },
+  {
+   "name": "MEIO PICADÃO ",
+   "category": "PORÇÕES",
+   "desc": "Carne de gado, frango, lombo, coração, pepino, azeitona, fritas, salada arroz.",
+   "price": 85,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PICADAO_MEIO-d355e52e4be32c8ec07b1f36d79de33b_s.jpg"
+  },
+  {
+   "name": "PORÇÃO DE POLENTA FRITA",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 17,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PORCAO_DE_POLENTA_FRITA-d3a838606897616e0b2159eaa4cb491f_s.jpg"
+  },
+  {
+   "name": "PORÇÃO DE QUEIJO FRITO",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 32,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PORCAO_DE_QUEIJO_FRITO-7dde933535b8de115675887b4eaf6e65_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA DE FRANGO P/ 2 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de frango, arroz, ovo, feijão, batata frita e salada",
+   "price": 75,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_FRANGO_P_2_PESSOAS-5862eeffef86d6f7a695b32e970d83dd_s.png"
+  },
+  {
+   "name": "ALAMINUTA DE GADO P/ 3 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de gado, arroz, ovo, feijão, batata frita e salada",
+   "price": 110,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_GADO_P_3_PESSOAS-4eb2e772f0ae906ea1d9e917e6b8d126_s.png"
+  },
+  {
+   "name": "ALAMINUTA COM BIFE A MILANESA 3 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de gado ou frango, arroz, ovo, feijão, batata frita e salada",
+   "price": 115,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_COM_BIFE_A_MILANESA_3_PESSOAS-9a4d8ee29598ac8b94454921c7254fa3_s.png"
+  },
+  {
+   "name": "ALAMINUTA DE FILÉ MIGNON P/ 3 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de filé mignon, arroz, ovo, feijão, batata frita e salada",
+   "price": 145,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_FILE_MIGNON_P_3_PESSOAS-a8f610938b9dd33c5faed2e3bbfcde6b_s.png"
+  },
+  {
+   "name": "ALAMINUTA COM BIFE A MILANESA 1PESSOA",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de gado ou frango, arroz, ovo, feijão, batata frita e salada",
+   "price": 45,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_COM_BIFE_A_MILANESA_1PESSOA-55822628c97178a082aac2218af6143e_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA COM BIFE A MILANESA 2 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de gado ou frango, arroz, ovo, feijão, batata frita e salada",
+   "price": 95,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_COM_BIFE_A_MILANESA_2_PESSOAS-2b8a056bde2e274bb5fc4194e3da0e31_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA DE GADO P/ 1 PESSOA",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de gado, arroz, ovo, feijão, batata frita e salada",
+   "price": 40,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_GADO_P_1_PESSOA-0620cd875a7d204a29e4a6391825ac40_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA DE GADO P/ 2 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de gado, arroz, ovo, feijão, batata frita e salada",
+   "price": 75,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_GADO_P_2_PESSOAS-b8546f0a8004eb2071c93789e472244f_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA DE FILÉ MIGNON P/ 1 PESSOA",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de filé mignon, arroz, ovo, feijão, batata frita e salada",
+   "price": 55,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_FILE_MIGNON_P_1_PESSOA-436990974b12ef2e4d92036570d8838a_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA DE FILÉ MIGNON P/ 2 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de filé mignon, arroz, ovo, feijão, batata frita e salada",
+   "price": 105,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_FILE_MIGNON_P_2_PESSOAS-fd393ad1d0c33cc86b5d5e3203d08af9_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA DE FRANGO P/ 1 PESSOA",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de frango, arroz, ovo, feijão, batata frita e salada",
+   "price": 40,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_FRANGO_P_1_PESSOA-22012dfcfe5134a500c1c32c40f64b1c_s.jpg"
+  },
+  {
+   "name": "ALAMINUTA DE FRANGO P/ 3 PESSOAS",
+   "category": "ALAMINUTAS",
+   "desc": "Bife de frango, arroz, ovo, feijão, batata frita e salada",
+   "price": 95,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ALAMINUTA_DE_FRANGO_P_2_PESSOAS-ed44ed446871ef4b54e968bb65a50449_s.jpg"
+  },
+  {
+   "name": "BAURU DE FILÉ MIGNON P/ 1 PESSOA",
+   "category": "BAURUS",
+   "desc": "Bife de filé mignon, presunto, queijo, molho de tomate, salada, arroz e fritas",
+   "price": 65,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BAURU_DE_FILE_MIGNON_P_1_PESSOA-70ad0ac8112396cacef6e0660e6c1dfb_s.jpg"
+  },
+  {
+   "name": "BAURU DE FILÉ MIGNON P/ 2 PESSOAS",
+   "category": "BAURUS",
+   "desc": "Bife de filé mignon, presunto, queijo, molho de tomate, salada, arroz e fritas",
+   "price": 125,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BAURU_DE_FILE_MIGNON_P_2_PESSOAS-2b5f5057d7085317784592be1c3b0a44_s.jpg"
+  },
+  {
+   "name": "BAURU DE FILÉ MIGNON P/ 3 PESSOAS",
+   "category": "BAURUS",
+   "desc": "Bife de gado, presunto, queijo, molho de tomate, salada, arroz e fritas",
+   "price": 145,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BAURU_DE_FILE_MIGNON_P_3_PESSOAS-9cf58777fd5e73152e10e23a2fd62ee3_s.jpg"
+  },
+  {
+   "name": "BAURU P/ 1 PESSOAS",
+   "category": "BAURUS",
+   "desc": "Bife de gado, presunto, queijo, molho de tomate, salada, arroz e fritas",
+   "price": 50,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BAURU_P_1_PESSOAS-813ff7ccf20dec4cbe8c13094735fb27_s.jpg"
+  },
+  {
+   "name": "BAURU P/ 2 PESSOAS",
+   "category": "BAURUS",
+   "desc": "Bife de gado, presunto, queijo, molho de tomate, salada, arroz e fritas",
+   "price": 95,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BAURU_P_2_PESSOAS-3e4148c02edc32efc2733c8125f3d2d5_s.jpg"
+  },
+  {
+   "name": "BAURU P/ 3 PESSOAS",
+   "category": "BAURUS",
+   "desc": "Bife de gado, presunto, queijo, molho de tomate, arroz, fritas, salada",
+   "price": 115,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BAURU_P_3_PESSOAS-a0be3e132890019090f2d0a7c13e70ca_s.jpg"
+  },
+  {
+   "name": "CESTO MIX 2PESSOAS",
+   "category": "PRATOS ESPECIAIS",
+   "desc": "Fritas, polenta, queijo frito e anéis de cebola",
+   "price": 60,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CESTO_MIX_2PESSOAS-413d3f6a93b411de0482a24a2e0d37ae_s.jpg"
+  },
+  {
+   "name": "BIFE ACEBOLADO",
+   "category": "PRATOS ESPECIAIS",
+   "desc": "Bife de gado, arroz, cebola, ovo, batata palha, salada",
+   "price": 35,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BIFE_ACEBOLADO-125ef5a531be0cd6b2aef0a8b9ba1845_s.jpg"
+  },
+  {
+   "name": "BIFE COM POLENTA",
+   "category": "PRATOS ESPECIAIS",
+   "desc": "Bife de gado, arroz, polenta brustolada com queijo, ovo, salada",
+   "price": 35,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/BIFE_COM_POLENTA-0bf067fe732d77c4fbe09170fa71c689_s.jpg"
+  },
+  {
+   "name": "PRATO MODA DA CASA - STROGONOFF DE FRANGO",
+   "category": "PRATOS ESPECIAIS",
+   "desc": "Strogonoff de frango, arroz, batata palha, salada",
+   "price": 35,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PRATO_MODA_DA_CASA_STROGONOFF_DE_FRANGO-3c480f899964f9d9a9344e256e3606ad_s.jpg"
+  },
+  {
+   "name": "PRATO MODA DA CASA - STROGONOFF DE GADO",
+   "category": "PRATOS ESPECIAIS",
+   "desc": "Strogonoff de gado, arroz, batata palha, salada",
+   "price": 35,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PRATO_MODA_DA_CASA_STROGONOFF_DE_GADO-27ca6f9046981a19236eb90171a05986_s.jpg"
+  },
+  {
+   "name": "SOPA AGNOLI",
+   "category": "PRATOS ESPECIAIS",
+   "desc": "",
+   "price": 15.99,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/SOPA_AGNOLI-044d8feac92d8d0ce981f8bc4bd5060b_s.jpg"
+  },
+  {
+   "name": "PRATO FEITO ( de Seg. À Sex )",
+   "category": "PRATOS ESPECIAIS",
+   "desc": "Arroz, feijão, frango, ovo, salada",
+   "price": 23,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/PRATO_FEITO_de_Seg_A_Sex-8869baf6a2ae427e55175efe5a96e741_s.jpg"
+  },
+  {
+   "name": "REFRI LATA",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 6,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/REFRI_LATA-5659a77cdc7e56eec5edc028d3666be8_s.jpg"
+  },
+  {
+   "name": "REFRIGERANTES E ÁGUAS",
+   "category": "BEBIDAS",
+   "desc": "600ml, 1L, 2L...",
+   "price": 5,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/REFRIGERANTES_E_AGUAS-fde114003a9a37303f960c7cd2e752ec_s.jpg"
+  },
+  {
+   "name": "ENERGÉTICO",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 10,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ENERGETICO-3243a59ebac284ef3a767b3f682aed12_s.jpg"
+  },
+  {
+   "name": "CAÇULINHA (SUCO 250ml)",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 4,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CACULINHA_SUCO_250ml-72de88ff04d4305125a4ec173b53983a_s.jpg"
+  },
+  {
+   "name": "CAÇULINHA (REFRI 200ml)",
+   "category": "BEBIDAS",
+   "desc": "Escolha sua preferência!",
+   "price": 4,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CACULINHA_REFRI_200ml-25927eeb81366ae4cdea3d92b054858e_s.jpg"
+  },
+  {
+   "name": "DOSES",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 3,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/DOSES-ccc920e895150117609964c29696d5e7_s.png"
+  },
+  {
+   "name": "SUCOS",
+   "category": "BEBIDAS",
+   "desc": "DEL VALLE, etc...",
+   "price": 8,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/SUCOS-febb7b6721ef8130408090c67318f7ed_s.png"
+  },
+  {
+   "name": "ks",
+   "category": "BEBIDAS",
+   "desc": "ks coca",
+   "price": 4,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "cassulinha",
+   "category": "BEBIDAS",
+   "desc": "250ml",
+   "price": 4,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "cerveja lata ",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 6,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "cerveja latão",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 7,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "suco del vale",
+   "category": "BEBIDAS",
+   "desc": "suco laranja e uva",
+   "price": 8,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "long neck",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 9,
+   "store": "bobburguer-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "LONG NECK",
+   "category": "CERVEJAS",
+   "desc": "Escolha sua preferência!",
+   "price": 9,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/LONG_NECK-e5b2e538f9f8c9895f5402e9bcd7d3fa_s.jpg"
+  },
+  {
+   "name": "CERVEJAS",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 8,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/CERVEJAS-ef22d5d62131351106582cd1699c52ed_s.jpg"
+  },
+  {
+   "name": "ACRESCENTE",
+   "category": "ACRESCENTE",
+   "desc": "Acrescente ao seu pedido!",
+   "price": 2,
+   "store": "bobburguer-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/3623/produtos/ACRESCENTE-322c9c1c4686ce7d33d9781045d0cd04_s.png"
+  }
+ ]
+}

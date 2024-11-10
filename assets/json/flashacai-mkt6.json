@@ -1,0 +1,185 @@
+{
+    "id": "flashacai-mkt6",
+    "nome": "Flash Açaí",
+    "category": "Açaí e Sorvete",
+    "deliveryTime": "",
+    "logo": "",
+    "products": [
+        {
+            "name": "CASCÃO",
+            "category": "Cascão",
+            "desc": "Selecione 1 calda",
+            "price": 8,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/ACAI_CASCAO-d0ccde5c906f577b61040333dc3b1197_s.jfif"
+        },
+        {
+            "name": "Cascão",
+            "category": "Cascão",
+            "desc": "",
+            "price": 8,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/Cascao-be7c5dfe629fc12131894b6a0dab320a_s.jfif"
+        },
+        {
+            "name": "Adicionais Pagos",
+            "category": "Copos",
+            "desc": "",
+            "price": 3,
+            "store": "flashacai-mkt6",
+            "img_url": ""
+        },
+        {
+            "name": "COPO - 300ml",
+            "category": "Copos",
+            "desc": "Selecione 3 adicionais + 1 calda",
+            "price": 17,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/COPO_300ml-fe2502a6dbcb88699f42235ce21c5aa0_s.png"
+        },
+        {
+            "name": "COPO - 500ml",
+            "category": "Copos",
+            "desc": "Selecione 5 adicionais + 1 calda",
+            "price": 24,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/COPO_500ml-efb5bc9992586d2484571ffe2faf7b5d_s.png"
+        },
+        {
+            "name": "COPO - 750ml",
+            "category": "Copos",
+            "desc": "Selecione 7 adicionais + 1 calda",
+            "price": 35,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/COPO_750ml-6c1083889ec51c4cab7cc1c8f38a6e14_s.png"
+        },
+        {
+            "name": "AÇAÍ POTE - 240ml",
+            "category": "Potes",
+            "desc": "",
+            "price": 10,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/ACAI_POTE_240ml-27d7b767d98e7f200c57daade35b8ce8_s.png"
+        },
+        {
+            "name": "AÇAÍ POTE - 590ml",
+            "category": "Potes",
+            "desc": "",
+            "price": 16,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/ACAI_POTE_590ml-aadbb7a88dea8d606a0086e53fde9f94_s.png"
+        },
+        {
+            "name": "pote 1L cupuaçu",
+            "category": "Potes",
+            "desc": "",
+            "price": 26,
+            "store": "flashacai-mkt6",
+            "img_url": ""
+        },
+        {
+            "name": "AÇAÍ POTE - 1 Litro",
+            "category": "Potes",
+            "desc": "",
+            "price": 26,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/ACAI_POTE_1_Litro-de1eb123776bcc56a1a0d136f7201041_s.png"
+        },
+        {
+            "name": "pote 2,1 cupuaçu ",
+            "category": "Potes",
+            "desc": "",
+            "price": 41,
+            "store": "flashacai-mkt6",
+            "img_url": ""
+        },
+        {
+            "name": "AÇAÍ POTE - 2,1 Litros",
+            "category": "Potes",
+            "desc": "",
+            "price": 41,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/ACAI_POTE_2_1_Litros-87dd86141c62fed10f458703cf60b1d5_s.png"
+        },
+        {
+            "name": "Pote de açaí 3,6 litros",
+            "category": "Potes",
+            "desc": "",
+            "price": 65,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/Pote_de_acai_3_6_litros-5bf616e8d0adfbc44498ede5be4f87c9_s.jfif"
+        },
+        {
+            "name": "CUPUAÇU BALDE - 5 Litros",
+            "category": "Caixas",
+            "desc": "",
+            "price": 83,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/CUPUACU_BALDE_5_Litros-026c53ae2d4dc734d485ba26a865d0f7_s.jfif"
+        },
+        {
+            "name": "AÇAÍ CAIXA - 5 Litros",
+            "category": "Caixas",
+            "desc": "",
+            "price": 83,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/ACAI_CAIXA_5_Litros-3f1dedf5fbcb0de79666b99f7a8e9653_s.jfif"
+        },
+        {
+            "name": "AÇAÍ CAIXA - 10 Litros",
+            "category": "Caixas",
+            "desc": "",
+            "price": 160,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/ACAI_CAIXA_10_Litros-ce1302102496c01c920af24079225f26_s.jfif"
+        },
+        {
+            "name": "POLPAS VAREJO - 1kg",
+            "category": "Polpas",
+            "desc": "Clique e veja as opções",
+            "price": 20,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/POLPA_1kg-8a865f23d39998a9a28449c8ae0a60d3_s.png"
+        },
+        {
+            "name": "Potes de Sorvete - 1,5 Litros",
+            "category": "Potes de sorvete",
+            "desc": "Clique e veja os sabores",
+            "price": 24.9,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/Potes_de_Sorvete_1_5_Litros-c3a7b8b5ffbbbaf708537b7db28b04d0_s.png"
+        },
+        {
+            "name": "Twist - 1,5 Litros",
+            "category": "Potes de sorvete",
+            "desc": "Clique e veja as opções",
+            "price": 27.9,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/Twist_1_5_Litros-89c25ebcfdb7512c30e4f6e121d031e0_s.png"
+        },
+        {
+            "name": "Refrigerantes ",
+            "category": "Bebidas",
+            "desc": "Clique e veja as opções",
+            "price": 4,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/Refrigerantes-7a2eeaac6a7ffa5303ac867a5152f350_s.jpg"
+        },
+        {
+            "name": "Sucos Caixa - 200ml",
+            "category": "Bebidas",
+            "desc": "Clique e veja as opções",
+            "price": 3,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/Sucos_Caixa_200ml-b8e06dfee31a9e75f3a96cded2126253_s.jpg"
+        },
+        {
+            "name": "Águas",
+            "category": "Bebidas",
+            "desc": "Clique e veja as opções",
+            "price": 3,
+            "store": "flashacai-mkt6",
+            "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2239/produtos/Aguas-e7055484e7e432999520778a7281c235_s.jpg"
+        }
+    ]
+}

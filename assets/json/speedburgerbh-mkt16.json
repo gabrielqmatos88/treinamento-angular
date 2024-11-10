@@ -1,0 +1,449 @@
+{
+ "id": "speedburgerbh-mkt16",
+ "nome": "SPEED BURGER BH",
+ "category": "Lanches e Burger, Pizzaria",
+ "deliveryTime": "60 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/logo/speed-burguer-1623440644-85ca4ddc228b80d103c3c2513ee576c3_n.jpg",
+ "products": [
+  {
+   "name": "PROMOÇÃO 01",
+   "category": "PROMOÇÃO",
+   "desc": "2 X-TUDO+ REFRI 1 LITRO",
+   "price": 48,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/PROMOCAO_02-885226a45dc832bfd8e89433e575c57d_s.jpg"
+  },
+  {
+   "name": "PROMOÇÃO 02",
+   "category": "PROMOÇÃO",
+   "desc": "3 X-TUDO+ Kut 2 LITROS",
+   "price": 71.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/PROMOCAO_03-0558aa1a9a62b4ffdc686b9db78cfe70_s.jpg"
+  },
+  {
+   "name": "PROMOCAO 3",
+   "category": "PROMOÇÃO",
+   "desc": "4 X EGG BACON + kuat 2 litros\nPAO, HAMBURGUER 90G , BACON, OVO, MUSSARELA, BATATA PALHA, SALADA  E MOLHO",
+   "price": 82.6,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/PROMOCAO_3-89180b78715bae898abbe80517804c73_s.jpg"
+  },
+  {
+   "name": "PROMOÇÃO 04",
+   "category": "PROMOÇÃO",
+   "desc": "2 X-EGG BACON+ REFRI 1 LITRO",
+   "price": 42.8,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/PROMOCAO_04-76a6001d947f3f58cb96ac5ef4e41225_s.jpg"
+  },
+  {
+   "name": "COMBO KIDS",
+   "category": "COMBOS",
+   "desc": "PÃO, HAMBÚRGUER 56 gr, MUSSARELA, BATATA PALHA E MOLHO ROSÉ + BATATA MINI + KAPO",
+   "price": 18,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/COMBO_KIDS-b500a1d097c6493ac5da251fe1ddf293_s.jpg"
+  },
+  {
+   "name": "COMBO 01",
+   "category": "COMBOS",
+   "desc": "1 X-TUDO+ MINI FRTAS+ REFRI MINI",
+   "price": 25,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/COMBO_01-4f7e95d7046d0c118addd6d3ff9545fd_s.jpg"
+  },
+  {
+   "name": "COMBO 02",
+   "category": "COMBOS",
+   "desc": "1 X-PICANHA ESPECIAL+ MINI FRITAS+ REFRI MINI",
+   "price": 26.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/COMBO_02-ba2823c599288afb121b084329c9fb25_s.jpg"
+  },
+  {
+   "name": "MISTO QUENTE",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão de forma, fatias de presunto e fatias de muçarela.",
+   "price": 8,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/MISTO_QUENTE-dae92a9cfe6034cbdf5b1f72b58dd7a9_s.jpg"
+  },
+  {
+   "name": "MISTÃO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão de forma,presunto, mussarela, frango desfiado, milho e salada",
+   "price": 14,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/MISTAO-10eb2578c6c4d9325f961fbda1ae79ae_s.jpg"
+  },
+  {
+   "name": "AMERICANO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão de forma, ovo, mussarela, presunto e salada",
+   "price": 11,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/AMERICANO-42be10753b93e5bb2632b25a0712272f_s.jpg"
+  },
+  {
+   "name": " HAMBÚRGUER KIDS",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "PÃO, HAMBÚRGUER 56 gr, MUSSARELA, BATATA PALHA E MOLHO ROSÉ",
+   "price": 13,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/HAMBURGUER_KIDS-85f3143353e480d2744d447a7573f8ad_s.jpg"
+  },
+  {
+   "name": "HAMBÚRGUER ",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, salada, molho rosê e batata palha.",
+   "price": 11.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/HAMBURGUER-91065b444d91f11d55b25c5e8776819a_s.jpg"
+  },
+  {
+   "name": "X-BURGER ",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, muçarela, salada, molho rosê e batata palha.",
+   "price": 14.2,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/X_BURGER-4796e6b04f5b006f4bd3bd89a641183e_s.jpg"
+  },
+  {
+   "name": "X-BACON",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, muçarela, bacon, salada, molho rosê e batata palha.",
+   "price": 17,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+   "name": "X-EGG ",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, muçarela, ovo, salada, molho rosê e batata palha.",
+   "price": 17,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/X_EGG-20c71c58ca03e016fb8428a19115b484_s.jpg"
+  },
+  {
+   "name": "X-EGG BACON",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, bacon, muçarela, ovo, salada, molho rosê e batata palha.",
+   "price": 18.9,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/X_EGG_BACON-ff51ebcc77558f4d30fcd38e93cc2ebf_s.jpg"
+  },
+  {
+   "name": "LAÇADOR",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, muçarela, bacon, milho, salada, molho rosê e batata palha.",
+   "price": 18.9,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/LANCADOR-66836fabdcd2384279411b439a51d1f4_s.jpg"
+  },
+  {
+   "name": "TROPICAL",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, muçarela, presunto, bacon, abacaxi, salada, molho rosê e batata palha.",
+   "price": 18.9,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/TROPICAL-02fedfd864a5377313409d965c03913a_s.jpg"
+  },
+  {
+   "name": "X-SALADA",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, muçarela, bacon, ovo, milho, salada, molho rosê e batata palha.",
+   "price": 19.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/X_SALADA-db17590ed867b8128c4ce4a6d9fbaa25_s.jpg"
+  },
+  {
+   "name": "BIG SALADA",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, dois hambúrguer 90g, muçarela, presunto, milho, salada, molho rosê e batata palha.",
+   "price": 21,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/BIG_SALADA-745110cac8a988f11be0e89552659502_s.jpg"
+  },
+  {
+   "name": "CREAM BURGUER",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, bacon, catupiry, milho, salada, molho rosê e batata palha.",
+   "price": 21.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/CREAM_BURGUER-2ceaa52d6810c5a923262767ea31f8eb_s.jpg"
+  },
+  {
+   "name": "X-TUDO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, bacon, ovo, presunto, muçarela, milho, salada, molho rosê e batata palha.",
+   "price": 21.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/X_TUDO-922300be1780267b79341ec648941e27_s.jpeg"
+  },
+  {
+   "name": "SPEED BURGUER",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, bacon, ovo, frango desfiado, presunto, muçarela, milho, salada, molho rosê e batata palha.",
+   "price": 23.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/SPEED_BURGUER-855eb6cd757e687555b683283f0bdf9f_s.jpg"
+  },
+  {
+   "name": "SPEEDÃO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer 90g, bacon, ovo, frango desfiado, catupiry, presunto, muçarela, milho, salada, molho rosê e batata palha.",
+   "price": 24.7,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/SPEEDAO-48a7897dda5404e379bec6c38fad8199_s.jpg"
+  },
+  {
+   "name": "MONTANHA",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, 2 hambúrgueres 90g, bacon,2 ovos, mussarela, presunto,abacaxi,milho, batata palha, salada e molho rose",
+   "price": 25.8,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/MONTANHA-f63aa8667e616fcb8ded5799e7fb2290_s.jpg"
+  },
+  {
+   "name": "ZIM",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, 2 hambúrguer 90g, bacon, dois ovos, frango desfiado, catupiry, presunto, muçarela, milho, salada, molho rosê e batata palha.",
+   "price": 28.75,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/ZIM-62fa2ef02009e8cade285266d9763170_s.jpg"
+  },
+  {
+   "name": "CABULOSO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer de picanha 120g, duas muçarela, duas porções de bacon, ovo, catupiry, milho, salada, molho rosê e batata palha.",
+   "price": 28.75,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/CABULOSO-ebbbf3eaaf941cec78548c1dc60eb843_s.jpg"
+  },
+  {
+   "name": "IMPERIAL",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, 2 hambúrguer de picanha120g, quatro muçarela, bacon, salada e molho barbecue.",
+   "price": 24.7,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/IMPERIAL-eb5838a5384d0c9759a70814dbb596d8_s.jpg"
+  },
+  {
+   "name": "X-PICANHA ESPECIAL",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão. hambúrguer de picanha 120g, cebola, bacon, catupiry, salada, molho rosê e batata palha.",
+   "price": 22.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/X_PICANHA_ESPECIAL-45162f473ccae878efd95cf665f58bc2_s.jpg"
+  },
+  {
+   "name": "X-PICANHA",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer de picanha 120g, duas porções de bacon, duas muçarela, milho, salada, molha rosê e batata palha.",
+   "price": 23.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/X_PICANHA-aff9a0ec2f05c8c8d8b86aed148e7835_s.jpeg"
+  },
+  {
+   "name": "X TUDO ESPECIAL",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, hambúrguer picanha 120g, mussarela, presunto, ovo, bacon, milho,abacaxi , batata palha , salada e molho rose",
+   "price": 25,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/X_TUDO_ESPECIAL-12eb1b7769d2ad0b92facedb1923985c_s.jpg"
+  },
+  {
+   "name": "FRANGO À CATUPIRY",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, frango desfiado, bacon, catupiry e milho, salada, molho rosê e batata palha.",
+   "price": 21.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/FRANGO_A_CATUPIRY-f18b49257ea773b8d3a029195cb962d7_s.jpg"
+  },
+  {
+   "name": "X-FRANGUINHO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, frango desfiado, muçarela, ovo, milho, salada e molho rosê\n.",
+   "price": 17.8,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/X_FRANGUINHO-f0d35393097564103578d8b11d6e208d_s.jpg"
+  },
+  {
+   "name": "X-FRANGÃO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, frango desfiado, muçarela, bacon, milho, salada, molho rosê e batata palha.",
+   "price": 18.4,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/X_FRANGAO-a4cc261787a3ad8e47449c148517817f_s.jpg"
+  },
+  {
+   "name": "FRANGO À MODA",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, frango desfiado, catupiry, uva passas, salada, molho rosê e batata palha.",
+   "price": 18.4,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/FRANGO_A_MODA-1c2bacd1d08971f620cf664306ff0ed4_s.jpeg"
+  },
+  {
+   "name": "VEGETARIANO",
+   "category": "SANDUICHES TRADICIONAIS",
+   "desc": "Pão, ovo, muçarela, catupiry, milho, uva passas, salada, molho rosê e batata palha.",
+   "price": 17.2,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/VEGETARIANO-8f4d0e3958767d5affec206dd286a9f5_s.jpg"
+  },
+  {
+   "name": "GRAND BACON GOURMET",
+   "category": "ARTESANAIS",
+   "desc": "Pão americano, hambúrguer artesanal 140g, 100g de bacon, queijo cheddar, alface americano, tomate, molho barbecue e fritas. Acompanha refrigerante mini.",
+   "price": 29,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/GRAND_BACON_GOURMET-47e726e637a747d648bb22229c8836a2_s.jpeg"
+  },
+  {
+   "name": "GRAND BACON DUPLO",
+   "category": "ARTESANAIS",
+   "desc": "Pão americano, 2 hambúrgueres artesanais 140g, 200g de bacon, queijo cheddar, alface americano, tomate, molho barbecue e fritas. Acompanha refrigerante mini.",
+   "price": 40,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/GRAND_BACON_DUPLO-7455a93e5dfbd4097e37ce58740f0eaa_s.jpg"
+  },
+  {
+   "name": "GRAND BACON TRIPLO",
+   "category": "ARTESANAIS",
+   "desc": "Pão americano, 3 hambúrgueres artesanais 140g, 300g de bacon, queijo cheddar, alface americano, tomate, molho barbecue e fritas. Acompanha refrigerante mini.",
+   "price": 48,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/GRAND_BACON_TRIPLO-e1c51d91d48e78412aee02cd410cfd42_s.jpeg"
+  },
+  {
+   "name": "AÇAÍ - ESCOLHA ATÉ 2 ADICIONAIS GRATUITO.",
+   "category": "AÇAÍ",
+   "desc": "ESCOLHA O TAMANHO.",
+   "price": 13,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/ACAI_ESCOLHA_ATE_2_ADICIONAIS_GRATUITO-62a1cda2a7bc9b326216fa925be1f765_s.jpeg"
+  },
+  {
+   "name": "trufa maracuja",
+   "category": "SOBREMESA",
+   "desc": "",
+   "price": 4,
+   "store": "speedburgerbh-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "TRUFA DE COCO",
+   "category": "SOBREMESA",
+   "desc": "",
+   "price": 4,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/TRUFA_DE_COCO-d8e5c58261b2cd64289f93f28b3ea75c_s.jpg"
+  },
+  {
+   "name": "trufa oreo",
+   "category": "SOBREMESA",
+   "desc": "",
+   "price": 4.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "MACARRÃO NA CHAPA 01",
+   "category": "PORÇÕES",
+   "desc": "Macarrão, presunto, bacon, muçarela, cebola, pimentão, molho shoyo e molho de alho.",
+   "price": 13,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/MACARRAO_NA_CHAPA_01-6cc819ab0a579a7472f807efd3cc3482_s.jpeg"
+  },
+  {
+   "name": "MACARRÃO NA CHAPA 02",
+   "category": "PORÇÕES",
+   "desc": "Macarrão, frango, bacon, muçarela, cebola, pimentão, molho shoyo e molho de alho.",
+   "price": 13,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/MACARRAO_NA_CHAPA_02-e4435f5af6f3db9f2d41701a4c6ea6f2_s.jpg"
+  },
+  {
+   "name": "OMELETÃO",
+   "category": "PORÇÕES",
+   "desc": "Ovos, bacon, frango, catupiry, fatias de presunto, fatias de muçarela, milho, batata palha e orégano.",
+   "price": 19.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/OMELETAO-4e8c7a15555e65c061f2a00de66231b8_s.jpeg"
+  },
+  {
+   "name": "FRITAS C/ BACON E MUSSARELA PEQUENA",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 25,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/FRITAS_C_BACON_E_MUSSARELA_PEQUENA-c771d9739cc708e01a1d18eb0534cc43_s.jpg"
+  },
+  {
+   "name": "FRITAS C/ BACON E MUSSARELA GRANDE",
+   "category": "PORÇÕES",
+   "desc": "",
+   "price": 40,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/FRITAS_C_BACON_E_MUSSARELA_GRANDE-cf339a9efc1559ea9145f851bc3df837_s.jpeg"
+  },
+  {
+   "name": "MINI FRITAS",
+   "category": "PORÇÕES",
+   "desc": "Nao entregamos somente batata mini.",
+   "price": 5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2003/produtos/BATATA_FRITA-36732a1162b1f69a078316a3e8639784_s.jpg"
+  },
+  {
+   "name": "CERVEJAS LATÃO",
+   "category": "CERVEJAS",
+   "desc": "Escolha sua bebida!",
+   "price": 6.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/CERVEJAS_LATAO-7bf7c429ecf3e3331ec869aef73adfc9_s.jpg"
+  },
+  {
+   "name": "heineken ",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 12,
+   "store": "speedburgerbh-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "REFRIGERANTES",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 2.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/REFRIGERANTES-438e7ead1d7a3a5be9ff4dd1134eccc6_s.jpg"
+  },
+  {
+   "name": "SUCOS LATA",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 5.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/SUCOS_LATA-b6b4d916b67a91447a8c72a6d79bb3f1_s.jpg"
+  },
+  {
+   "name": "ÁGUA MINERAL",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 2.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/AGUA_MINERAL-9ebf215e0e618d719a1fb9dd39292405_s.jpg"
+  },
+  {
+   "name": "ÁGUA MINERAL COM GÁS",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 3.5,
+   "store": "speedburgerbh-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2071/produtos/AGUA_MINERAL_COM_GAS-dff8b2022c1458e59b22d6386ea1e1d4_s.jpg"
+  }
+ ]
+}

@@ -1,0 +1,449 @@
+{
+ "id": "quiosque-mkt16",
+ "nome": "QUIOSQUE DO AÇAÍ & PARRILA",
+ "category": "Açaí e Sorvete",
+ "deliveryTime": "30 min",
+ "logo": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas//logo/QUIOSQUE_DO_ACAI_CIA-245a7f6fc6e9cc7de3d1984e9de5041e_n.jpg",
+ "products": [
+  {
+   "name": "COPO SNICKERS 330 ml",
+   "category": "LANÇAMENTO",
+   "desc": "Calda de caramelo, creme de amendoim, leite em pó, amendoim, snicker",
+   "price": 20,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPA_SNICKERS-3fab3754f5d9f6d95c15536f35ccdd17_s.jpeg"
+  },
+  {
+   "name": "COPO KINDER BUENO (330ml)",
+   "category": "LANÇAMENTO",
+   "desc": "Leite condensado, leite em pó, creme kinder Bueno, chocolate kinder",
+   "price": 22,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPO_KINDER_BUENO_330ml-d493e8642d505bf1af1842bd801a30cd_s.jpeg"
+  },
+  {
+   "name": "LAKA COM MORANGOS 330ml",
+   "category": "LANÇAMENTO",
+   "desc": "",
+   "price": 22,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/LAKA_COM_MORANGOS_330ml-a434ff21a965264663701d22d4161bed_s.jpeg"
+  },
+  {
+   "name": "Copo Fini Dentaduras",
+   "category": "LANÇAMENTO",
+   "desc": "copo de açaí com creme e calda personalizados da bala fini dentadura, acompanha leite em pó.\n300ml",
+   "price": 25,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/Copo_Fini_Dentaduras-7d54a0d8ec13723ea11f93ff63c19678_s.jpeg"
+  },
+  {
+   "name": "Copo Fini Beijinho",
+   "category": "LANÇAMENTO",
+   "desc": "copo de açaí com creme e calda personalizados da bala fini beijinho, acompanha leite em pó.\n300ml",
+   "price": 25,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/Copo_Fini_Beijinho-63e5c0aeb5bbad519790f405a8fc97c2_s.jpeg"
+  },
+  {
+   "name": "Copo Fini Bananas",
+   "category": "LANÇAMENTO",
+   "desc": "copo de açaí com creme e calda personalizados de bala fini bananas, acompanha leite em pó.\n300ml",
+   "price": 25,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/Copo_Fini_Bananas-0157f58f49e2c5a7e5d13124f52ee487_s.jpeg"
+  },
+  {
+   "name": "COPO 330ml",
+   "category": "AÇAÍ PURO",
+   "desc": "330ml, açaí puro.",
+   "price": 17,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPO_330ml-2f108481be75299dfdb0cdf5eb5320e0_s.jpg"
+  },
+  {
+   "name": "COPO 440ml",
+   "category": "AÇAÍ PURO",
+   "desc": "440ml, açaí puro.",
+   "price": 20,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPO_440ml-3f3c7e1f502118fc52fa8bc7a723a991_s.jpg"
+  },
+  {
+   "name": "COPO 550ml",
+   "category": "AÇAÍ PURO",
+   "desc": "550ml, açaí puro.",
+   "price": 23,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPO_550ml-0dfec6c36c23e7f72ac13723665742c1_s.jpg"
+  },
+  {
+   "name": "COPO 330ml",
+   "category": "AÇAÍ",
+   "desc": "330ml, até 3 adicionais.",
+   "price": 14,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPO_330ml-cdb13ba46d4d17feaa40bbba6e49728f_s.jpg"
+  },
+  {
+   "name": "COPO 440ml",
+   "category": "AÇAÍ",
+   "desc": "440ml, até 4 adicionais gratuitos.",
+   "price": 17,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPO_440ml-b1dc60fac3389810dd1de7449324f0ba_s.jpg"
+  },
+  {
+   "name": "COPO 550ml",
+   "category": "AÇAÍ",
+   "desc": "550ml, até 5 adicionais gratuitos.",
+   "price": 19,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COPO_550ml-d27290758db186aa78546a7abe957a20_s.jpg"
+  },
+  {
+   "name": "MILKSHAKE 550ml",
+   "category": "MILKSHAKE",
+   "desc": "Escolha sua preferência!",
+   "price": 17,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/MILKSHAKE_550ml-1a9b6777a77174fab9d4c29473901562_s.jpg"
+  },
+  {
+   "name": "BARCA",
+   "category": "BARCA",
+   "desc": "5 adicionais gratuitos! Serve de 2 à 3 pessoas.",
+   "price": 35,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BARCA-753bd339616deab59d19093c9f8568e5_s.jpg"
+  },
+  {
+   "name": "COXINHAS 7unid",
+   "category": "SALGADOS",
+   "desc": "",
+   "price": 8.9,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COXINHAS_7unid-6036efb136f6a21e72e3263d7af93079_s.jpg"
+  },
+  {
+   "name": "BURGUER",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, hambúrguer, queijo, alface, tomate",
+   "price": 20,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER-dac36b6a4d0102e36ea1fab5071f7795_s.jpg"
+  },
+  {
+   "name": "BURGUER BACON",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "",
+   "price": 28,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_BACON-18721a0a10e674bde2b7fe9b6511856e_s.jpg"
+  },
+  {
+   "name": "BURGUER DUPLO",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, 2 hambúrguer, 2 queijo, alface, tomate",
+   "price": 28,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_DUPLO-c9c155fbffd230e6ccb140ec75d7579d_s.jpg"
+  },
+  {
+   "name": "BURGUER DORITOS",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, hambúrguer, queijo, doritos, molho cremoso, cheddar, alface, tomate",
+   "price": 28,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_DORITOS-9d8c2eff28238ff5a2aa4bed1d0c5eeb_s.jpg"
+  },
+  {
+   "name": "BURGUER CHEDDAR & BACON",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, queijo cheddar, bacon, picles, molho cremoso cheddar, alface, tomate",
+   "price": 28,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_CHEDDAR_BACON-1a8597cb2dd29aa717888a7795078f8d_s.jpg"
+  },
+  {
+   "name": "HAMBÚRGUER PARRILLA",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, maionese especial, Hambúrguer de costela, Bacon, cheddar, rúcula.",
+   "price": 30,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/HAMBURGUER_PARRILLA-bf26284b1a2689187d9becebeac96480_s.jpeg"
+  },
+  {
+   "name": "BURGUER COSTELA DEFUMADA",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, hambúrguer, costela defumada, queijo, cebola roxa, alface, tomate",
+   "price": 30,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_COSTELA_DEFUMADA-cbf0287d83fe05e0b25c2bf4c165ef2f_s.jpg"
+  },
+  {
+   "name": "BURGUER QUEIJO",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, molho de 4 queijos, hambúrguer, queijo à milanesa, alface, tomate",
+   "price": 30,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_QUEIJO-33372ffe02bad47b7e52a3071f2fa8e5_s.jpg"
+  },
+  {
+   "name": "BURGUER ONIONS RINGS",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, hambúrguer, queijo, molho cremoso de cheddar, onions rings, alface, tomate",
+   "price": 30,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_ONIONS_RINGS-bad16b0b4b0ba92e9edb22b94331ee88_s.jpg"
+  },
+  {
+   "name": "BURGUER COSTELA AO MOLHO BARBECUE",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, molho, hambúrguer, costela defumada ao molho barbecue, cebola caramelizada, queijo cheddar, alface, tomate",
+   "price": 32,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_COSTELA_AO_MOLHO_BARBECUE-48b21b5dc5a1bc770c72f39e1fb07f82_s.jpg"
+  },
+  {
+   "name": " HAMBÚRGUER PARRILLA COM COALHO",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, maionese especial, hambúrguer de costela, Bacon, queijo coalho grelhado, rúcula.",
+   "price": 40,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/HAMBURGUER_PARRILLA_COM_COALHO-9ca864e04a1465f3df094f0f4749b898_s.jpeg"
+  },
+  {
+   "name": "HAMBÚRGUER PARRILLA DUPLO",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "Pão brioche, dois queijos, dois Bacon, dois cheddar, dois hambúrguer, rúcula e maionese especial.",
+   "price": 40,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/HAMBURGUER_PARRILLA_DUPLO-b7f5b9ba367c85b5ef1b173e9d313f67_s.jpeg"
+  },
+  {
+   "name": "COMBO BURGUER + AÇAÍ + COCA 220ml",
+   "category": "HAMBÚRGUER GOURMET\n              \n              ACOMPANHA FRITAS",
+   "desc": "1 Burguer bacon, copo 330 ml com tres adds (com banana leite em pó e leite condensado ou granola), coca lata 220ml",
+   "price": 45,
+   "store": "quiosque-mkt16",
+   "img_url": ""
+  },
+  {
+   "name": "BURGUER BRÓCOLIS",
+   "category": "HAMBÚRGUER GOURMET VEGETARIANO",
+   "desc": "Pão brioche, hambúrguer de proteína de soja, 2 queijos, molho 4 queijos, brócolis refogado na manteiga, alface, tomate)",
+   "price": 26,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BURGUER_BROCOLIS-6e6340a63fdc3070ff4aa5344ae56ab6_s.jpg"
+  },
+  {
+   "name": "FRITAS COM CHEDDAR E BACON",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "",
+   "price": 22,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/FRITAS_COM_BACON_CHEDDAR-867dc49f21538bddbdace315aada5311_s.jpeg"
+  },
+  {
+   "name": "POLENTA FRITA",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "",
+   "price": 12,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/POLENTA_FRITA-5dd3c9dcec390053b7b5160d17f2358e_s.jpeg"
+  },
+  {
+   "name": "QUEIJO À MILANESA",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "Escolha o tamanho",
+   "price": 34,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/QUEIJO_A_MILANESA-05c946c81dc79638ccbea59791366660_s.jpg"
+  },
+  {
+   "name": "ESPETINHO QUEIJO COALHO",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "",
+   "price": 12,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/ESPETINHO_QUEIJO_COALHO-ee5486fffe9b3f730138ba53f9025d89_s.jpeg"
+  },
+  {
+   "name": "BATATA FRITA 500g",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "",
+   "price": 28,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BATATA_FRITA_500g-09375adf33b866b41f0e187187ade4e8_s.jpg"
+  },
+  {
+   "name": "AIPIM FRITO",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "",
+   "price": 28,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/AIPIM_FRITO-ae9224e2ff3a70a5bdaf7e711a55fc42_s.jpeg"
+  },
+  {
+   "name": "FRANGO EMPANADO",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "Frango empanado com doritos , acompanha maionese de paprica  400g",
+   "price": 48,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/FRANGO_EMPANADO-813f615d9ba0949389e998964209e751_s.jpeg"
+  },
+  {
+   "name": "FRITAS COM CHEDDAR E COSTELA DESFIADA",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "500G",
+   "price": 48,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BATATA_FRITA_COM_CHEDDA_E_COSTELA_DESFIADA-1fb5cdc35c2a5be0cddccf77047955f4_s.jpeg"
+  },
+  {
+   "name": "VIOLINHA 500g",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "",
+   "price": 55,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/VIOLINHA-b70c2a3b6c9f70c0250cf6c180736374_s.jpg"
+  },
+  {
+   "name": "PORÇÃO QUEIJO COALHO GRELHADO",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "",
+   "price": 55,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/PORCAO_QUEIJO_COALHO_GRELHADO-a1b6af4ed88ef19deacbe3810b9868c4_s.jpeg"
+  },
+  {
+   "name": "BATATA PARRILLA 1KG",
+   "category": "PORÇÕES PETISCOS",
+   "desc": "Fritas, Bacon, cheddar, costela desfiada, 1KG",
+   "price": 78,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BATATA_PARRILLA-4dcb4e3f9da8b690870184d898a9641e_s.jpeg"
+  },
+  {
+   "name": "TORRE DE BATATA (STROGONOFF)",
+   "category": "TORRE DE BATATA",
+   "desc": "Escolha sua preferência!",
+   "price": 80,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/TORRE_DE_BATATA-efc2fb861b9e6480285ca9ff3dd55803_s.jpg"
+  },
+  {
+   "name": "TORRE DE BATATA (4 QUEIJOS)",
+   "category": "TORRE DE BATATA",
+   "desc": "Escolha sua preferência!",
+   "price": 80,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/TORRE_DE_BATATA_4_QUEIJOS-e0d029db29e84f8ea234d20a8f1f3ad3_s.jpg"
+  },
+  {
+   "name": "MISTO NA TÁBUA",
+   "category": "MISTO NA TÁBUA",
+   "desc": "Escolha sua preferência!",
+   "price": 90,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/MISTO_NA_TABUA-bca051902d4e73e7f238ba18c122c139_s.jpeg"
+  },
+  {
+   "name": "COMBO ISCAS DE PEIXE",
+   "category": "COMBO ISCAS DE PEIXE",
+   "desc": "Escolha o tamanho!",
+   "price": 62,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/COMBO_ISCAS_DE_PEIXE-2c802dee5a00022d9d58794cb684af5e_s.jpg"
+  },
+  {
+   "name": "BANANA PARRILA",
+   "category": "SOBREMESAS",
+   "desc": "Banana na Parrila caramelizada, sorvete de Creme e Doce de Leite",
+   "price": 22,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/BANANA_PARRILA-1e82f24011ce53588f9ae005c6ca6a5d_s.jpeg"
+  },
+  {
+   "name": "QUEIJO COALHO DOCE DE LEITE",
+   "category": "SOBREMESAS",
+   "desc": "Queijo coalho grelhado com Doce de Leite",
+   "price": 22,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/QUEIJO_COALHO_DOCE_DE_LEITE-b144f64d42aeff15af0759ec15a1ff08_s.jpg"
+  },
+  {
+   "name": "REFRIGERANTES 2L",
+   "category": "REFRIGERANTES",
+   "desc": "2L",
+   "price": 16,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/REFRIGERANTES_2L-d7159248d6dcbd3006983992ac98f646_s.jpg"
+  },
+  {
+   "name": "REFRIGERANTES",
+   "category": "REFRIGERANTES",
+   "desc": "LATA e 600ML",
+   "price": 6,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/REFRIGERANTES-6e93b5b94d49f47004db2a0ece481b53_s.jpg"
+  },
+  {
+   "name": "CERVEJAS",
+   "category": "CERVEJAS",
+   "desc": "",
+   "price": 9,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/CERVEJAS-903904e1e5b8d1ad940a9d518dad92f3_s.jpg"
+  },
+  {
+   "name": "CAIPIRAS",
+   "category": "BEBIDAS",
+   "desc": "Diversas opções!",
+   "price": 18,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/CAIPIRAS-7b4e5285f20f8d1b0539fb887deb7732_s.jpg"
+  },
+  {
+   "name": "ÁGUA COM GÁS",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 5,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/AGUA_COM_GAS-aa4a3d86f72b1cb1e2ac83d2f9af0724_s.jpg"
+  },
+  {
+   "name": "ÁGUA SEM GÁS",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 5,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/AGUA_SEM_GAS-ff2b6247fbf7f8e43b63652a07be37ee_s.jpg"
+  },
+  {
+   "name": "TÔNICA ",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 6,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/TONICA-0c82189f3166f4c465464a5bfef90382_s.jpg"
+  },
+  {
+   "name": "H2O 500ml",
+   "category": "BEBIDAS",
+   "desc": "",
+   "price": 7,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/H2O_500ml-1a451d6c8b8b3dac2f3ce861a75d1a08_s.jpg"
+  },
+  {
+   "name": "DRINKS",
+   "category": "DRINKS",
+   "desc": "Diversas opções!",
+   "price": 24,
+   "store": "quiosque-mkt16",
+   "img_url": "https://d1saa4b6bvq2pn.cloudfront.net/files/backend/empresas/2584/produtos/DRINKS-c3645b0495524786dc555d28e90a3288_s.jpg"
+  }
+ ]
+}
